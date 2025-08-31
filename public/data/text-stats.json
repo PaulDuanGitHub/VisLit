@@ -1,0 +1,2495 @@
+[
+  {
+    "title": "The History of Emily Montague",
+    "author": "Brooke, Frances",
+    "year": 1769,
+    "avg_sentence_length": 30.49242028227914,
+    "smog_index": 13.25647605505915,
+    "flesch_reading_ease": 53.964863234511185,
+    "text_standard": 13.0
+  },
+  {
+    "title": "The Tell-Tale: An original collection of moral and amusing stories",
+    "author": "Traill, Catharine Parr",
+    "year": 1823,
+    "avg_sentence_length": 23.511666666666667,
+    "smog_index": 10.053473233369212,
+    "flesch_reading_ease": 68.31058177559605,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Little Quaker; or, The triumph of virtue. A tale for the instruction of youth.",
+    "author": "Moodie, Susanna",
+    "year": 1827,
+    "avg_sentence_length": 23.76858108108108,
+    "smog_index": 11.665992448011682,
+    "flesch_reading_ease": 62.06575687884515,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Step-Brothers. A tale.",
+    "author": "Traill, Catharine Parr",
+    "year": 1828,
+    "avg_sentence_length": 26.61021897810219,
+    "smog_index": 11.938781190118792,
+    "flesch_reading_ease": 61.344785077581776,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Wacousta; or The Prophecy",
+    "author": "Richardson, John",
+    "year": 1832,
+    "avg_sentence_length": 31.979008746355685,
+    "smog_index": 15.0716946570608,
+    "flesch_reading_ease": 45.99853644846462,
+    "text_standard": 15.0
+  },
+  {
+    "title": "Wacousta; or The Prophecy",
+    "author": "Richardson, John",
+    "year": 1832,
+    "avg_sentence_length": 29.502843601895734,
+    "smog_index": 13.96970081797991,
+    "flesch_reading_ease": 52.878198666406405,
+    "text_standard": 16.0
+  },
+  {
+    "title": "Wacousta; or The Prophecy",
+    "author": "Richardson, John",
+    "year": 1832,
+    "avg_sentence_length": 31.05103884372177,
+    "smog_index": 14.599016067412869,
+    "flesch_reading_ease": 48.775684627690225,
+    "text_standard": 17.0
+  },
+  {
+    "title": "Wacousta; or The Prophecy",
+    "author": "Richardson, John",
+    "year": 1832,
+    "avg_sentence_length": 30.995342418492324,
+    "smog_index": 14.430737998647604,
+    "flesch_reading_ease": 49.765291781828694,
+    "text_standard": 17.0
+  },
+  {
+    "title": "The Clockmaker — or, the Sayings and Doings of Samuel Slick, of Slickville",
+    "author": "Haliburton, Thomas Chandler",
+    "year": 1836,
+    "avg_sentence_length": 26.736991150442478,
+    "smog_index": 9.879961738503418,
+    "flesch_reading_ease": 72.13134470411417,
+    "text_standard": 10.0
+  },
+  {
+    "title": "The Canadian Brothers; or, The Prophecy Fulfilled. A tale of the late American war.",
+    "author": "Richardson, John",
+    "year": 1840,
+    "avg_sentence_length": 32.83808724832215,
+    "smog_index": 15.080457192804506,
+    "flesch_reading_ease": 45.27081565290118,
+    "text_standard": 15.0
+  },
+  {
+    "title": "The Canadian Brothers; or, The Prophecy Fulfilled. A tale of the late American war.",
+    "author": "Richardson, John",
+    "year": 1840,
+    "avg_sentence_length": 32.3155462184874,
+    "smog_index": 14.497442169220214,
+    "flesch_reading_ease": 47.797454137402525,
+    "text_standard": 10.0
+  },
+  {
+    "title": "The Canadian Brothers; or, The Prophecy Fulfilled. A tale of the late American war.",
+    "author": "Richardson, John",
+    "year": 1840,
+    "avg_sentence_length": 32.73654756780026,
+    "smog_index": 14.741198301932378,
+    "flesch_reading_ease": 46.70851668860267,
+    "text_standard": 15.0
+  },
+  {
+    "title": "The Attaché; or, Sam Slick in England — Vol. 1",
+    "author": "Haliburton, Thomas Chandler",
+    "year": 1843,
+    "avg_sentence_length": 21.27737881508079,
+    "smog_index": 10.351363500269494,
+    "flesch_reading_ease": 72.08689740941368,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Attaché; or, Sam Slick in England — Vol. 2",
+    "author": "Haliburton, Thomas Chandler",
+    "year": 1844,
+    "avg_sentence_length": 20.487449392712552,
+    "smog_index": 9.752263878169181,
+    "flesch_reading_ease": 75.77971005444518,
+    "text_standard": 10.0
+  },
+  {
+    "title": "The Attaché; or, Sam Slick in England — Complete",
+    "author": "Haliburton, Thomas Chandler",
+    "year": 1844,
+    "avg_sentence_length": 20.72484689413823,
+    "smog_index": 9.788077515246346,
+    "flesch_reading_ease": 75.21143608980856,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Settlers in Canada",
+    "author": "Marryat, Frederick",
+    "year": 1844,
+    "avg_sentence_length": 22.321428571428573,
+    "smog_index": 10.41980074188293,
+    "flesch_reading_ease": 68.68097065934067,
+    "text_standard": 11.0
+  },
+  {
+    "title": "Hardscrabble; or, The Fall of Chicago. A Tale of Indian Warfare.",
+    "author": "Richardson, John",
+    "year": 1850,
+    "avg_sentence_length": 26.30134607034303,
+    "smog_index": 12.928165608950206,
+    "flesch_reading_ease": 56.929175341982926,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Canadian Crusoes",
+    "author": "Traill, Catharine Parr",
+    "year": 1852,
+    "avg_sentence_length": 31.92493496841323,
+    "smog_index": 12.181527314190753,
+    "flesch_reading_ease": 57.816920258602906,
+    "text_standard": 16.0
+  },
+  {
+    "title": "Mark Hurdlestone: or, The Two Brothers",
+    "author": "Moodie, Susanna",
+    "year": 1853,
+    "avg_sentence_length": 17.88150684931507,
+    "smog_index": 10.482090401940383,
+    "flesch_reading_ease": 69.91490053224061,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Monctons",
+    "author": "Moodie, Susanna",
+    "year": 1853,
+    "avg_sentence_length": 18.296928327645052,
+    "smog_index": 10.866267443557312,
+    "flesch_reading_ease": 66.92055420773434,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Flora Lyndsay; or, Passages in an Eventful Life. Volume I",
+    "author": "Moodie, Susanna",
+    "year": 1854,
+    "avg_sentence_length": 18.75718309859155,
+    "smog_index": 10.378713530058775,
+    "flesch_reading_ease": 68.89552204914477,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Flora Lyndsay; or, Passages in an Eventful Life. Volume II",
+    "author": "Moodie, Susanna",
+    "year": 1854,
+    "avg_sentence_length": 17.979495268138802,
+    "smog_index": 9.666823413316143,
+    "flesch_reading_ease": 73.04101889990905,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Lady Mary and her Nurse: or, A Peep into the Canadian Forest",
+    "author": "Traill, Catharine Parr",
+    "year": 1856,
+    "avg_sentence_length": 25.84873487348735,
+    "smog_index": 9.881604070426178,
+    "flesch_reading_ease": 69.25735137406768,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Orphans of Glen Elder: A Tale of Scottish Life",
+    "author": "Robertson, Margaret Murray",
+    "year": 1868,
+    "avg_sentence_length": 16.970588235294116,
+    "smog_index": 8.527137837955566,
+    "flesch_reading_ease": 79.11877594191925,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The \"B. O. W. C.\" A book for boys.",
+    "author": "De Mille, James",
+    "year": 1869,
+    "avg_sentence_length": 13.021660649819495,
+    "smog_index": 8.20684039439054,
+    "flesch_reading_ease": 82.32814824458598,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Afar in the Forest; or, Pictures of life and scenery in the wilds of Canada",
+    "author": "Traill, Catharine Parr",
+    "year": 1869,
+    "avg_sentence_length": 23.996833773087072,
+    "smog_index": 9.218329511809635,
+    "flesch_reading_ease": 72.53207306851561,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Lost in the Fog",
+    "author": "De Mille, James",
+    "year": 1871,
+    "avg_sentence_length": 17.119844179651697,
+    "smog_index": 9.168293467914108,
+    "flesch_reading_ease": 77.39288453261842,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Cord and Creese",
+    "author": "De Mille, James",
+    "year": 1871,
+    "avg_sentence_length": 13.356501547987616,
+    "smog_index": 8.679020655863262,
+    "flesch_reading_ease": 79.77856816046045,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Magdalen's Vow",
+    "author": "Fleming, May Agnes",
+    "year": 1871,
+    "avg_sentence_length": 13.592281683572345,
+    "smog_index": 8.460097274219944,
+    "flesch_reading_ease": 78.94809889418656,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The American Baron",
+    "author": "De Mille, James",
+    "year": 1872,
+    "avg_sentence_length": 13.106730533038565,
+    "smog_index": 8.730963643009444,
+    "flesch_reading_ease": 79.59219983071073,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Treasure of the Seas",
+    "author": "De Mille, James",
+    "year": 1872,
+    "avg_sentence_length": 15.851415581731763,
+    "smog_index": 9.156087618372453,
+    "flesch_reading_ease": 77.72449254051648,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Living Link",
+    "author": "De Mille, James",
+    "year": 1874,
+    "avg_sentence_length": 15.234236186348863,
+    "smog_index": 9.41753627790209,
+    "flesch_reading_ease": 75.8742259201604,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Isabel Leicester, A Romance",
+    "author": "Jennings, Amelia Clotilda",
+    "year": 1874,
+    "avg_sentence_length": 19.616212982351183,
+    "smog_index": 10.987630467763864,
+    "flesch_reading_ease": 67.50769035294697,
+    "text_standard": 8.0
+  },
+  {
+    "title": "A Mad Marriage. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1875,
+    "avg_sentence_length": 13.84258507085477,
+    "smog_index": 8.518409337134912,
+    "flesch_reading_ease": 78.80353960165509,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Norine's Revenge, and Sir Noel's Heir",
+    "author": "Fleming, May Agnes",
+    "year": 1875,
+    "avg_sentence_length": 14.02112676056338,
+    "smog_index": 8.32751382892395,
+    "flesch_reading_ease": 78.61972546272568,
+    "text_standard": 8.0
+  },
+  {
+    "title": "George Leatrim; or, The Mother's Test",
+    "author": "Moodie, Susanna",
+    "year": 1875,
+    "avg_sentence_length": 12.805017103762827,
+    "smog_index": 8.841846274778883,
+    "flesch_reading_ease": 76.58065029328716,
+    "text_standard": 7.0
+  },
+  {
+    "title": "One Night's Mystery. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1876,
+    "avg_sentence_length": 14.6533704644115,
+    "smog_index": 8.804289807007757,
+    "flesch_reading_ease": 76.5857257271397,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Carried by Storm. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1879,
+    "avg_sentence_length": 14.042453987730061,
+    "smog_index": 8.511988828261579,
+    "flesch_reading_ease": 79.43497178218594,
+    "text_standard": 7.0
+  },
+  {
+    "title": "In the Forest: or, Pictures of Life and Scenery in the Woods of Canada",
+    "author": "Traill, Catharine Parr",
+    "year": 1881,
+    "avg_sentence_length": 24.95220779220779,
+    "smog_index": 9.860866573493173,
+    "flesch_reading_ease": 69.89561795356606,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Lost in the Backwoods: A Tale of the Canadian Forest",
+    "author": "Traill, Catharine Parr",
+    "year": 1882,
+    "avg_sentence_length": 29.532542113323125,
+    "smog_index": 11.75344836542319,
+    "flesch_reading_ease": 60.56092816123068,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Sharing Her Crime. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1883,
+    "avg_sentence_length": 14.788458908792562,
+    "smog_index": 8.64996974565874,
+    "flesch_reading_ease": 77.09826526723455,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Philistia",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1884,
+    "avg_sentence_length": 22.048158212560388,
+    "smog_index": 11.53715592529776,
+    "flesch_reading_ease": 60.99492952332571,
+    "text_standard": 12.0
+  },
+  {
+    "title": "The Story of the Upper Canadian Rebellion, Volume 1",
+    "author": "Dent, John Charles",
+    "year": 1885,
+    "avg_sentence_length": 24.35586574654956,
+    "smog_index": 14.521168535157432,
+    "flesch_reading_ease": 46.809799306668054,
+    "text_standard": 16.0
+  },
+  {
+    "title": "The Story of the Upper Canadian Rebellion, Volume 2",
+    "author": "Dent, John Charles",
+    "year": 1885,
+    "avg_sentence_length": 18.006563479623825,
+    "smog_index": 12.299092739563758,
+    "flesch_reading_ease": 58.01012386990209,
+    "text_standard": 10.0
+  },
+  {
+    "title": "The Actress' Daughter. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1885,
+    "avg_sentence_length": 17.190859798605732,
+    "smog_index": 9.53442358771684,
+    "flesch_reading_ease": 73.41931415320808,
+    "text_standard": 9.0
+  },
+  {
+    "title": "A Strange Manuscript Found in a Copper Cylinder",
+    "author": "De Mille, James",
+    "year": 1888,
+    "avg_sentence_length": 18.33891726251277,
+    "smog_index": 10.156894836035377,
+    "flesch_reading_ease": 72.3524831211823,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Gerrard Street Mystery and Other Weird Tales",
+    "author": "Dent, John Charles",
+    "year": 1888,
+    "avg_sentence_length": 20.59357696566999,
+    "smog_index": 11.583399080688856,
+    "flesch_reading_ease": 63.61827975842101,
+    "text_standard": 9.0
+  },
+  {
+    "title": "What's Bred in the Bone",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1890,
+    "avg_sentence_length": 16.18486590038314,
+    "smog_index": 9.850018205348768,
+    "flesch_reading_ease": 71.41394216100166,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Great Taboo",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1890,
+    "avg_sentence_length": 16.71803628601921,
+    "smog_index": 9.947001155053904,
+    "flesch_reading_ease": 71.04447568845872,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Recalled to Life",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1891,
+    "avg_sentence_length": 15.053028263795424,
+    "smog_index": 9.617295560079949,
+    "flesch_reading_ease": 75.6619522143971,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Pierre and his People",
+    "author": "Parker, Sir Gilbert",
+    "year": 1892,
+    "avg_sentence_length": 16.700779036827196,
+    "smog_index": 8.843363268726783,
+    "flesch_reading_ease": 78.58151476073218,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Mrs. Falchion",
+    "author": "Parker, Sir Gilbert",
+    "year": 1892,
+    "avg_sentence_length": 16.07788902087222,
+    "smog_index": 9.693490720674998,
+    "flesch_reading_ease": 74.07944122424469,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Michael's Crag",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1893,
+    "avg_sentence_length": 16.24794816414687,
+    "smog_index": 9.869716061275792,
+    "flesch_reading_ease": 72.42423865901226,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Edith Percival. A Novel.",
+    "author": "Fleming, May Agnes",
+    "year": 1893,
+    "avg_sentence_length": 15.317473755502878,
+    "smog_index": 9.085715255444018,
+    "flesch_reading_ease": 75.97590209206942,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Translation of a Savage",
+    "author": "Parker, Sir Gilbert",
+    "year": 1893,
+    "avg_sentence_length": 17.687234737185765,
+    "smog_index": 10.138308815368099,
+    "flesch_reading_ease": 71.97342691305003,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Trespasser",
+    "author": "Parker, Sir Gilbert",
+    "year": 1893,
+    "avg_sentence_length": 13.170605306799336,
+    "smog_index": 8.73002599231529,
+    "flesch_reading_ease": 78.63400331643963,
+    "text_standard": 7.0
+  },
+  {
+    "title": "A Daughter of Today",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1894,
+    "avg_sentence_length": 17.814175847017253,
+    "smog_index": 11.269206422085446,
+    "flesch_reading_ease": 64.96895735677847,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Story of Sonny Sahib",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1894,
+    "avg_sentence_length": 18.56322869955157,
+    "smog_index": 10.52140132131477,
+    "flesch_reading_ease": 68.89607675921984,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Trail of the Sword",
+    "author": "Parker, Sir Gilbert",
+    "year": 1894,
+    "avg_sentence_length": 16.04260582737768,
+    "smog_index": 9.147717529870386,
+    "flesch_reading_ease": 77.34346558672804,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Raid From Beauséjour; And How The Carter Boys Lifted The Mortgage",
+    "author": "Roberts, Sir Charles G. D. [Charles George Douglas]",
+    "year": 1894,
+    "avg_sentence_length": 17.080397470641373,
+    "smog_index": 10.046300835480634,
+    "flesch_reading_ease": 71.4082865609525,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Beautiful Joe",
+    "author": "Saunders, Margaret Marshall",
+    "year": 1894,
+    "avg_sentence_length": 16.74752028854824,
+    "smog_index": 7.92930786012969,
+    "flesch_reading_ease": 82.2234999874014,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The British Barbarians",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1895,
+    "avg_sentence_length": 20.59239979177512,
+    "smog_index": 11.669175252909156,
+    "flesch_reading_ease": 62.511129651967124,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Woman Who Did",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1895,
+    "avg_sentence_length": 17.61517719568567,
+    "smog_index": 10.54191215469757,
+    "flesch_reading_ease": 68.28556956086439,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Sir Quixote of the Moors. Being Some Account of an Episode in the Life of the Sieur de Rohaine.",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1895,
+    "avg_sentence_length": 18.865692414752957,
+    "smog_index": 8.491181424456851,
+    "flesch_reading_ease": 80.39005513890037,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Making of Mary",
+    "author": "McIlwraith, Jean Newton",
+    "year": 1895,
+    "avg_sentence_length": 17.500590318772137,
+    "smog_index": 10.1381365226047,
+    "flesch_reading_ease": 71.46631491266368,
+    "text_standard": 8.0
+  },
+  {
+    "title": "When Valmond Came to Pontiac",
+    "author": "Parker, Sir Gilbert",
+    "year": 1895,
+    "avg_sentence_length": 16.939124920735573,
+    "smog_index": 9.732404993392635,
+    "flesch_reading_ease": 73.9133713297749,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Cot and Cradle Stories",
+    "author": "Traill, Catharine Parr",
+    "year": 1895,
+    "avg_sentence_length": 23.495689655172413,
+    "smog_index": 9.31727704991942,
+    "flesch_reading_ease": 72.15620172904055,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Golden Dog",
+    "author": "Kirby, William",
+    "year": 1896,
+    "avg_sentence_length": 18.7272066542841,
+    "smog_index": 10.307866124054877,
+    "flesch_reading_ease": 70.8945155504739,
+    "text_standard": 8.0
+  },
+  {
+    "title": "A Lover's Diary",
+    "author": "Parker, Sir Gilbert",
+    "year": 1896,
+    "avg_sentence_length": 24.42408376963351,
+    "smog_index": 11.358317711066203,
+    "flesch_reading_ease": 66.47593761047794,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Pomp of the Lavilettes",
+    "author": "Parker, Sir Gilbert",
+    "year": 1896,
+    "avg_sentence_length": 16.85243264977885,
+    "smog_index": 9.69070614017036,
+    "flesch_reading_ease": 74.07492783508796,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Romany of the Snows",
+    "author": "Parker, Sir Gilbert",
+    "year": 1896,
+    "avg_sentence_length": 15.435646638720696,
+    "smog_index": 7.941108504774621,
+    "flesch_reading_ease": 83.6625692677073,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Seats Of The Mighty",
+    "author": "Parker, Sir Gilbert",
+    "year": 1896,
+    "avg_sentence_length": 18.81090387374462,
+    "smog_index": 9.126146679542694,
+    "flesch_reading_ease": 77.8655596961009,
+    "text_standard": 7.0
+  },
+  {
+    "title": "There Is Sorrow On The Sea",
+    "author": "Parker, Sir Gilbert",
+    "year": 1896,
+    "avg_sentence_length": 23.394871794871793,
+    "smog_index": 11.166605487496632,
+    "flesch_reading_ease": 67.12118671522839,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Earth's Enigmas",
+    "author": "Roberts, Sir Charles G. D. [Charles George Douglas]",
+    "year": 1896,
+    "avg_sentence_length": 20.74518790100825,
+    "smog_index": 10.431192493880383,
+    "flesch_reading_ease": 69.19338265674139,
+    "text_standard": 9.0
+  },
+  {
+    "title": "An African Millionaire: Episodes in the Life of the Illustrious Colonel Clay",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1897,
+    "avg_sentence_length": 25.77310924369748,
+    "smog_index": 16.613394197324528,
+    "flesch_reading_ease": 36.13535280692,
+    "text_standard": 12.0
+  },
+  {
+    "title": "A Voyage of Consolation (being in the nature of a sequel to the experiences of 'An American girl in London')",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1897,
+    "avg_sentence_length": 16.166566566566566,
+    "smog_index": 10.934197308810441,
+    "flesch_reading_ease": 65.5992383825276,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Black Rock: a Tale of the Selkirks",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1898,
+    "avg_sentence_length": 17.520568215448357,
+    "smog_index": 8.997794591806343,
+    "flesch_reading_ease": 77.58202763955039,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Gwen's Canyon",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1898,
+    "avg_sentence_length": 17.61353711790393,
+    "smog_index": 8.63866100692995,
+    "flesch_reading_ease": 79.13561609159753,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Hilda: A Story of Calcutta",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1898,
+    "avg_sentence_length": 17.609025559105433,
+    "smog_index": 10.977797744972277,
+    "flesch_reading_ease": 66.36254211695055,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Battle Of The Strong",
+    "author": "Parker, Sir Gilbert",
+    "year": 1898,
+    "avg_sentence_length": 17.40810810810811,
+    "smog_index": 9.539578219923072,
+    "flesch_reading_ease": 74.62280799733131,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Twelve Tales, with a Headpiece, a Tailpiece, and an Intermezzo: Being Select Stories by Grant Allen, Chosen and Arranged by the Author",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1899,
+    "avg_sentence_length": 18.73403292925638,
+    "smog_index": 10.213607531891178,
+    "flesch_reading_ease": 69.88505803223876,
+    "text_standard": 8.0
+  },
+  {
+    "title": "A Lost Lady of Old Years. A Romance.",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1899,
+    "avg_sentence_length": 18.08555133079848,
+    "smog_index": 8.981332916935932,
+    "flesch_reading_ease": 77.54904997823671,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Sky Pilot: a Tale of the Foothills",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1899,
+    "avg_sentence_length": 16.92302234835048,
+    "smog_index": 9.209005892493906,
+    "flesch_reading_ease": 76.43252547451762,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Path of a Star",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1899,
+    "avg_sentence_length": 17.672938350680546,
+    "smog_index": 10.998847426292848,
+    "flesch_reading_ease": 66.31253148553684,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Hilda Wade, a Woman with Tenacity of Purpose",
+    "author": "Allen, Grant [Charles Grant Blairfindie]",
+    "year": 1900,
+    "avg_sentence_length": 13.581165919282512,
+    "smog_index": 9.528924900911885,
+    "flesch_reading_ease": 74.2508892261487,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Michael McGrath, Postmaster",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1900,
+    "avg_sentence_length": 19.369565217391305,
+    "smog_index": 11.629479912816095,
+    "flesch_reading_ease": 64.2445105739671,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Lane That Had No Turning",
+    "author": "Parker, Sir Gilbert",
+    "year": 1900,
+    "avg_sentence_length": 16.63064322812625,
+    "smog_index": 8.924553696454032,
+    "flesch_reading_ease": 78.50235126924842,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Parables Of A Province",
+    "author": "Parker, Sir Gilbert",
+    "year": 1900,
+    "avg_sentence_length": 23.06236559139785,
+    "smog_index": 9.744204180780574,
+    "flesch_reading_ease": 72.81716889862155,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Prospector",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1901,
+    "avg_sentence_length": 13.883281646461798,
+    "smog_index": 8.80832829977044,
+    "flesch_reading_ease": 78.96966318293926,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Man from Glengarry: a Tale of the Ottawa",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1901,
+    "avg_sentence_length": 16.059215790877566,
+    "smog_index": 8.882463673969397,
+    "flesch_reading_ease": 78.59650278885564,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Right Of Way",
+    "author": "Parker, Sir Gilbert",
+    "year": 1901,
+    "avg_sentence_length": 15.597570235383447,
+    "smog_index": 9.138848946768832,
+    "flesch_reading_ease": 77.26790492201951,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Glengarry School Days: a Story of Early Days in Glengarry",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1902,
+    "avg_sentence_length": 17.06044998644619,
+    "smog_index": 9.32687088837751,
+    "flesch_reading_ease": 74.45452415863447,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Donovan Pasha, And Some People Of Egypt",
+    "author": "Parker, Sir Gilbert",
+    "year": 1902,
+    "avg_sentence_length": 17.452849740932642,
+    "smog_index": 9.562965652402188,
+    "flesch_reading_ease": 73.70932081897405,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The March Of The White Guard",
+    "author": "Parker, Sir Gilbert",
+    "year": 1902,
+    "avg_sentence_length": 16.529094827586206,
+    "smog_index": 9.90617881168779,
+    "flesch_reading_ease": 73.48546728315081,
+    "text_standard": 9.0
+  },
+  {
+    "title": "A Maid of Many Moods",
+    "author": "Sheard, Virna",
+    "year": 1902,
+    "avg_sentence_length": 14.85357917570499,
+    "smog_index": 8.186163430181232,
+    "flesch_reading_ease": 81.56549555944149,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Pool in the Desert",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1903,
+    "avg_sentence_length": 16.965805834528933,
+    "smog_index": 10.670589027873227,
+    "flesch_reading_ease": 68.23240943591851,
+    "text_standard": 8.0
+  },
+  {
+    "title": "How Hartman Won. A Story of Old Ontario.",
+    "author": "Price-Brown, John",
+    "year": 1903,
+    "avg_sentence_length": 15.161112290384207,
+    "smog_index": 9.094549403227436,
+    "flesch_reading_ease": 76.68379461396974,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Imperialist",
+    "author": "Duncan, Sara Jeannette",
+    "year": 1904,
+    "avg_sentence_length": 20.062887178524498,
+    "smog_index": 11.702954596461353,
+    "flesch_reading_ease": 63.10834004011343,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Cumner's Son and Other South Sea Folk",
+    "author": "Parker, Sir Gilbert",
+    "year": 1904,
+    "avg_sentence_length": 16.431737403303366,
+    "smog_index": 9.351234734006393,
+    "flesch_reading_ease": 76.07116822358367,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Cattle-Baron's Daughter",
+    "author": "Bindloss, Harold",
+    "year": 1906,
+    "avg_sentence_length": 16.391601866251943,
+    "smog_index": 8.69195252735119,
+    "flesch_reading_ease": 78.85892185523723,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Doctor: a Tale of the Rockies",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1906,
+    "avg_sentence_length": 13.261907956527573,
+    "smog_index": 8.730773309308189,
+    "flesch_reading_ease": 79.56246584923153,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Dust of Conflict",
+    "author": "Bindloss, Harold",
+    "year": 1907,
+    "avg_sentence_length": 18.056837280366693,
+    "smog_index": 10.07515215924344,
+    "flesch_reading_ease": 72.7766405153042,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Giant's Strength",
+    "author": "King, Basil [William Benjamin Basil]",
+    "year": 1907,
+    "avg_sentence_length": 14.118982587913964,
+    "smog_index": 8.620578222446106,
+    "flesch_reading_ease": 78.44372414336128,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Weavers",
+    "author": "Parker, Sir Gilbert",
+    "year": 1907,
+    "avg_sentence_length": 15.946526151444184,
+    "smog_index": 8.806337854065948,
+    "flesch_reading_ease": 78.10104318183795,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Letters of a Remittance Man to his Mother",
+    "author": "Jarvis, William Henry Pope",
+    "year": 1908,
+    "avg_sentence_length": 20.704112337011033,
+    "smog_index": 10.847602525991112,
+    "flesch_reading_ease": 67.97787854066998,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Sowing Seeds in Danny",
+    "author": "McClung, Nellie Letitia",
+    "year": 1908,
+    "avg_sentence_length": 15.800694629975956,
+    "smog_index": 8.976850259639885,
+    "flesch_reading_ease": 76.93446650378534,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "Montgomery, L. M.",
+    "year": 1908,
+    "avg_sentence_length": 14.745182012847966,
+    "smog_index": 9.060307271368238,
+    "flesch_reading_ease": 76.79986302779874,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Foreigner: a Tale of Saskatchewan",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1909,
+    "avg_sentence_length": 14.215533672172809,
+    "smog_index": 9.014362138728417,
+    "flesch_reading_ease": 77.48290732638704,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Anne of Avonlea",
+    "author": "Montgomery, L. M.",
+    "year": 1909,
+    "avg_sentence_length": 14.155850161862185,
+    "smog_index": 8.87608881684329,
+    "flesch_reading_ease": 77.46004516022886,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Parker, Sir Gilbert",
+    "year": 1909,
+    "avg_sentence_length": 17.612423312883436,
+    "smog_index": 8.953777979724258,
+    "flesch_reading_ease": 78.3476826140337,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Masters of the Wheat-Lands",
+    "author": "Bindloss, Harold",
+    "year": 1910,
+    "avg_sentence_length": 16.34399016292653,
+    "smog_index": 9.450027315333573,
+    "flesch_reading_ease": 75.22266078832362,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Irish Ned, The Winnipeg Newsy",
+    "author": "Fea, Rev. Samuel",
+    "year": 1910,
+    "avg_sentence_length": 23.765432098765434,
+    "smog_index": 10.239995383012475,
+    "flesch_reading_ease": 70.60160590027257,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Kilmeny of the Orchard",
+    "author": "Montgomery, L. M.",
+    "year": 1910,
+    "avg_sentence_length": 15.253107344632769,
+    "smog_index": 8.891122703740248,
+    "flesch_reading_ease": 77.68823198119303,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Island Providence",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1910,
+    "avg_sentence_length": 17.04594416355243,
+    "smog_index": 8.609175973097152,
+    "flesch_reading_ease": 79.89114697370285,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Mac's of '37. A Story of The Canadian Rebellion.",
+    "author": "Price-Brown, John",
+    "year": 1910,
+    "avg_sentence_length": 13.785455204932898,
+    "smog_index": 8.686929291759856,
+    "flesch_reading_ease": 78.26164394787797,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Protector",
+    "author": "Bindloss, Harold",
+    "year": 1911,
+    "avg_sentence_length": 16.086568403570688,
+    "smog_index": 9.37604747462108,
+    "flesch_reading_ease": 75.31798106170359,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Measure of A Man. A Tale of The Big Woods.",
+    "author": "Duncan, Norman McLean",
+    "year": 1911,
+    "avg_sentence_length": 13.929176755447942,
+    "smog_index": 9.136265072094309,
+    "flesch_reading_ease": 76.20812804248374,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Legends of Vancouver",
+    "author": "Johnson, Emily Pauline [Tekahionwake (Mohawk name)]",
+    "year": 1911,
+    "avg_sentence_length": 21.744606819763398,
+    "smog_index": 10.991599161773788,
+    "flesch_reading_ease": 65.7280414044035,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Story Girl",
+    "author": "Montgomery, L. M.",
+    "year": 1911,
+    "avg_sentence_length": 14.492376111817027,
+    "smog_index": 8.82367013492687,
+    "flesch_reading_ease": 76.87345401959766,
+    "text_standard": 7.0
+  },
+  {
+    "title": "A Wilderness of Monkeys",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1911,
+    "avg_sentence_length": 16.86927306047648,
+    "smog_index": 9.15931800497612,
+    "flesch_reading_ease": 76.56956997289396,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Crossed Swords. A Canadian-American Tale of Love and Valor.",
+    "author": "Alloway, Mary Wilson",
+    "year": 1912,
+    "avg_sentence_length": 31.317705120296115,
+    "smog_index": 12.608725879416088,
+    "flesch_reading_ease": 55.60498114074369,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Corporal Cameron of the North West Mounted Police: a Tale of the Macleod Trail",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1912,
+    "avg_sentence_length": 13.499576271186442,
+    "smog_index": 9.177817988293615,
+    "flesch_reading_ease": 76.2034831466749,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Black Creek Stopping-House and Other Stories",
+    "author": "McClung, Nellie Letitia",
+    "year": 1912,
+    "avg_sentence_length": 18.42541214314435,
+    "smog_index": 9.776144730931636,
+    "flesch_reading_ease": 72.82176725431745,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Chronicles of Avonlea",
+    "author": "Montgomery, L. M.",
+    "year": 1912,
+    "avg_sentence_length": 15.31101751274662,
+    "smog_index": 9.481075941181508,
+    "flesch_reading_ease": 74.20437977161727,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Prescott of Saskatchewan",
+    "author": "Bindloss, Harold",
+    "year": 1913,
+    "avg_sentence_length": 15.809491978609625,
+    "smog_index": 9.340388062475727,
+    "flesch_reading_ease": 76.03054567638209,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Great Gold Rush. A Tale of the Klondike.",
+    "author": "Jarvis, William Henry Pope",
+    "year": 1913,
+    "avg_sentence_length": 15.516085183507023,
+    "smog_index": 9.037171895157565,
+    "flesch_reading_ease": 77.3749686561332,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Moccasin Maker",
+    "author": "Johnson, Emily Pauline [Tekahionwake (Mohawk name)]",
+    "year": 1913,
+    "avg_sentence_length": 19.285040431266847,
+    "smog_index": 10.337848036567582,
+    "flesch_reading_ease": 69.42845362577442,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Shagganappi",
+    "author": "Johnson, Emily Pauline [Tekahionwake (Mohawk name)]",
+    "year": 1913,
+    "avg_sentence_length": 18.163108078362317,
+    "smog_index": 9.44048019404433,
+    "flesch_reading_ease": 73.96926896888617,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Golden Road",
+    "author": "Montgomery, L. M.",
+    "year": 1913,
+    "avg_sentence_length": 14.9103515625,
+    "smog_index": 8.95016490136792,
+    "flesch_reading_ease": 77.06140500042831,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Hands Up!",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1913,
+    "avg_sentence_length": 16.067425200168564,
+    "smog_index": 8.675728243109198,
+    "flesch_reading_ease": 80.29006531020491,
+    "text_standard": 8.0
+  },
+  {
+    "title": "At The Sign Of The Eagle",
+    "author": "Parker, Sir Gilbert",
+    "year": 1913,
+    "avg_sentence_length": 14.370449678800856,
+    "smog_index": 10.10825565688884,
+    "flesch_reading_ease": 70.79485857378202,
+    "text_standard": 8.0
+  },
+  {
+    "title": "John Enderby",
+    "author": "Parker, Sir Gilbert",
+    "year": 1913,
+    "avg_sentence_length": 18.388020833333332,
+    "smog_index": 11.26057108654086,
+    "flesch_reading_ease": 67.7889891898132,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Michel And Angele",
+    "author": "Parker, Sir Gilbert",
+    "year": 1913,
+    "avg_sentence_length": 20.049981488337654,
+    "smog_index": 9.994575455380632,
+    "flesch_reading_ease": 72.89015928882952,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Judgment House",
+    "author": "Parker, Sir Gilbert",
+    "year": 1913,
+    "avg_sentence_length": 16.823240771718524,
+    "smog_index": 9.498526808501095,
+    "flesch_reading_ease": 75.23530253869652,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Patrol of the Sun Dance Trail",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1914,
+    "avg_sentence_length": 13.504756575265809,
+    "smog_index": 9.278694711078156,
+    "flesch_reading_ease": 75.43506029969949,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Miracle Man",
+    "author": "Packard, Frank Lucius",
+    "year": 1914,
+    "avg_sentence_length": 17.1470367591898,
+    "smog_index": 10.188172359782492,
+    "flesch_reading_ease": 71.47241669979118,
+    "text_standard": 10.0
+  },
+  {
+    "title": "You Never Know Your Luck",
+    "author": "Parker, Sir Gilbert",
+    "year": 1914,
+    "avg_sentence_length": 17.020903225806453,
+    "smog_index": 9.36485465572946,
+    "flesch_reading_ease": 75.37135827583981,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Pretender. A Story of the Latin Quarter.",
+    "author": "Service, Robert William",
+    "year": 1914,
+    "avg_sentence_length": 13.015787287079352,
+    "smog_index": 8.90831008930595,
+    "flesch_reading_ease": 78.04439149300451,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Bail Jumper",
+    "author": "Stead, Robert James Campbell",
+    "year": 1914,
+    "avg_sentence_length": 17.332713260696252,
+    "smog_index": 9.576454367832287,
+    "flesch_reading_ease": 74.0011755767532,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Anne of the Island",
+    "author": "Montgomery, L. M.",
+    "year": 1915,
+    "avg_sentence_length": 13.286811352253757,
+    "smog_index": 8.75148248414288,
+    "flesch_reading_ease": 77.81420788269944,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Money Master: being the curious history of Jean Jacques Barbille, his labours, his loves and his ladies",
+    "author": "Parker, Sir Gilbert",
+    "year": 1915,
+    "avg_sentence_length": 18.495528771384137,
+    "smog_index": 9.576944271115483,
+    "flesch_reading_ease": 75.94732014188594,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Brandon of the Engineers",
+    "author": "Bindloss, Harold",
+    "year": 1916,
+    "avg_sentence_length": 15.989433570067556,
+    "smog_index": 8.992258824355599,
+    "flesch_reading_ease": 78.85145926938903,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Power-House",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1916,
+    "avg_sentence_length": 16.467401285583104,
+    "smog_index": 10.039561151005714,
+    "flesch_reading_ease": 72.52361563245542,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The World For Sale",
+    "author": "Parker, Sir Gilbert",
+    "year": 1916,
+    "avg_sentence_length": 17.395994832041342,
+    "smog_index": 9.66541180896027,
+    "flesch_reading_ease": 75.63848152532506,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Next of Kin: Those who Wait and Wonder",
+    "author": "McClung, Nellie Letitia",
+    "year": 1917,
+    "avg_sentence_length": 20.94756711409396,
+    "smog_index": 10.33871558441225,
+    "flesch_reading_ease": 70.68161161772568,
+    "text_standard": 10.0
+  },
+  {
+    "title": "Anne's House of Dreams",
+    "author": "Montgomery, L. M.",
+    "year": 1917,
+    "avg_sentence_length": 14.295229835212488,
+    "smog_index": 8.680013338504498,
+    "flesch_reading_ease": 78.76124668255567,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Adventures of Jimmie Dale",
+    "author": "Packard, Frank Lucius",
+    "year": 1917,
+    "avg_sentence_length": 16.587614870509608,
+    "smog_index": 9.55497834804392,
+    "flesch_reading_ease": 73.60706230989403,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Thieves' Wit. An Everyday Detective Story.",
+    "author": "Footner, Hulbert",
+    "year": 1918,
+    "avg_sentence_length": 11.984263233190271,
+    "smog_index": 8.676825284143598,
+    "flesch_reading_ease": 79.78786908189075,
+    "text_standard": 5.0
+  },
+  {
+    "title": "Abraham's Bosom",
+    "author": "King, Basil [William Benjamin Basil]",
+    "year": 1918,
+    "avg_sentence_length": 17.920133111480865,
+    "smog_index": 10.150935063137709,
+    "flesch_reading_ease": 72.1855634990893,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Canadian Wonder Tales",
+    "author": "Macmillan, Cyrus John",
+    "year": 1918,
+    "avg_sentence_length": 17.66216216216216,
+    "smog_index": 7.387691007576195,
+    "flesch_reading_ease": 84.84992119281655,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Major",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1919,
+    "avg_sentence_length": 13.172170323701934,
+    "smog_index": 9.00097204364845,
+    "flesch_reading_ease": 76.6858106898847,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Sky Pilot in No Man's Land",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1919,
+    "avg_sentence_length": 13.391575274177468,
+    "smog_index": 8.917524453987582,
+    "flesch_reading_ease": 77.20511740415309,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Substitute Millionaire",
+    "author": "Footner, Hulbert",
+    "year": 1919,
+    "avg_sentence_length": 11.41220556745182,
+    "smog_index": 8.718960529215497,
+    "flesch_reading_ease": 78.985146389847,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Rainbow Valley",
+    "author": "Montgomery, L. M.",
+    "year": 1919,
+    "avg_sentence_length": 12.941699761715647,
+    "smog_index": 8.271100998180563,
+    "flesch_reading_ease": 80.19510934194702,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Further Adventures of Jimmie Dale",
+    "author": "Packard, Frank Lucius",
+    "year": 1919,
+    "avg_sentence_length": 18.277559757402784,
+    "smog_index": 9.885755995315257,
+    "flesch_reading_ease": 71.54462327034612,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Wild Youth",
+    "author": "Parker, Sir Gilbert",
+    "year": 1919,
+    "avg_sentence_length": 17.590309939437123,
+    "smog_index": 9.746141940315947,
+    "flesch_reading_ease": 74.38977902780317,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Girl of O. K. Valley. A Romance of the Okanagan.",
+    "author": "Watson, Robert",
+    "year": 1919,
+    "avg_sentence_length": 13.938607594936709,
+    "smog_index": 8.489287199758577,
+    "flesch_reading_ease": 78.96152661357489,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Wilderness Mine",
+    "author": "Bindloss, Harold",
+    "year": 1920,
+    "avg_sentence_length": 13.58003120124805,
+    "smog_index": 8.085479817672963,
+    "flesch_reading_ease": 81.97440728854964,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Don Quixote in Finance, or Has Canada a Medici? A Tale of Treasons, Stratagems and Spoils.",
+    "author": "Jarvis, William Henry Pope",
+    "year": 1920,
+    "avg_sentence_length": 22.474056603773583,
+    "smog_index": 12.093314847391191,
+    "flesch_reading_ease": 61.32764197103383,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Further Chronicles of Avonlea",
+    "author": "Montgomery, L. M.",
+    "year": 1920,
+    "avg_sentence_length": 14.445818610129564,
+    "smog_index": 8.86702377127363,
+    "flesch_reading_ease": 77.39278030257306,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The White Moll",
+    "author": "Packard, Frank Lucius",
+    "year": 1920,
+    "avg_sentence_length": 15.54874651810585,
+    "smog_index": 9.081958948773876,
+    "flesch_reading_ease": 76.62629351307277,
+    "text_standard": 7.0
+  },
+  {
+    "title": "No Defense",
+    "author": "Parker, Sir Gilbert",
+    "year": 1920,
+    "avg_sentence_length": 15.785453216374268,
+    "smog_index": 8.981598345192628,
+    "flesch_reading_ease": 78.83416858351853,
+    "text_standard": 7.0
+  },
+  {
+    "title": "To Him That Hath: a Novel of the West of Today",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1921,
+    "avg_sentence_length": 13.258938592271926,
+    "smog_index": 9.252539984114913,
+    "flesch_reading_ease": 75.67109480973788,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Owl Taxi",
+    "author": "Footner, Hulbert",
+    "year": 1921,
+    "avg_sentence_length": 11.360765683945788,
+    "smog_index": 8.435044949452726,
+    "flesch_reading_ease": 80.81409106678369,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Drama of the Forests",
+    "author": "Heming, Arthur Henry Howard",
+    "year": 1921,
+    "avg_sentence_length": 26.58377506337866,
+    "smog_index": 11.199760092041554,
+    "flesch_reading_ease": 63.45348264134249,
+    "text_standard": 11.0
+  },
+  {
+    "title": "The Talking Trees and Canadian Forest Trees",
+    "author": "Lawler, James",
+    "year": 1921,
+    "avg_sentence_length": 20.342995169082126,
+    "smog_index": 10.069194280569134,
+    "flesch_reading_ease": 70.86888317576351,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Purple Springs",
+    "author": "McClung, Nellie Letitia",
+    "year": 1921,
+    "avg_sentence_length": 18.28521774688203,
+    "smog_index": 9.412000572780236,
+    "flesch_reading_ease": 75.45280095783153,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Rilla of Ingleside",
+    "author": "Montgomery, L. M.",
+    "year": 1921,
+    "avg_sentence_length": 15.493156668608037,
+    "smog_index": 9.170121794488988,
+    "flesch_reading_ease": 75.59351939758548,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Ramshackle House",
+    "author": "Footner, Hulbert",
+    "year": 1922,
+    "avg_sentence_length": 10.983823734486124,
+    "smog_index": 8.231248431460065,
+    "flesch_reading_ease": 81.81663410660191,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Jimmie Dale and the Phantom Clue",
+    "author": "Packard, Frank Lucius",
+    "year": 1922,
+    "avg_sentence_length": 15.023339858455053,
+    "smog_index": 8.664467054491292,
+    "flesch_reading_ease": 77.49968681023124,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Carnac's Folly",
+    "author": "Parker, Sir Gilbert",
+    "year": 1922,
+    "avg_sentence_length": 13.529057337220603,
+    "smog_index": 8.411474979928197,
+    "flesch_reading_ease": 82.35864488509787,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Children of the Wild",
+    "author": "Roberts, Sir Charles G. D. [Charles George Douglas]",
+    "year": 1922,
+    "avg_sentence_length": 18.789781471221914,
+    "smog_index": 9.7832237444924,
+    "flesch_reading_ease": 72.47633210024927,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Poisoned Paradise, A Romance of Monte Carlo",
+    "author": "Service, Robert William",
+    "year": 1922,
+    "avg_sentence_length": 10.826209962614934,
+    "smog_index": 7.8312073697096345,
+    "flesch_reading_ease": 83.92650365715079,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Neighbours",
+    "author": "Stead, Robert James Campbell",
+    "year": 1922,
+    "avg_sentence_length": 16.584561112263955,
+    "smog_index": 9.168020696366833,
+    "flesch_reading_ease": 76.64311139396347,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Midwinter. Certain Travellers in Old England.",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1923,
+    "avg_sentence_length": 16.30980751604033,
+    "smog_index": 9.071801959795007,
+    "flesch_reading_ease": 77.83395663344228,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Trail of the Golden Horn",
+    "author": "Cody, Hiram Alfred",
+    "year": 1923,
+    "avg_sentence_length": 13.415872494249097,
+    "smog_index": 8.279085636599428,
+    "flesch_reading_ease": 82.0916049568006,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Emily of New Moon",
+    "author": "Montgomery, L. M.",
+    "year": 1923,
+    "avg_sentence_length": 14.628162106350025,
+    "smog_index": 9.087970085201363,
+    "flesch_reading_ease": 76.8627734588608,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Four Stragglers",
+    "author": "Packard, Frank Lucius",
+    "year": 1923,
+    "avg_sentence_length": 13.569856204509142,
+    "smog_index": 8.630016757997062,
+    "flesch_reading_ease": 77.33604747586024,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Peace River Joe",
+    "author": "Babcock, John Pease",
+    "year": 1924,
+    "avg_sentence_length": 19.314487632508833,
+    "smog_index": 8.290383419567508,
+    "flesch_reading_ease": 81.84451623851398,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Master Revenge",
+    "author": "Cody, Hiram Alfred",
+    "year": 1924,
+    "avg_sentence_length": 13.640419947506562,
+    "smog_index": 8.024704248775622,
+    "flesch_reading_ease": 82.28448982024257,
+    "text_standard": 6.0
+  },
+  {
+    "title": "A Sourdough Samaritan",
+    "author": "Gibbons, Charles Harrison",
+    "year": 1924,
+    "avg_sentence_length": 11.178837787445618,
+    "smog_index": 9.032607101851909,
+    "flesch_reading_ease": 75.11159388261152,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Smoking Flax",
+    "author": "Stead, Robert James Campbell",
+    "year": 1924,
+    "avg_sentence_length": 15.110536637546799,
+    "smog_index": 8.92425927921677,
+    "flesch_reading_ease": 77.77616057216677,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Gordon of the Lost Lagoon. A Romance of the Pacific Coast.",
+    "author": "Watson, Robert",
+    "year": 1924,
+    "avg_sentence_length": 16.936,
+    "smog_index": 9.028046506580644,
+    "flesch_reading_ease": 77.39360785073217,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Shanty Sled",
+    "author": "Footner, Hulbert",
+    "year": 1925,
+    "avg_sentence_length": 11.526286764705882,
+    "smog_index": 8.004415452463503,
+    "flesch_reading_ease": 83.4772571425217,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Under Dogs",
+    "author": "Footner, Hulbert",
+    "year": 1925,
+    "avg_sentence_length": 11.855627182379802,
+    "smog_index": 8.318825214709367,
+    "flesch_reading_ease": 81.28150034787515,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Settlers of the Marsh",
+    "author": "Grove, Frederick Philip",
+    "year": 1925,
+    "avg_sentence_length": 12.141082656034351,
+    "smog_index": 7.6572501329731075,
+    "flesch_reading_ease": 83.99602532480922,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Painted Fires",
+    "author": "McClung, Nellie Letitia",
+    "year": 1925,
+    "avg_sentence_length": 15.8327622776962,
+    "smog_index": 8.455980880664503,
+    "flesch_reading_ease": 79.58486809483468,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Emily Climbs",
+    "author": "Montgomery, L. M.",
+    "year": 1925,
+    "avg_sentence_length": 14.030237871253863,
+    "smog_index": 9.122106090749693,
+    "flesch_reading_ease": 76.79816491945473,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Power and the Glory",
+    "author": "Parker, Sir Gilbert",
+    "year": 1925,
+    "avg_sentence_length": 15.584022468403807,
+    "smog_index": 8.833372039780603,
+    "flesch_reading_ease": 80.47681990988285,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Dancing Floor",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1926,
+    "avg_sentence_length": 16.52244735796583,
+    "smog_index": 9.08029156897037,
+    "flesch_reading_ease": 77.29285693726742,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Delight",
+    "author": "de la Roche, Mazo",
+    "year": 1926,
+    "avg_sentence_length": 12.213902754668146,
+    "smog_index": 7.278041686920199,
+    "flesch_reading_ease": 85.24351044018077,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Madame Storey",
+    "author": "Footner, Hulbert",
+    "year": 1926,
+    "avg_sentence_length": 11.026300059772863,
+    "smog_index": 8.623576570758209,
+    "flesch_reading_ease": 78.12052775190172,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Huldowget. A Story of the North Pacific Coast.",
+    "author": "McKelvie, Bruce Alistair",
+    "year": 1926,
+    "avg_sentence_length": 15.741749174917492,
+    "smog_index": 9.173179986878795,
+    "flesch_reading_ease": 75.44981812485588,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Blue Castle",
+    "author": "Montgomery, L. M.",
+    "year": 1926,
+    "avg_sentence_length": 11.958216783216784,
+    "smog_index": 8.476620431212748,
+    "flesch_reading_ease": 77.15212846330255,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Red Ledger",
+    "author": "Packard, Frank Lucius",
+    "year": 1926,
+    "avg_sentence_length": 16.079927338782923,
+    "smog_index": 9.76637641813125,
+    "flesch_reading_ease": 72.63965775475036,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Grain",
+    "author": "Stead, Robert James Campbell",
+    "year": 1926,
+    "avg_sentence_length": 15.532010636121907,
+    "smog_index": 8.763605927809605,
+    "flesch_reading_ease": 77.30631609434894,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Dark Road",
+    "author": "Bindloss, Harold",
+    "year": 1927,
+    "avg_sentence_length": 13.112151248164464,
+    "smog_index": 8.638468714186283,
+    "flesch_reading_ease": 79.24422065823734,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Witch Wood",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1927,
+    "avg_sentence_length": 17.383942517963135,
+    "smog_index": 8.759605399549672,
+    "flesch_reading_ease": 78.86716101184463,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Jalna",
+    "author": "de la Roche, Mazo",
+    "year": 1927,
+    "avg_sentence_length": 12.990815006468305,
+    "smog_index": 8.41739106768518,
+    "flesch_reading_ease": 79.37668512018087,
+    "text_standard": 7.0
+  },
+  {
+    "title": "A Search for America",
+    "author": "Grove, Frederick Philip",
+    "year": 1927,
+    "avg_sentence_length": 14.578313253012048,
+    "smog_index": 9.027154919157468,
+    "flesch_reading_ease": 77.03458989943245,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Wild Body. A Soldier of Humour and Other Stories.",
+    "author": "Lewis, Percy Wyndham",
+    "year": 1927,
+    "avg_sentence_length": 14.855283823199462,
+    "smog_index": 10.355621281793384,
+    "flesch_reading_ease": 69.12713612652097,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Black Canyon. A Story of '58.",
+    "author": "McKelvie, Bruce Alistair",
+    "year": 1927,
+    "avg_sentence_length": 14.76337538060026,
+    "smog_index": 8.741570887286192,
+    "flesch_reading_ease": 78.58074173860973,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Emily's Quest",
+    "author": "Montgomery, L. M.",
+    "year": 1927,
+    "avg_sentence_length": 12.65619804175134,
+    "smog_index": 9.016992126471186,
+    "flesch_reading_ease": 76.54082446318729,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Wild Honey",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1927,
+    "avg_sentence_length": 16.091919495343948,
+    "smog_index": 8.549500912004657,
+    "flesch_reading_ease": 80.7127900079138,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Kingdom of the Sun. A Romance of the Far West Coast.",
+    "author": "Stephen, Alexander Maitland",
+    "year": 1927,
+    "avg_sentence_length": 17.180646729880866,
+    "smog_index": 9.894262095361315,
+    "flesch_reading_ease": 71.49491142833543,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Lone Hand",
+    "author": "Bindloss, Harold",
+    "year": 1928,
+    "avg_sentence_length": 13.637572886297376,
+    "smog_index": 8.222182546103937,
+    "flesch_reading_ease": 82.80815419555483,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Runagates Club",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1928,
+    "avg_sentence_length": 16.839831401475237,
+    "smog_index": 9.552519094373334,
+    "flesch_reading_ease": 75.2093854695338,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Velvet Hand. New Madame Storey Mysteries.",
+    "author": "Footner, Hulbert",
+    "year": 1928,
+    "avg_sentence_length": 11.659393358110538,
+    "smog_index": 8.828131823895056,
+    "flesch_reading_ease": 76.91946824791879,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Marbled Catskin",
+    "author": "Gibbons, Charles Harrison",
+    "year": 1928,
+    "avg_sentence_length": 14.735981308411215,
+    "smog_index": 8.83941893399593,
+    "flesch_reading_ease": 77.75937482361375,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Our Daily Bread",
+    "author": "Grove, Frederick Philip",
+    "year": 1928,
+    "avg_sentence_length": 11.784384309831182,
+    "smog_index": 8.229689324996098,
+    "flesch_reading_ease": 80.78972289123475,
+    "text_standard": 6.0
+  },
+  {
+    "title": "All Else Is Folly. A Tale of War and Passion.",
+    "author": "Acland, Peregrine Palmer",
+    "year": 1929,
+    "avg_sentence_length": 12.150839054157132,
+    "smog_index": 8.77004013345691,
+    "flesch_reading_ease": 76.95092926133154,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Larry of Lonesome Lake",
+    "author": "Bindloss, Harold",
+    "year": 1929,
+    "avg_sentence_length": 14.153119429590017,
+    "smog_index": 8.120674327006668,
+    "flesch_reading_ease": 82.35820706137527,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Courts of the Morning",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1929,
+    "avg_sentence_length": 14.83912768647282,
+    "smog_index": 9.43924155451786,
+    "flesch_reading_ease": 75.19474606999427,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Whiteoaks",
+    "author": "de la Roche, Mazo",
+    "year": 1929,
+    "avg_sentence_length": 11.638297872340425,
+    "smog_index": 8.125882319112002,
+    "flesch_reading_ease": 81.52472363763663,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Doctor Who Held Hands. A Madame Storey Novel.",
+    "author": "Footner, Hulbert",
+    "year": 1929,
+    "avg_sentence_length": 11.713641826923077,
+    "smog_index": 8.743585855068726,
+    "flesch_reading_ease": 78.58403181312299,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Pelts and Powder. A Story of the West Coast in the Making.",
+    "author": "McKelvie, Bruce Alistair",
+    "year": 1929,
+    "avg_sentence_length": 18.003820033955858,
+    "smog_index": 9.727360890449695,
+    "flesch_reading_ease": 72.74745833283802,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Magic for Marigold",
+    "author": "Montgomery, L. M.",
+    "year": 1929,
+    "avg_sentence_length": 12.37783075089392,
+    "smog_index": 8.99083613670496,
+    "flesch_reading_ease": 77.59202176858415,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Gleaming Archway",
+    "author": "Stephen, Alexander Maitland",
+    "year": 1929,
+    "avg_sentence_length": 13.811704834605598,
+    "smog_index": 9.02125149795125,
+    "flesch_reading_ease": 75.85989262161522,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Yoke of Life",
+    "author": "Grove, Frederick Philip",
+    "year": 1930,
+    "avg_sentence_length": 12.506198655713218,
+    "smog_index": 8.04621633374499,
+    "flesch_reading_ease": 82.35733658764738,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Generals Die in Bed",
+    "author": "Harrison, Charles Yale",
+    "year": 1930,
+    "avg_sentence_length": 9.463720813457194,
+    "smog_index": 7.537663746369065,
+    "flesch_reading_ease": 83.71037075588711,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Be Good to Yourself. A Book of Short Stories.",
+    "author": "McClung, Nellie Letitia",
+    "year": 1930,
+    "avg_sentence_length": 16.572135201978565,
+    "smog_index": 8.89925047824858,
+    "flesch_reading_ease": 78.21451160294374,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Jimmie Dale and the Blue Envelope Murder",
+    "author": "Packard, Frank Lucius",
+    "year": 1930,
+    "avg_sentence_length": 14.406054092781659,
+    "smog_index": 8.674658266859506,
+    "flesch_reading_ease": 78.18288083281206,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Laura the Undaunted. A Canadian Historical Romance.",
+    "author": "Price-Brown, John",
+    "year": 1930,
+    "avg_sentence_length": 14.299120234604105,
+    "smog_index": 8.86692062911063,
+    "flesch_reading_ease": 77.46972150986701,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Blanket of the Dark",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1931,
+    "avg_sentence_length": 16.588898233809925,
+    "smog_index": 8.326086129247047,
+    "flesch_reading_ease": 80.1015929294236,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Finch's Fortune",
+    "author": "de la Roche, Mazo",
+    "year": 1931,
+    "avg_sentence_length": 12.549811185038662,
+    "smog_index": 8.184001538055094,
+    "flesch_reading_ease": 81.45170131733671,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Easy to Kill",
+    "author": "Footner, Hulbert",
+    "year": 1931,
+    "avg_sentence_length": 11.51028877745115,
+    "smog_index": 8.374222669597444,
+    "flesch_reading_ease": 80.46214342414831,
+    "text_standard": 5.0
+  },
+  {
+    "title": "Flowers for the Living. A Book of Short Stories.",
+    "author": "McClung, Nellie Letitia",
+    "year": 1931,
+    "avg_sentence_length": 14.53697585768742,
+    "smog_index": 8.239547107556827,
+    "flesch_reading_ease": 81.31893948853904,
+    "text_standard": 6.0
+  },
+  {
+    "title": "A Tangled Web",
+    "author": "Montgomery, L. M.",
+    "year": 1931,
+    "avg_sentence_length": 13.631084543125533,
+    "smog_index": 8.709820267692512,
+    "flesch_reading_ease": 77.52202154808107,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Sir Walter Scott",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1932,
+    "avg_sentence_length": 25.97134724857685,
+    "smog_index": 12.710030338432961,
+    "flesch_reading_ease": 57.455499810300765,
+    "text_standard": 10.0
+  },
+  {
+    "title": "The Magic Walking-Stick",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1932,
+    "avg_sentence_length": 15.335602723267922,
+    "smog_index": 8.806273942444191,
+    "flesch_reading_ease": 78.95614149822867,
+    "text_standard": 7.0
+  },
+  {
+    "title": "A Prince of the Captivity",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1933,
+    "avg_sentence_length": 14.973972602739726,
+    "smog_index": 9.117286292170483,
+    "flesch_reading_ease": 77.23458482279825,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Girl from Glengarry",
+    "author": "Connor, Ralph [pen name of Rev. Charles William Gordon]",
+    "year": 1933,
+    "avg_sentence_length": 10.975072540226853,
+    "smog_index": 8.69568868540292,
+    "flesch_reading_ease": 78.53243979955964,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Master of Jalna",
+    "author": "de la Roche, Mazo",
+    "year": 1933,
+    "avg_sentence_length": 11.409756097560976,
+    "smog_index": 7.850795924861112,
+    "flesch_reading_ease": 83.32087823647798,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Fruits of the Earth",
+    "author": "Grove, Frederick Philip",
+    "year": 1933,
+    "avg_sentence_length": 13.763963963963963,
+    "smog_index": 8.548299462172508,
+    "flesch_reading_ease": 78.94892755744544,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Pat of Silver Bush",
+    "author": "Montgomery, L. M.",
+    "year": 1933,
+    "avg_sentence_length": 11.866884888161485,
+    "smog_index": 7.434257735324329,
+    "flesch_reading_ease": 83.85645608272355,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Free Fishers",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1934,
+    "avg_sentence_length": 15.03390352904916,
+    "smog_index": 8.37654759961256,
+    "flesch_reading_ease": 81.39569759973313,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Pilgrims of the Wild",
+    "author": "Grey Owl [Belaney, Archibald Stansfeld]",
+    "year": 1934,
+    "avg_sentence_length": 26.726708074534162,
+    "smog_index": 12.113485241592013,
+    "flesch_reading_ease": 59.87748316192578,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The House of the Four Winds",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1935,
+    "avg_sentence_length": 14.52094375106856,
+    "smog_index": 9.24879952564267,
+    "flesch_reading_ease": 77.19849916588785,
+    "text_standard": 7.0
+  },
+  {
+    "title": "The Crimson Sign",
+    "author": "Cody, Hiram Alfred",
+    "year": 1935,
+    "avg_sentence_length": 12.911484339536996,
+    "smog_index": 7.963530398814371,
+    "flesch_reading_ease": 82.45663287645561,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Young Renny",
+    "author": "de la Roche, Mazo",
+    "year": 1935,
+    "avg_sentence_length": 11.492664880724583,
+    "smog_index": 8.021799306715248,
+    "flesch_reading_ease": 82.5806054783952,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Adventures of Sajo and her Beaver People",
+    "author": "Grey Owl [Belaney, Archibald Stansfeld]",
+    "year": 1935,
+    "avg_sentence_length": 28.69676048858205,
+    "smog_index": 9.922784260872831,
+    "flesch_reading_ease": 66.52820782427575,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Mistress Pat",
+    "author": "Montgomery, L. M.",
+    "year": 1935,
+    "avg_sentence_length": 11.759342146351619,
+    "smog_index": 7.697259909627185,
+    "flesch_reading_ease": 82.63270432521335,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Think of the Earth",
+    "author": "Brooker, Bertram",
+    "year": 1936,
+    "avg_sentence_length": 13.74620543593364,
+    "smog_index": 8.82569142794435,
+    "flesch_reading_ease": 77.87869577418442,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Island of Sheep [U.S. title: The Man from the Norlands ]",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1936,
+    "avg_sentence_length": 16.390883720930233,
+    "smog_index": 8.963312564312462,
+    "flesch_reading_ease": 78.54384501426615,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Whiteoak Harvest",
+    "author": "de la Roche, Mazo",
+    "year": 1936,
+    "avg_sentence_length": 11.43672328086164,
+    "smog_index": 7.9234826677336105,
+    "flesch_reading_ease": 83.01583782015773,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Whiteoaks. A Play.",
+    "author": "de la Roche, Mazo",
+    "year": 1936,
+    "avg_sentence_length": 7.845427221983684,
+    "smog_index": 7.410285674221288,
+    "flesch_reading_ease": 83.95442201767257,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Kidnapping of Madame Storey and Other Stories",
+    "author": "Footner, Hulbert",
+    "year": 1936,
+    "avg_sentence_length": 10.931864269298364,
+    "smog_index": 8.260448766116383,
+    "flesch_reading_ease": 80.48508853846141,
+    "text_standard": 5.0
+  },
+  {
+    "title": "Anne of Windy Poplars",
+    "author": "Montgomery, L. M.",
+    "year": 1936,
+    "avg_sentence_length": 11.564468766684463,
+    "smog_index": 8.080443947051899,
+    "flesch_reading_ease": 81.43323760701605,
+    "text_standard": 5.0
+  },
+  {
+    "title": "Fighting Stars",
+    "author": "Cody, Hiram Alfred",
+    "year": 1937,
+    "avg_sentence_length": 12.578377554132357,
+    "smog_index": 7.601825610009367,
+    "flesch_reading_ease": 84.46300551765975,
+    "text_standard": 5.0
+  },
+  {
+    "title": "The Almost Perfect Murder. A Case Book of Madame Storey. ",
+    "author": "Footner, Hulbert",
+    "year": 1937,
+    "avg_sentence_length": 10.969530304696953,
+    "smog_index": 8.57976320477667,
+    "flesch_reading_ease": 78.73330811332094,
+    "text_standard": 5.0
+  },
+  {
+    "title": "The Obeah Murders",
+    "author": "Footner, Hulbert",
+    "year": 1937,
+    "avg_sentence_length": 10.563841284545314,
+    "smog_index": 7.745762970163987,
+    "flesch_reading_ease": 83.70135679172306,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Jane of Lantern Hill",
+    "author": "Montgomery, L. M.",
+    "year": 1937,
+    "avg_sentence_length": 11.53884323150876,
+    "smog_index": 7.664640217647914,
+    "flesch_reading_ease": 83.9347950327501,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Staff at Simson's",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1937,
+    "avg_sentence_length": 15.202298050139277,
+    "smog_index": 9.296194086701934,
+    "flesch_reading_ease": 73.72209722189969,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Growth of a Man",
+    "author": "de la Roche, Mazo",
+    "year": 1938,
+    "avg_sentence_length": 11.215199859747546,
+    "smog_index": 7.583235372755176,
+    "flesch_reading_ease": 84.80961283235102,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Swiss Sonata",
+    "author": "Graham, Gwethalyn",
+    "year": 1938,
+    "avg_sentence_length": 16.05542168674699,
+    "smog_index": 9.877645318664777,
+    "flesch_reading_ease": 71.98362767232823,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Anne of Ingleside",
+    "author": "Montgomery, L. M.",
+    "year": 1939,
+    "avg_sentence_length": 11.497044163672191,
+    "smog_index": 7.860240238384057,
+    "flesch_reading_ease": 82.04706492660755,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Sinfully Rich",
+    "author": "Footner, Hulbert",
+    "year": 1940,
+    "avg_sentence_length": 10.256889304063522,
+    "smog_index": 8.005495269737317,
+    "flesch_reading_ease": 81.68390216511871,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Sick Heart River",
+    "author": "Buchan, John [first Baron Tweedsmuir of Elsfield]",
+    "year": 1941,
+    "avg_sentence_length": 15.799370299107924,
+    "smog_index": 9.040733510662422,
+    "flesch_reading_ease": 77.33114288291253,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Who Killed the Husband?",
+    "author": "Footner, Hulbert",
+    "year": 1941,
+    "avg_sentence_length": 11.254043767840152,
+    "smog_index": 8.242886610396432,
+    "flesch_reading_ease": 80.82878406059324,
+    "text_standard": 5.0
+  },
+  {
+    "title": "The House with the Blue Door",
+    "author": "Footner, Hulbert",
+    "year": 1942,
+    "avg_sentence_length": 10.962423536265657,
+    "smog_index": 7.794386915046995,
+    "flesch_reading_ease": 83.59077283641713,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Building of Jalna",
+    "author": "de la Roche, Mazo",
+    "year": 1944,
+    "avg_sentence_length": 11.403565136283552,
+    "smog_index": 8.12554815361128,
+    "flesch_reading_ease": 81.74816050748143,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Earth and High Heaven",
+    "author": "Graham, Gwethalyn",
+    "year": 1944,
+    "avg_sentence_length": 18.043101860379444,
+    "smog_index": 10.116084345419608,
+    "flesch_reading_ease": 72.19236517290564,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Master of the Mill",
+    "author": "Grove, Frederick Philip",
+    "year": 1944,
+    "avg_sentence_length": 16.918721824449747,
+    "smog_index": 9.961798670781267,
+    "flesch_reading_ease": 71.6318361464688,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Transplanted",
+    "author": "Niven, Frederick [Frederick John]",
+    "year": 1944,
+    "avg_sentence_length": 16.207438449449974,
+    "smog_index": 9.307185521617104,
+    "flesch_reading_ease": 75.82445643793238,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Orchids to Murder",
+    "author": "Footner, Hulbert",
+    "year": 1945,
+    "avg_sentence_length": 11.058986475476617,
+    "smog_index": 8.152352193124571,
+    "flesch_reading_ease": 81.10239765724141,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Consider Her Ways",
+    "author": "Grove, Frederick Philip",
+    "year": 1947,
+    "avg_sentence_length": 25.191849182145827,
+    "smog_index": 12.647281296335372,
+    "flesch_reading_ease": 57.34317594915038,
+    "text_standard": 12.0
+  },
+  {
+    "title": "The Road South",
+    "author": "Kennedy, Roderick Stuart",
+    "year": 1947,
+    "avg_sentence_length": 15.011366825708672,
+    "smog_index": 9.550648543571555,
+    "flesch_reading_ease": 73.73690393168641,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Robber. A Tale of the Time of the Herods.",
+    "author": "Brooker, Bertram",
+    "year": 1949,
+    "avg_sentence_length": 13.365050448430493,
+    "smog_index": 8.026311454289768,
+    "flesch_reading_ease": 81.91358061752874,
+    "text_standard": 8.0
+  },
+  {
+    "title": "Mary Wakefield",
+    "author": "de la Roche, Mazo",
+    "year": 1949,
+    "avg_sentence_length": 11.221271806415306,
+    "smog_index": 7.8431469872829815,
+    "flesch_reading_ease": 83.11182169008352,
+    "text_standard": 7.0
+  },
+  {
+    "title": "Renny's Daughter",
+    "author": "de la Roche, Mazo",
+    "year": 1951,
+    "avg_sentence_length": 11.101672240802676,
+    "smog_index": 7.940753012118611,
+    "flesch_reading_ease": 83.89864750124225,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Rotting Hill",
+    "author": "Lewis, Percy Wyndham",
+    "year": 1951,
+    "avg_sentence_length": 15.62328094302554,
+    "smog_index": 10.802471396293917,
+    "flesch_reading_ease": 66.26225148010157,
+    "text_standard": 9.0
+  },
+  {
+    "title": "The Silver Chalice",
+    "author": "Costain, Thomas B. [Thomas Bertram]",
+    "year": 1952,
+    "avg_sentence_length": 14.259611748392789,
+    "smog_index": 8.746901029184315,
+    "flesch_reading_ease": 79.74335075161,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The Whiteoak Brothers",
+    "author": "de la Roche, Mazo",
+    "year": 1953,
+    "avg_sentence_length": 11.353880093433688,
+    "smog_index": 7.973764357901537,
+    "flesch_reading_ease": 82.5952573179567,
+    "text_standard": 6.0
+  },
+  {
+    "title": "Self Condemned",
+    "author": "Lewis, Percy Wyndham",
+    "year": 1954,
+    "avg_sentence_length": 16.57806967447173,
+    "smog_index": 10.895016167903108,
+    "flesch_reading_ease": 66.58019277956032,
+    "text_standard": 9.0
+  },
+  {
+    "title": "Peace River Country",
+    "author": "Allen, Ralph",
+    "year": 1958,
+    "avg_sentence_length": 14.254451733833177,
+    "smog_index": 8.960412221406422,
+    "flesch_reading_ease": 75.40380371475581,
+    "text_standard": 8.0
+  },
+  {
+    "title": "The Darkness and the Dawn",
+    "author": "Costain, Thomas B. [Thomas Bertram]",
+    "year": 1959,
+    "avg_sentence_length": 13.233748055987558,
+    "smog_index": 8.392617929536932,
+    "flesch_reading_ease": 81.72056505026184,
+    "text_standard": 6.0
+  },
+  {
+    "title": "The High White Forest",
+    "author": "Allen, Ralph",
+    "year": 1964,
+    "avg_sentence_length": 14.043586665435406,
+    "smog_index": 9.30620186625276,
+    "flesch_reading_ease": 74.14865890201295,
+    "text_standard": 8.0
+  }
+]

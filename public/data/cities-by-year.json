@@ -1,0 +1,11513 @@
+[
+  {
+    "timestamp": 1769,
+    "entries": [
+      {
+        "label": "Montague",
+        "value": 76
+      },
+      {
+        "label": "London",
+        "value": 32
+      },
+      {
+        "label": "Rivers",
+        "value": 379
+      },
+      {
+        "label": "Quebec",
+        "value": 130
+      },
+      {
+        "label": "Montreal",
+        "value": 74
+      },
+      {
+        "label": "Repentigny",
+        "value": 1
+      },
+      {
+        "label": "Beaumont",
+        "value": 1
+      },
+      {
+        "label": "Vauxhall",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Richmond",
+        "value": 8
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Melville",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 5
+      },
+      {
+        "label": "Hanover",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1823,
+    "entries": [
+      {
+        "label": "London",
+        "value": 8
+      },
+      {
+        "label": "Brooks",
+        "value": 3
+      },
+      {
+        "label": "Hampstead",
+        "value": 7
+      },
+      {
+        "label": "Sidney",
+        "value": 32
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Richmond",
+        "value": 22
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1827,
+    "entries": [
+      {
+        "label": "London",
+        "value": 5
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1828,
+    "entries": [
+      {
+        "label": "London",
+        "value": 5
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1832,
+    "entries": [
+      {
+        "label": "Tecumseh",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 6
+      },
+      {
+        "label": "Montreal",
+        "value": 10
+      },
+      {
+        "label": "Rivers",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 20
+      },
+      {
+        "label": "Amherst",
+        "value": 2
+      },
+      {
+        "label": "Manitou",
+        "value": 2
+      },
+      {
+        "label": "Winkler",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 218
+      },
+      {
+        "label": "Middleton",
+        "value": 16
+      },
+      {
+        "label": "Cornwall",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "timestamp": 1836,
+    "entries": [
+      {
+        "label": "Chandler",
+        "value": 3
+      },
+      {
+        "label": "Windsor",
+        "value": 13
+      },
+      {
+        "label": "Truro",
+        "value": 4
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Eastport",
+        "value": 4
+      },
+      {
+        "label": "London",
+        "value": 7
+      },
+      {
+        "label": "Amherst",
+        "value": 10
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Yarmouth",
+        "value": 3
+      },
+      {
+        "label": "Shelburne",
+        "value": 2
+      },
+      {
+        "label": "Pictou",
+        "value": 1
+      },
+      {
+        "label": "Lunenburg",
+        "value": 2
+      },
+      {
+        "label": "Miramichi",
+        "value": 1
+      },
+      {
+        "label": "Kentville",
+        "value": 1
+      },
+      {
+        "label": "Lanigan",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Fredericton",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1840,
+    "entries": [
+      {
+        "label": "Chandler",
+        "value": 4
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Tecumseh",
+        "value": 90
+      },
+      {
+        "label": "Amherstburg",
+        "value": 82
+      },
+      {
+        "label": "Raymond",
+        "value": 100
+      },
+      {
+        "label": "Langley",
+        "value": 12
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Burlington",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1843,
+    "entries": [
+      {
+        "label": "Chandler",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 13
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 3
+      },
+      {
+        "label": "Russell",
+        "value": 4
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 3
+      },
+      {
+        "label": "Shannon",
+        "value": 1
+      },
+      {
+        "label": "Gander",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1844,
+    "entries": [
+      {
+        "label": "Chandler",
+        "value": 6
+      },
+      {
+        "label": "London",
+        "value": 72
+      },
+      {
+        "label": "Pictou",
+        "value": 2
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Gander",
+        "value": 9
+      },
+      {
+        "label": "Hampden",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 5
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Hanover",
+        "value": 2
+      },
+      {
+        "label": "Russell",
+        "value": 12
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Scott",
+        "value": 5
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Digby",
+        "value": 4
+      },
+      {
+        "label": "Nelson",
+        "value": 3
+      },
+      {
+        "label": "Shannon",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 56
+      },
+      {
+        "label": "Montreal",
+        "value": 37
+      },
+      {
+        "label": "Oxford",
+        "value": 4
+      },
+      {
+        "label": "Badger",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "timestamp": 1850,
+    "entries": [
+      {
+        "label": "Branch",
+        "value": 1
+      },
+      {
+        "label": "Gretna",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1852,
+    "entries": [
+      {
+        "label": "London",
+        "value": 2
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Peterborough",
+        "value": 4
+      },
+      {
+        "label": "Cobourg",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 20
+      },
+      {
+        "label": "Quebec",
+        "value": 8
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Sackville",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Southey",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 4
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Sherbrooke",
+        "value": 1
+      },
+      {
+        "label": "Branch",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 3
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Belleville",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1853,
+    "entries": [
+      {
+        "label": "London",
+        "value": 20
+      },
+      {
+        "label": "Oxford",
+        "value": 7
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Southey",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Moncton",
+        "value": 223
+      },
+      {
+        "label": "Beaumont",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 3
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Hepburn",
+        "value": 6
+      },
+      {
+        "label": "Wilkie",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1854,
+    "entries": [
+      {
+        "label": "London",
+        "value": 22
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Aberdeen",
+        "value": 3
+      },
+      {
+        "label": "Yarmouth",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 15
+      },
+      {
+        "label": "Berwick",
+        "value": 2
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Triton",
+        "value": 1
+      },
+      {
+        "label": "Gaspé",
+        "value": 1
+      },
+      {
+        "label": "Miramichi",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1856,
+    "entries": [
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 6
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1868,
+    "entries": [
+      {
+        "label": "London",
+        "value": 1
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Kirkland",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1869,
+    "entries": [
+      {
+        "label": "Aurora",
+        "value": 6
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Castor",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1871,
+    "entries": [
+      {
+        "label": "Moncton",
+        "value": 6
+      },
+      {
+        "label": "Shediac",
+        "value": 3
+      },
+      {
+        "label": "Scott",
+        "value": 18
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 20
+      },
+      {
+        "label": "Outlook",
+        "value": 1
+      },
+      {
+        "label": "Eastport",
+        "value": 8
+      },
+      {
+        "label": "Digby",
+        "value": 9
+      },
+      {
+        "label": "Brandon",
+        "value": 816
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 71
+      },
+      {
+        "label": "Smithers",
+        "value": 113
+      },
+      {
+        "label": "Paradise",
+        "value": 4
+      },
+      {
+        "label": "Pembroke",
+        "value": 3
+      },
+      {
+        "label": "Courtenay",
+        "value": 17
+      },
+      {
+        "label": "Trinity",
+        "value": 4
+      },
+      {
+        "label": "Quebec",
+        "value": 21
+      },
+      {
+        "label": "Montreal",
+        "value": 5
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 4
+      },
+      {
+        "label": "Golden",
+        "value": 74
+      },
+      {
+        "label": "Humboldt",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Fleming",
+        "value": 2
+      },
+      {
+        "label": "Langley",
+        "value": 141
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 13
+      },
+      {
+        "label": "Branch",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Peterborough",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1872,
+    "entries": [
+      {
+        "label": "London",
+        "value": 8
+      },
+      {
+        "label": "Brighton",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 6
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 12
+      },
+      {
+        "label": "Windsor",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "timestamp": 1874,
+    "entries": [
+      {
+        "label": "Terrace",
+        "value": 14
+      },
+      {
+        "label": "London",
+        "value": 28
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Alma",
+        "value": 1
+      },
+      {
+        "label": "Manning",
+        "value": 6
+      },
+      {
+        "label": "Markham",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Vernon",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1875,
+    "entries": [
+      {
+        "label": "Fleming",
+        "value": 9
+      },
+      {
+        "label": "London",
+        "value": 63
+      },
+      {
+        "label": "Quebec",
+        "value": 23
+      },
+      {
+        "label": "Grimshaw",
+        "value": 4
+      },
+      {
+        "label": "Englehart",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 15
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 7
+      },
+      {
+        "label": "Devon",
+        "value": 5
+      },
+      {
+        "label": "Montreal",
+        "value": 14
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 4
+      },
+      {
+        "label": "Hamilton",
+        "value": 4
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 5
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Lorraine",
+        "value": 1
+      },
+      {
+        "label": "Ajax",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 2
+      },
+      {
+        "label": "Rivers",
+        "value": 2
+      },
+      {
+        "label": "Lawn",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Allan",
+        "value": 6
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Branch",
+        "value": 2
+      },
+      {
+        "label": "Gretna",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 5
+      },
+      {
+        "label": "Wilkie",
+        "value": 2
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Smithers",
+        "value": 3
+      },
+      {
+        "label": "Dover",
+        "value": 6
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Burlington",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Sturgis",
+        "value": 1
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Duncan",
+        "value": 4
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Sunnyside",
+        "value": 1
+      },
+      {
+        "label": "Springdale",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1876,
+    "entries": [
+      {
+        "label": "Fleming",
+        "value": 4
+      },
+      {
+        "label": "London",
+        "value": 11
+      },
+      {
+        "label": "Allan",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Vaughan",
+        "value": 226
+      },
+      {
+        "label": "Oxford",
+        "value": 3
+      },
+      {
+        "label": "Cupids",
+        "value": 1
+      },
+      {
+        "label": "Hepburn",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 38
+      },
+      {
+        "label": "Branch",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Vernon",
+        "value": 1
+      },
+      {
+        "label": "Sidney",
+        "value": 2
+      },
+      {
+        "label": "Shelburne",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 2
+      },
+      {
+        "label": "MacGregor",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 4
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Digby",
+        "value": 3
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1879,
+    "entries": [
+      {
+        "label": "Fleming",
+        "value": 5
+      },
+      {
+        "label": "London",
+        "value": 3
+      },
+      {
+        "label": "Fortune",
+        "value": 3
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 3
+      },
+      {
+        "label": "Lanigan",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Bonaventure",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1881,
+    "entries": [
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 5
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1882,
+    "entries": [
+      {
+        "label": "Cobourg",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 20
+      },
+      {
+        "label": "Quebec",
+        "value": 8
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Sackville",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 1
+      },
+      {
+        "label": "Southey",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1883,
+    "entries": [
+      {
+        "label": "Fleming",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 24
+      },
+      {
+        "label": "Rivers",
+        "value": 46
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Vulcan",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1884,
+    "entries": [
+      {
+        "label": "London",
+        "value": 83
+      },
+      {
+        "label": "Terrace",
+        "value": 11
+      },
+      {
+        "label": "Herbert",
+        "value": 225
+      },
+      {
+        "label": "Oxford",
+        "value": 109
+      },
+      {
+        "label": "Devon",
+        "value": 5
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Pembroke",
+        "value": 8
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Thorold",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Sutton",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 3
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1885,
+    "entries": [
+      {
+        "label": "Brooks",
+        "value": 2
+      },
+      {
+        "label": "Nelson",
+        "value": 29
+      },
+      {
+        "label": "Montreal",
+        "value": 28
+      },
+      {
+        "label": "Toronto",
+        "value": 327
+      },
+      {
+        "label": "Hamilton",
+        "value": 34
+      },
+      {
+        "label": "Francis",
+        "value": 325
+      },
+      {
+        "label": "Imperial",
+        "value": 48
+      },
+      {
+        "label": "Richmond",
+        "value": 381
+      },
+      {
+        "label": "Oxford",
+        "value": 9
+      },
+      {
+        "label": "Kingston",
+        "value": 47
+      },
+      {
+        "label": "Brockville",
+        "value": 14
+      },
+      {
+        "label": "Lincoln",
+        "value": 5
+      },
+      {
+        "label": "Milton",
+        "value": 4
+      },
+      {
+        "label": "Merritt",
+        "value": 9
+      },
+      {
+        "label": "Welland",
+        "value": 12
+      },
+      {
+        "label": "Russell",
+        "value": 18
+      },
+      {
+        "label": "Cornwall",
+        "value": 5
+      },
+      {
+        "label": "Watson",
+        "value": 5
+      },
+      {
+        "label": "Markham",
+        "value": 8
+      },
+      {
+        "label": "Collingwood",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 21
+      },
+      {
+        "label": "Gladstone",
+        "value": 2
+      },
+      {
+        "label": "Victoria",
+        "value": 7
+      },
+      {
+        "label": "Woodstock",
+        "value": 5
+      },
+      {
+        "label": "Mississauga",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 46
+      },
+      {
+        "label": "Newmarket",
+        "value": 6
+      },
+      {
+        "label": "Goderich",
+        "value": 17
+      },
+      {
+        "label": "Scott",
+        "value": 14
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Allan",
+        "value": 36
+      },
+      {
+        "label": "Windsor",
+        "value": 10
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Dalhousie",
+        "value": 5
+      },
+      {
+        "label": "Bathurst",
+        "value": 2
+      },
+      {
+        "label": "Strathmore",
+        "value": 4
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 6
+      },
+      {
+        "label": "Thompson",
+        "value": 17
+      },
+      {
+        "label": "Dundurn",
+        "value": 2
+      },
+      {
+        "label": "Vaughan",
+        "value": 2
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Brantford",
+        "value": 4
+      },
+      {
+        "label": "Marathon",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Aylmer",
+        "value": 1
+      },
+      {
+        "label": "Shannon",
+        "value": 2
+      },
+      {
+        "label": "Pembroke",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 2
+      },
+      {
+        "label": "Gaspé",
+        "value": 1
+      },
+      {
+        "label": "Barrie",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 2
+      },
+      {
+        "label": "Rivers",
+        "value": 2
+      },
+      {
+        "label": "Midland",
+        "value": 6
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 19
+      },
+      {
+        "label": "Caledon",
+        "value": 1
+      },
+      {
+        "label": "Penetanguishene",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Pickering",
+        "value": 5
+      },
+      {
+        "label": "Aurora",
+        "value": 3
+      },
+      {
+        "label": "Yarmouth",
+        "value": 3
+      },
+      {
+        "label": "Morden",
+        "value": 1
+      },
+      {
+        "label": "Oakville",
+        "value": 3
+      },
+      {
+        "label": "Cobourg",
+        "value": 2
+      },
+      {
+        "label": "Whitby",
+        "value": 2
+      },
+      {
+        "label": "Magrath",
+        "value": 4
+      },
+      {
+        "label": "Manning",
+        "value": 3
+      },
+      {
+        "label": "Golden",
+        "value": 4
+      },
+      {
+        "label": "Guelph",
+        "value": 2
+      },
+      {
+        "label": "Grimsby",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 6
+      },
+      {
+        "label": "Oshawa",
+        "value": 3
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 3
+      },
+      {
+        "label": "Burlington",
+        "value": 1
+      },
+      {
+        "label": "Amherstburg",
+        "value": 11
+      },
+      {
+        "label": "Amherst",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Belleville",
+        "value": 1
+      },
+      {
+        "label": "Fleming",
+        "value": 4
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Regina",
+        "value": 3
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1888,
+    "entries": [
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 6
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 44
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 6
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 4
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 4
+      },
+      {
+        "label": "Vulcan",
+        "value": 2
+      },
+      {
+        "label": "Midland",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1890,
+    "entries": [
+      {
+        "label": "Kensington",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Montague",
+        "value": 133
+      },
+      {
+        "label": "London",
+        "value": 34
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 6
+      },
+      {
+        "label": "Surrey",
+        "value": 7
+      },
+      {
+        "label": "Leamington",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 7
+      },
+      {
+        "label": "Devon",
+        "value": 2
+      },
+      {
+        "label": "Kimberley",
+        "value": 7
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Humboldt",
+        "value": 4
+      },
+      {
+        "label": "Morse",
+        "value": 2
+      },
+      {
+        "label": "Grimsby",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1891,
+    "entries": [
+      {
+        "label": "London",
+        "value": 11
+      },
+      {
+        "label": "Imperial",
+        "value": 2
+      },
+      {
+        "label": "Courtenay",
+        "value": 21
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 22
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1892,
+    "entries": [
+      {
+        "label": "London",
+        "value": 29
+      },
+      {
+        "label": "Hudson",
+        "value": 16
+      },
+      {
+        "label": "Carman",
+        "value": 2
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 3
+      },
+      {
+        "label": "Quebec",
+        "value": 8
+      },
+      {
+        "label": "Windsor",
+        "value": 14
+      },
+      {
+        "label": "Golden",
+        "value": 11
+      },
+      {
+        "label": "Trinity",
+        "value": 6
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Viking",
+        "value": 61
+      },
+      {
+        "label": "Vancouver",
+        "value": 4
+      },
+      {
+        "label": "Winnipeg",
+        "value": 5
+      },
+      {
+        "label": "Levis",
+        "value": 5
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 2
+      },
+      {
+        "label": "Erin",
+        "value": 1
+      },
+      {
+        "label": "Kearney",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Triton",
+        "value": 2
+      },
+      {
+        "label": "Treherne",
+        "value": 72
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Lacombe",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1893,
+    "entries": [
+      {
+        "label": "Cornwall",
+        "value": 13
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 66
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Truro",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Midland",
+        "value": 6
+      },
+      {
+        "label": "Milton",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Victoria",
+        "value": 5
+      },
+      {
+        "label": "Fleming",
+        "value": 4
+      },
+      {
+        "label": "Fortune",
+        "value": 6
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      },
+      {
+        "label": "Ingersoll",
+        "value": 1
+      },
+      {
+        "label": "Hampstead",
+        "value": 5
+      },
+      {
+        "label": "Hudson",
+        "value": 16
+      },
+      {
+        "label": "Francis",
+        "value": 22
+      },
+      {
+        "label": "Wolseley",
+        "value": 1
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 5
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 5
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Belleville",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Manitou",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Gaspe",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1894,
+    "entries": [
+      {
+        "label": "Duncan",
+        "value": 4
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 16
+      },
+      {
+        "label": "London",
+        "value": 63
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Sandringham",
+        "value": 1
+      },
+      {
+        "label": "Wainwright",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Barrie",
+        "value": 2
+      },
+      {
+        "label": "Hampstead",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Essex",
+        "value": 6
+      },
+      {
+        "label": "Burlington",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 10
+      },
+      {
+        "label": "Quebec",
+        "value": 58
+      },
+      {
+        "label": "Hudson",
+        "value": 17
+      },
+      {
+        "label": "Montreal",
+        "value": 13
+      },
+      {
+        "label": "Carignan",
+        "value": 2
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Laval",
+        "value": 2
+      },
+      {
+        "label": "Radisson",
+        "value": 73
+      },
+      {
+        "label": "Morris",
+        "value": 218
+      },
+      {
+        "label": "Richelieu",
+        "value": 2
+      },
+      {
+        "label": "Portneuf",
+        "value": 1
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Levis",
+        "value": 4
+      },
+      {
+        "label": "Beaupre",
+        "value": 1
+      },
+      {
+        "label": "Macklin",
+        "value": 1
+      },
+      {
+        "label": "Prevost",
+        "value": 2
+      },
+      {
+        "label": "Clermont",
+        "value": 1
+      },
+      {
+        "label": "Beausejour",
+        "value": 2
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Moncton",
+        "value": 2
+      },
+      {
+        "label": "Lincoln",
+        "value": 2
+      },
+      {
+        "label": "Montague",
+        "value": 46
+      },
+      {
+        "label": "Bruno",
+        "value": 10
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1895,
+    "entries": [
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 60
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Gladstone",
+        "value": 4
+      },
+      {
+        "label": "Meadows",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 3
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 2
+      },
+      {
+        "label": "Lincoln",
+        "value": 11
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Berwick",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 2
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Armstrong",
+        "value": 5
+      },
+      {
+        "label": "Oliver",
+        "value": 4
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 13
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Disraeli",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 3
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Yarmouth",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "timestamp": 1896,
+    "entries": [
+      {
+        "label": "Golden",
+        "value": 60
+      },
+      {
+        "label": "Quebec",
+        "value": 243
+      },
+      {
+        "label": "Rigaud",
+        "value": 26
+      },
+      {
+        "label": "Lery",
+        "value": 8
+      },
+      {
+        "label": "Francis",
+        "value": 8
+      },
+      {
+        "label": "Repentigny",
+        "value": 178
+      },
+      {
+        "label": "Gallants",
+        "value": 1
+      },
+      {
+        "label": "Mercier",
+        "value": 16
+      },
+      {
+        "label": "Montreal",
+        "value": 23
+      },
+      {
+        "label": "Richelieu",
+        "value": 5
+      },
+      {
+        "label": "Beaupré",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Laval",
+        "value": 2
+      },
+      {
+        "label": "Rivers",
+        "value": 3
+      },
+      {
+        "label": "Carignan",
+        "value": 1
+      },
+      {
+        "label": "Dauphin",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Strasbourg",
+        "value": 1
+      },
+      {
+        "label": "Levis",
+        "value": 17
+      },
+      {
+        "label": "Manitou",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Dieppe",
+        "value": 2
+      },
+      {
+        "label": "Trail",
+        "value": 8
+      },
+      {
+        "label": "Montague",
+        "value": 2
+      },
+      {
+        "label": "Montmagny",
+        "value": 1
+      },
+      {
+        "label": "Bonaventure",
+        "value": 26
+      },
+      {
+        "label": "Hudson",
+        "value": 19
+      },
+      {
+        "label": "Gatineau",
+        "value": 6
+      },
+      {
+        "label": "Stavely",
+        "value": 4
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Killarney",
+        "value": 2
+      },
+      {
+        "label": "Athabasca",
+        "value": 19
+      },
+      {
+        "label": "Winnipeg",
+        "value": 5
+      },
+      {
+        "label": "London",
+        "value": 14
+      },
+      {
+        "label": "Devon",
+        "value": 2
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 2
+      },
+      {
+        "label": "Appleton",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 1
+      },
+      {
+        "label": "Amherst",
+        "value": 11
+      },
+      {
+        "label": "Herbert",
+        "value": 2
+      },
+      {
+        "label": "Hanover",
+        "value": 1
+      },
+      {
+        "label": "Beaupre",
+        "value": 2
+      },
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Gaspe",
+        "value": 4
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Candiac",
+        "value": 2
+      },
+      {
+        "label": "Miramichi",
+        "value": 1
+      },
+      {
+        "label": "Botwood",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Fredericton",
+        "value": 1
+      },
+      {
+        "label": "Woodstock",
+        "value": 2
+      },
+      {
+        "label": "Sutton",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1897,
+    "entries": [
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Vernon",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 20
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Dieppe",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 6
+      },
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Burlington",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 6
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Strasbourg",
+        "value": 4
+      },
+      {
+        "label": "Saguenay",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Whitby",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1898,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Nelson",
+        "value": 94
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 23
+      },
+      {
+        "label": "Vernon",
+        "value": 5
+      },
+      {
+        "label": "Oxford",
+        "value": 6
+      },
+      {
+        "label": "Cornwall",
+        "value": 1
+      },
+      {
+        "label": "Stonewall",
+        "value": 5
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 4
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 12
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Middleton",
+        "value": 9
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Whiteway",
+        "value": 1
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Herbert",
+        "value": 9
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Hague",
+        "value": 2
+      },
+      {
+        "label": "Gaspe",
+        "value": 9
+      },
+      {
+        "label": "Carignan",
+        "value": 6
+      },
+      {
+        "label": "Clermont",
+        "value": 1
+      },
+      {
+        "label": "Laval",
+        "value": 1
+      },
+      {
+        "label": "Perce",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "timestamp": 1899,
+    "entries": [
+      {
+        "label": "London",
+        "value": 49
+      },
+      {
+        "label": "Oxford",
+        "value": 46
+      },
+      {
+        "label": "Milton",
+        "value": 3
+      },
+      {
+        "label": "Avondale",
+        "value": 2
+      },
+      {
+        "label": "Estérel",
+        "value": 3
+      },
+      {
+        "label": "Manning",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 3
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 4
+      },
+      {
+        "label": "Watson",
+        "value": 3
+      },
+      {
+        "label": "Herbert",
+        "value": 11
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Grimshaw",
+        "value": 14
+      },
+      {
+        "label": "Kensington",
+        "value": 4
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 8
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Cartwright",
+        "value": 8
+      },
+      {
+        "label": "Midland",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 507
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Vernon",
+        "value": 45
+      },
+      {
+        "label": "Berwick",
+        "value": 9
+      },
+      {
+        "label": "Provost",
+        "value": 3
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Craik",
+        "value": 13
+      },
+      {
+        "label": "Holyrood",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 6
+      },
+      {
+        "label": "Hamilton",
+        "value": 13
+      },
+      {
+        "label": "Aberdeen",
+        "value": 1
+      },
+      {
+        "label": "Hanover",
+        "value": 2
+      },
+      {
+        "label": "Perth",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Renfrew",
+        "value": 2
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 2
+      },
+      {
+        "label": "Mattawa",
+        "value": 1
+      },
+      {
+        "label": "Princeton",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Middleton",
+        "value": 9
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1900,
+    "entries": [
+      {
+        "label": "Manning",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 46
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 7
+      },
+      {
+        "label": "Montague",
+        "value": 14
+      },
+      {
+        "label": "Kensington",
+        "value": 4
+      },
+      {
+        "label": "Waterloo",
+        "value": 4
+      },
+      {
+        "label": "Devon",
+        "value": 3
+      },
+      {
+        "label": "Hartland",
+        "value": 4
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Dieppe",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Sackville",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 39
+      },
+      {
+        "label": "Golden",
+        "value": 14
+      },
+      {
+        "label": "Hampstead",
+        "value": 1
+      },
+      {
+        "label": "Laval",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Levis",
+        "value": 3
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 16
+      },
+      {
+        "label": "Souris",
+        "value": 3
+      },
+      {
+        "label": "Alma",
+        "value": 4
+      },
+      {
+        "label": "Francis",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "timestamp": 1901,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 9
+      },
+      {
+        "label": "Huntingdon",
+        "value": 13
+      },
+      {
+        "label": "Montreal",
+        "value": 23
+      },
+      {
+        "label": "Hudson",
+        "value": 5
+      },
+      {
+        "label": "Pictou",
+        "value": 1
+      },
+      {
+        "label": "Dalhousie",
+        "value": 1
+      },
+      {
+        "label": "Hepburn",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 8
+      },
+      {
+        "label": "Hamilton",
+        "value": 8
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 4
+      },
+      {
+        "label": "Ottawa",
+        "value": 28
+      },
+      {
+        "label": "Quebec",
+        "value": 46
+      },
+      {
+        "label": "Branch",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 19
+      },
+      {
+        "label": "Langford",
+        "value": 3
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 4
+      },
+      {
+        "label": "Coronation",
+        "value": 1
+      },
+      {
+        "label": "Levis",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Gatineau",
+        "value": 5
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Rouleau",
+        "value": 26
+      },
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Charlemagne",
+        "value": 21
+      },
+      {
+        "label": "Dauphin",
+        "value": 63
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Saguenay",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1902,
+    "entries": [
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 20
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 61
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Erin",
+        "value": 2
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 5
+      },
+      {
+        "label": "Gaspe",
+        "value": 36
+      },
+      {
+        "label": "Manitou",
+        "value": 10
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 5
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Stratford",
+        "value": 11
+      },
+      {
+        "label": "Berwick",
+        "value": 48
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Beaumont",
+        "value": 2
+      },
+      {
+        "label": "Pembroke",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1903,
+    "entries": [
+      {
+        "label": "Duncan",
+        "value": 3
+      },
+      {
+        "label": "Farnham",
+        "value": 19
+      },
+      {
+        "label": "Imperial",
+        "value": 3
+      },
+      {
+        "label": "Carlyle",
+        "value": 2
+      },
+      {
+        "label": "Ingersoll",
+        "value": 11
+      },
+      {
+        "label": "London",
+        "value": 15
+      },
+      {
+        "label": "Kensington",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 21
+      },
+      {
+        "label": "Kipling",
+        "value": 3
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Abbotsford",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 6
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 27
+      },
+      {
+        "label": "Montreal",
+        "value": 7
+      },
+      {
+        "label": "Thompson",
+        "value": 5
+      },
+      {
+        "label": "Armstrong",
+        "value": 3
+      },
+      {
+        "label": "Manitou",
+        "value": 1
+      },
+      {
+        "label": "Midland",
+        "value": 3
+      },
+      {
+        "label": "Brantford",
+        "value": 1
+      },
+      {
+        "label": "Penetanguishene",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1904,
+    "entries": [
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 23
+      },
+      {
+        "label": "Toronto",
+        "value": 27
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Hampden",
+        "value": 2
+      },
+      {
+        "label": "Triton",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 37
+      },
+      {
+        "label": "Victoria",
+        "value": 11
+      },
+      {
+        "label": "Hamilton",
+        "value": 4
+      },
+      {
+        "label": "Oxford",
+        "value": 5
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Winnipeg",
+        "value": 6
+      },
+      {
+        "label": "Vancouver",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 5
+      },
+      {
+        "label": "Selkirk",
+        "value": 4
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 7
+      },
+      {
+        "label": "Warwick",
+        "value": 3
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 4
+      },
+      {
+        "label": "Disraeli",
+        "value": 3
+      },
+      {
+        "label": "Davidson",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 3
+      },
+      {
+        "label": "Greenwood",
+        "value": 3
+      },
+      {
+        "label": "Merritt",
+        "value": 11
+      },
+      {
+        "label": "Golden",
+        "value": 6
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Collingwood",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "MacGregor",
+        "value": 15
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Alma",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1906,
+    "entries": [
+      {
+        "label": "Trail",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Badger",
+        "value": 7
+      },
+      {
+        "label": "Windsor",
+        "value": 3
+      },
+      {
+        "label": "Erin",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 8
+      },
+      {
+        "label": "Ottawa",
+        "value": 3
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Mattawa",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1907,
+    "entries": [
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 58
+      },
+      {
+        "label": "Glenwood",
+        "value": 8
+      },
+      {
+        "label": "Hudson",
+        "value": 5
+      },
+      {
+        "label": "London",
+        "value": 46
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Cochrane",
+        "value": 3
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Gibbons",
+        "value": 1
+      },
+      {
+        "label": "Burlington",
+        "value": 1
+      },
+      {
+        "label": "Lorraine",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 1
+      },
+      {
+        "label": "Sandringham",
+        "value": 3
+      },
+      {
+        "label": "Dauphin",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Richelieu",
+        "value": 1
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Milton",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Alma",
+        "value": 1
+      },
+      {
+        "label": "Hampden",
+        "value": 1
+      },
+      {
+        "label": "Delta",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1908,
+    "entries": [
+      {
+        "label": "London",
+        "value": 4
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 105
+      },
+      {
+        "label": "Winnipeg",
+        "value": 18
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Fleming",
+        "value": 18
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Francis",
+        "value": 92
+      },
+      {
+        "label": "Roblin",
+        "value": 4
+      },
+      {
+        "label": "Waterloo",
+        "value": 3
+      },
+      {
+        "label": "Russell",
+        "value": 22
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Guelph",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 4
+      },
+      {
+        "label": "Souris",
+        "value": 2
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 11
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 75
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Carman",
+        "value": 1
+      },
+      {
+        "label": "Dunham",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1909,
+    "entries": [
+      {
+        "label": "Unity",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 44
+      },
+      {
+        "label": "Edmonton",
+        "value": 15
+      },
+      {
+        "label": "Trail",
+        "value": 7
+      },
+      {
+        "label": "London",
+        "value": 9
+      },
+      {
+        "label": "Hudson",
+        "value": 22
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Herbert",
+        "value": 6
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 3
+      },
+      {
+        "label": "Lamont",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 8
+      },
+      {
+        "label": "Charlottetown",
+        "value": 8
+      },
+      {
+        "label": "Allan",
+        "value": 38
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 5
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 3
+      },
+      {
+        "label": "Mirabel",
+        "value": 9
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Athabasca",
+        "value": 7
+      },
+      {
+        "label": "Gatineau",
+        "value": 1
+      },
+      {
+        "label": "Appleton",
+        "value": 7
+      },
+      {
+        "label": "Amos",
+        "value": 2
+      },
+      {
+        "label": "Manitou",
+        "value": 5
+      },
+      {
+        "label": "Francis",
+        "value": 5
+      },
+      {
+        "label": "Quebec",
+        "value": 4
+      },
+      {
+        "label": "Lacombe",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1910,
+    "entries": [
+      {
+        "label": "Creighton",
+        "value": 22
+      },
+      {
+        "label": "Montreal",
+        "value": 10
+      },
+      {
+        "label": "Winnipeg",
+        "value": 35
+      },
+      {
+        "label": "Watson",
+        "value": 9
+      },
+      {
+        "label": "Toronto",
+        "value": 16
+      },
+      {
+        "label": "Vancouver",
+        "value": 20
+      },
+      {
+        "label": "Assiniboia",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 14
+      },
+      {
+        "label": "Langley",
+        "value": 1
+      },
+      {
+        "label": "Clermont",
+        "value": 3
+      },
+      {
+        "label": "Hamilton",
+        "value": 11
+      },
+      {
+        "label": "Brandon",
+        "value": 4
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Thompson",
+        "value": 26
+      },
+      {
+        "label": "Lincoln",
+        "value": 12
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 5
+      },
+      {
+        "label": "Scott",
+        "value": 5
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Morse",
+        "value": 1
+      },
+      {
+        "label": "Lorraine",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Francis",
+        "value": 45
+      },
+      {
+        "label": "Richmond",
+        "value": 2
+      },
+      {
+        "label": "Langford",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Selkirk",
+        "value": 4
+      },
+      {
+        "label": "Charlottetown",
+        "value": 5
+      },
+      {
+        "label": "Souris",
+        "value": 1
+      },
+      {
+        "label": "Devon",
+        "value": 49
+      },
+      {
+        "label": "Hartland",
+        "value": 21
+      },
+      {
+        "label": "Raleigh",
+        "value": 2
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 2
+      },
+      {
+        "label": "Richelieu",
+        "value": 1
+      },
+      {
+        "label": "Markham",
+        "value": 3
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Newmarket",
+        "value": 2
+      },
+      {
+        "label": "Merritt",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "timestamp": 1911,
+    "entries": [
+      {
+        "label": "London",
+        "value": 49
+      },
+      {
+        "label": "Toronto",
+        "value": 23
+      },
+      {
+        "label": "Vancouver",
+        "value": 68
+      },
+      {
+        "label": "Victoria",
+        "value": 16
+      },
+      {
+        "label": "Nanaimo",
+        "value": 10
+      },
+      {
+        "label": "Kamloops",
+        "value": 1
+      },
+      {
+        "label": "Clermont",
+        "value": 29
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 14
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Comox",
+        "value": 16
+      },
+      {
+        "label": "Cupar",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Mirabel",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Grenfell",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 5
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Brantford",
+        "value": 2
+      },
+      {
+        "label": "Scott",
+        "value": 23
+      },
+      {
+        "label": "Aberdeen",
+        "value": 1
+      },
+      {
+        "label": "Battleford",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 7
+      },
+      {
+        "label": "Milestone",
+        "value": 6
+      },
+      {
+        "label": "Summerside",
+        "value": 4
+      },
+      {
+        "label": "Montreal",
+        "value": 9
+      },
+      {
+        "label": "Berwick",
+        "value": 3
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Montague",
+        "value": 53
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Outlook",
+        "value": 1
+      },
+      {
+        "label": "Vernon",
+        "value": 7
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1912,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 8
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 50
+      },
+      {
+        "label": "Montreal",
+        "value": 37
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 19
+      },
+      {
+        "label": "Richelieu",
+        "value": 6
+      },
+      {
+        "label": "Levis",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 72
+      },
+      {
+        "label": "Charlemagne",
+        "value": 2
+      },
+      {
+        "label": "Stratford",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 6
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 17
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Rivers",
+        "value": 3
+      },
+      {
+        "label": "Manitou",
+        "value": 1
+      },
+      {
+        "label": "Sackville",
+        "value": 1
+      },
+      {
+        "label": "Richmond",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 5
+      },
+      {
+        "label": "Vernon",
+        "value": 3
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Eastport",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 4
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Fleming",
+        "value": 17
+      },
+      {
+        "label": "Duncan",
+        "value": 34
+      },
+      {
+        "label": "Woodstock",
+        "value": 2
+      },
+      {
+        "label": "Calgary",
+        "value": 3
+      },
+      {
+        "label": "Edmonton",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 20
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 6
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 21
+      },
+      {
+        "label": "Souris",
+        "value": 6
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 2
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 1
+      },
+      {
+        "label": "Barrie",
+        "value": 3
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Dawson",
+        "value": 12
+      },
+      {
+        "label": "Trenton",
+        "value": 20
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Milton",
+        "value": 4
+      },
+      {
+        "label": "Charlottetown",
+        "value": 4
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 22
+      },
+      {
+        "label": "Markham",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1913,
+    "entries": [
+      {
+        "label": "Herbert",
+        "value": 30
+      },
+      {
+        "label": "Imperial",
+        "value": 4
+      },
+      {
+        "label": "Montreal",
+        "value": 15
+      },
+      {
+        "label": "Winnipeg",
+        "value": 11
+      },
+      {
+        "label": "London",
+        "value": 83
+      },
+      {
+        "label": "Toronto",
+        "value": 16
+      },
+      {
+        "label": "Banff",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 16
+      },
+      {
+        "label": "Regina",
+        "value": 17
+      },
+      {
+        "label": "Saskatoon",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 3
+      },
+      {
+        "label": "Vancouver",
+        "value": 15
+      },
+      {
+        "label": "Ottawa",
+        "value": 19
+      },
+      {
+        "label": "Brandon",
+        "value": 5
+      },
+      {
+        "label": "Watson",
+        "value": 4
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Dawson",
+        "value": 86
+      },
+      {
+        "label": "Raleigh",
+        "value": 2
+      },
+      {
+        "label": "Berwick",
+        "value": 120
+      },
+      {
+        "label": "Fortune",
+        "value": 6
+      },
+      {
+        "label": "Hudson",
+        "value": 40
+      },
+      {
+        "label": "Rivers",
+        "value": 2
+      },
+      {
+        "label": "Trail",
+        "value": 17
+      },
+      {
+        "label": "Victoria",
+        "value": 10
+      },
+      {
+        "label": "Selkirk",
+        "value": 3
+      },
+      {
+        "label": "Brantford",
+        "value": 4
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Calgary",
+        "value": 5
+      },
+      {
+        "label": "Emerson",
+        "value": 3
+      },
+      {
+        "label": "Manitou",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Penetanguishene",
+        "value": 4
+      },
+      {
+        "label": "Barrie",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 12
+      },
+      {
+        "label": "Peterborough",
+        "value": 2
+      },
+      {
+        "label": "Cornwall",
+        "value": 10
+      },
+      {
+        "label": "Allan",
+        "value": 11
+      },
+      {
+        "label": "Duncan",
+        "value": 25
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Kamloops",
+        "value": 3
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Ingersoll",
+        "value": 1
+      },
+      {
+        "label": "Enderby",
+        "value": 153
+      },
+      {
+        "label": "Golden",
+        "value": 21
+      },
+      {
+        "label": "Carlyle",
+        "value": 3
+      },
+      {
+        "label": "Charlottetown",
+        "value": 15
+      },
+      {
+        "label": "Davidson",
+        "value": 11
+      },
+      {
+        "label": "Montague",
+        "value": 6
+      },
+      {
+        "label": "Amos",
+        "value": 3
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 5
+      },
+      {
+        "label": "Milestone",
+        "value": 13
+      },
+      {
+        "label": "Georgina",
+        "value": 7
+      },
+      {
+        "label": "Melita",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Summerside",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 18
+      },
+      {
+        "label": "Terrace",
+        "value": 4
+      },
+      {
+        "label": "Hampstead",
+        "value": 5
+      },
+      {
+        "label": "Oliver",
+        "value": 3
+      },
+      {
+        "label": "Hampden",
+        "value": 1
+      },
+      {
+        "label": "Hague",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 6
+      },
+      {
+        "label": "Trinity",
+        "value": 9
+      },
+      {
+        "label": "Essex",
+        "value": 2
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Hampton",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 7
+      },
+      {
+        "label": "Chambly",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 4
+      },
+      {
+        "label": "Kimberley",
+        "value": 5
+      },
+      {
+        "label": "Fleming",
+        "value": 29
+      },
+      {
+        "label": "Hanover",
+        "value": 1
+      },
+      {
+        "label": "Melville",
+        "value": 8
+      },
+      {
+        "label": "Kensington",
+        "value": 1
+      },
+      {
+        "label": "Marathon",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1914,
+    "entries": [
+      {
+        "label": "Trail",
+        "value": 28
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Battleford",
+        "value": 13
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 84
+      },
+      {
+        "label": "London",
+        "value": 69
+      },
+      {
+        "label": "Calgary",
+        "value": 24
+      },
+      {
+        "label": "Raymond",
+        "value": 25
+      },
+      {
+        "label": "Cochrane",
+        "value": 20
+      },
+      {
+        "label": "Hepburn",
+        "value": 7
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Regina",
+        "value": 5
+      },
+      {
+        "label": "Edmonton",
+        "value": 8
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Middleton",
+        "value": 8
+      },
+      {
+        "label": "Winnipeg",
+        "value": 7
+      },
+      {
+        "label": "Quebec",
+        "value": 5
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Manitou",
+        "value": 6
+      },
+      {
+        "label": "Oxford",
+        "value": 5
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Erin",
+        "value": 1
+      },
+      {
+        "label": "Melville",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Princeton",
+        "value": 1
+      },
+      {
+        "label": "Wainwright",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Marathon",
+        "value": 1
+      },
+      {
+        "label": "Hampstead",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Millet",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1915,
+    "entries": [
+      {
+        "label": "Allan",
+        "value": 7
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 2
+      },
+      {
+        "label": "Shannon",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 3
+      },
+      {
+        "label": "Magog",
+        "value": 5
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 9
+      },
+      {
+        "label": "Mirabel",
+        "value": 5
+      },
+      {
+        "label": "Montreal",
+        "value": 27
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 2
+      },
+      {
+        "label": "Grimsby",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Summerside",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 11
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 33
+      },
+      {
+        "label": "Laval",
+        "value": 7
+      },
+      {
+        "label": "Gaspe",
+        "value": 8
+      },
+      {
+        "label": "Saguenay",
+        "value": 2
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1916,
+    "entries": [
+      {
+        "label": "Brandon",
+        "value": 87
+      },
+      {
+        "label": "Trail",
+        "value": 3
+      },
+      {
+        "label": "Montreal",
+        "value": 17
+      },
+      {
+        "label": "London",
+        "value": 40
+      },
+      {
+        "label": "Kingston",
+        "value": 13
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Deloraine",
+        "value": 5
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 9
+      },
+      {
+        "label": "Victoria",
+        "value": 3
+      },
+      {
+        "label": "Kensington",
+        "value": 2
+      },
+      {
+        "label": "Farnham",
+        "value": 4
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Leader",
+        "value": 2
+      },
+      {
+        "label": "Langham",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Maidstone",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Minto",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Manitou",
+        "value": 180
+      },
+      {
+        "label": "Hudson",
+        "value": 6
+      },
+      {
+        "label": "Winnipeg",
+        "value": 4
+      },
+      {
+        "label": "Quebec",
+        "value": 6
+      },
+      {
+        "label": "Lacombe",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Sarnia",
+        "value": 6
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Kyle",
+        "value": 6
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1917,
+    "entries": [
+      {
+        "label": "Ottawa",
+        "value": 3
+      },
+      {
+        "label": "Winnipeg",
+        "value": 3
+      },
+      {
+        "label": "Amos",
+        "value": 2
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 5
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Edmonton",
+        "value": 3
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Summerside",
+        "value": 3
+      },
+      {
+        "label": "Charlottetown",
+        "value": 7
+      },
+      {
+        "label": "Vancouver",
+        "value": 4
+      },
+      {
+        "label": "Russell",
+        "value": 16
+      },
+      {
+        "label": "Allan",
+        "value": 3
+      },
+      {
+        "label": "Magog",
+        "value": 8
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 8
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Morse",
+        "value": 18
+      },
+      {
+        "label": "Hudson",
+        "value": 6
+      },
+      {
+        "label": "Kensington",
+        "value": 2
+      },
+      {
+        "label": "Thorold",
+        "value": 2
+      },
+      {
+        "label": "Pelham",
+        "value": 7
+      },
+      {
+        "label": "LaSalle",
+        "value": 54
+      },
+      {
+        "label": "Thompson",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "timestamp": 1918,
+    "entries": [
+      {
+        "label": "Enderby",
+        "value": 30
+      },
+      {
+        "label": "London",
+        "value": 4
+      },
+      {
+        "label": "Macklin",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Greenwood",
+        "value": 11
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 1
+      },
+      {
+        "label": "Badger",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1919,
+    "entries": [
+      {
+        "label": "Trinity",
+        "value": 3
+      },
+      {
+        "label": "Winnipeg",
+        "value": 62
+      },
+      {
+        "label": "Toronto",
+        "value": 5
+      },
+      {
+        "label": "London",
+        "value": 28
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 3
+      },
+      {
+        "label": "Hudson",
+        "value": 12
+      },
+      {
+        "label": "Beresford",
+        "value": 1
+      },
+      {
+        "label": "Calgary",
+        "value": 12
+      },
+      {
+        "label": "Imperial",
+        "value": 16
+      },
+      {
+        "label": "Scott",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 9
+      },
+      {
+        "label": "Bassano",
+        "value": 1
+      },
+      {
+        "label": "Lethbridge",
+        "value": 1
+      },
+      {
+        "label": "Melville",
+        "value": 4
+      },
+      {
+        "label": "Banff",
+        "value": 6
+      },
+      {
+        "label": "Churchill",
+        "value": 3
+      },
+      {
+        "label": "Kenora",
+        "value": 2
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 5
+      },
+      {
+        "label": "Edmonton",
+        "value": 16
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 9
+      },
+      {
+        "label": "Hepburn",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 8
+      },
+      {
+        "label": "Athabasca",
+        "value": 8
+      },
+      {
+        "label": "Trail",
+        "value": 6
+      },
+      {
+        "label": "Unity",
+        "value": 1
+      },
+      {
+        "label": "Renfrew",
+        "value": 3
+      },
+      {
+        "label": "Welland",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 3
+      },
+      {
+        "label": "Oliver",
+        "value": 3
+      },
+      {
+        "label": "Warwick",
+        "value": 2
+      },
+      {
+        "label": "Macklin",
+        "value": 4
+      },
+      {
+        "label": "Kingsville",
+        "value": 1
+      },
+      {
+        "label": "Georgetown",
+        "value": 1
+      },
+      {
+        "label": "Leroy",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 9
+      },
+      {
+        "label": "Milton",
+        "value": 2
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      },
+      {
+        "label": "Mirabel",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "LaSalle",
+        "value": 9
+      },
+      {
+        "label": "Thorold",
+        "value": 49
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Dryden",
+        "value": 6
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 5
+      },
+      {
+        "label": "Watson",
+        "value": 3
+      },
+      {
+        "label": "Allan",
+        "value": 16
+      },
+      {
+        "label": "Killarney",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Richmond",
+        "value": 4
+      },
+      {
+        "label": "Lincoln",
+        "value": 15
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Oyen",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1920,
+    "entries": [
+      {
+        "label": "Trail",
+        "value": 3
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Creighton",
+        "value": 454
+      },
+      {
+        "label": "London",
+        "value": 41
+      },
+      {
+        "label": "Montreal",
+        "value": 31
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 10
+      },
+      {
+        "label": "Toronto",
+        "value": 56
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Cochrane",
+        "value": 4
+      },
+      {
+        "label": "Cobalt",
+        "value": 34
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Rossland",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Sturgis",
+        "value": 9
+      },
+      {
+        "label": "Morse",
+        "value": 2
+      },
+      {
+        "label": "Osler",
+        "value": 14
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Hearst",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 11
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 5
+      },
+      {
+        "label": "Lincoln",
+        "value": 3
+      },
+      {
+        "label": "Churchill",
+        "value": 7
+      },
+      {
+        "label": "Victoria",
+        "value": 20
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Hampstead",
+        "value": 1
+      },
+      {
+        "label": "Collingwood",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 19
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Essex",
+        "value": 2
+      },
+      {
+        "label": "Bedford",
+        "value": 3
+      },
+      {
+        "label": "Cornwall",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1921,
+    "entries": [
+      {
+        "label": "Oxford",
+        "value": 4
+      },
+      {
+        "label": "Sidney",
+        "value": 11
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 5
+      },
+      {
+        "label": "Ottawa",
+        "value": 5
+      },
+      {
+        "label": "Toronto",
+        "value": 22
+      },
+      {
+        "label": "London",
+        "value": 20
+      },
+      {
+        "label": "Hudson",
+        "value": 76
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Cornwall",
+        "value": 6
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Hepburn",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 95
+      },
+      {
+        "label": "Hampton",
+        "value": 9
+      },
+      {
+        "label": "Brandon",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 9
+      },
+      {
+        "label": "Lincoln",
+        "value": 18
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 3
+      },
+      {
+        "label": "Trail",
+        "value": 6
+      },
+      {
+        "label": "Oliver",
+        "value": 145
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Oyen",
+        "value": 1
+      },
+      {
+        "label": "Meadows",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Leroy",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 13
+      },
+      {
+        "label": "Vermilion",
+        "value": 1
+      },
+      {
+        "label": "Churchill",
+        "value": 4
+      },
+      {
+        "label": "Athabasca",
+        "value": 42
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 4
+      },
+      {
+        "label": "Tecumseh",
+        "value": 1
+      },
+      {
+        "label": "Temagami",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 10
+      },
+      {
+        "label": "Quebec",
+        "value": 9
+      },
+      {
+        "label": "Thompson",
+        "value": 14
+      },
+      {
+        "label": "Aurora",
+        "value": 3
+      },
+      {
+        "label": "Edmonton",
+        "value": 2
+      },
+      {
+        "label": "Selkirk",
+        "value": 2
+      },
+      {
+        "label": "Dawson",
+        "value": 3
+      },
+      {
+        "label": "Davidson",
+        "value": 2
+      },
+      {
+        "label": "Cabri",
+        "value": 1
+      },
+      {
+        "label": "Yellowknife",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Saskatoon",
+        "value": 2
+      },
+      {
+        "label": "Badger",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 3
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Souris",
+        "value": 6
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 2
+      },
+      {
+        "label": "Charlottetown",
+        "value": 28
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 3
+      },
+      {
+        "label": "Kitchener",
+        "value": 20
+      },
+      {
+        "label": "Asquith",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1922,
+    "entries": [
+      {
+        "label": "London",
+        "value": 12
+      },
+      {
+        "label": "Strasbourg",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Brooks",
+        "value": 3
+      },
+      {
+        "label": "LaSalle",
+        "value": 5
+      },
+      {
+        "label": "Thompson",
+        "value": 19
+      },
+      {
+        "label": "Melville",
+        "value": 14
+      },
+      {
+        "label": "Montreal",
+        "value": 25
+      },
+      {
+        "label": "Hudson",
+        "value": 2
+      },
+      {
+        "label": "Grimshaw",
+        "value": 7
+      },
+      {
+        "label": "Richelieu",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 5
+      },
+      {
+        "label": "Laval",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Alma",
+        "value": 3
+      },
+      {
+        "label": "Disraeli",
+        "value": 1
+      },
+      {
+        "label": "Beaupre",
+        "value": 3
+      },
+      {
+        "label": "Lourdes",
+        "value": 1
+      },
+      {
+        "label": "Fredericton",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Regina",
+        "value": 22
+      },
+      {
+        "label": "Estevan",
+        "value": 1
+      },
+      {
+        "label": "Arcola",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Souris",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Humboldt",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1923,
+    "entries": [
+      {
+        "label": "London",
+        "value": 73
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 7
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 9
+      },
+      {
+        "label": "Francis",
+        "value": 418
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Woodstock",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 1
+      },
+      {
+        "label": "Stratford",
+        "value": 1
+      },
+      {
+        "label": "Lawn",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Pembroke",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Hanover",
+        "value": 4
+      },
+      {
+        "label": "Kingston",
+        "value": 15
+      },
+      {
+        "label": "Granby",
+        "value": 1
+      },
+      {
+        "label": "Dryden",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 6
+      },
+      {
+        "label": "Richmond",
+        "value": 3
+      },
+      {
+        "label": "Trail",
+        "value": 3
+      },
+      {
+        "label": "Golden",
+        "value": 19
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Whitehorse",
+        "value": 1
+      },
+      {
+        "label": "Dawson",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 14
+      },
+      {
+        "label": "Oliver",
+        "value": 28
+      },
+      {
+        "label": "Summerside",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 3
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 4
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 22
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Leduc",
+        "value": 2
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1924,
+    "entries": [
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Francis",
+        "value": 9
+      },
+      {
+        "label": "Thompson",
+        "value": 9
+      },
+      {
+        "label": "Quesnel",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 5
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Gibbons",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 9
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Dawson",
+        "value": 41
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 48
+      },
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Brooks",
+        "value": 16
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Whitehorse",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Killarney",
+        "value": 1
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Raymond",
+        "value": 6
+      },
+      {
+        "label": "Gander",
+        "value": 143
+      },
+      {
+        "label": "Hamilton",
+        "value": 24
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Badger",
+        "value": 4
+      },
+      {
+        "label": "Winnipeg",
+        "value": 10
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 3
+      },
+      {
+        "label": "Watson",
+        "value": 3
+      },
+      {
+        "label": "Fairview",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 80
+      },
+      {
+        "label": "Waterloo",
+        "value": 9
+      },
+      {
+        "label": "Golden",
+        "value": 7
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1925,
+    "entries": [
+      {
+        "label": "London",
+        "value": 13
+      },
+      {
+        "label": "Stoughton",
+        "value": 2
+      },
+      {
+        "label": "Athabasca",
+        "value": 3
+      },
+      {
+        "label": "Wilkie",
+        "value": 38
+      },
+      {
+        "label": "Lincoln",
+        "value": 4
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Dawson",
+        "value": 4
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Hudson",
+        "value": 27
+      },
+      {
+        "label": "Montreal",
+        "value": 24
+      },
+      {
+        "label": "Greenwood",
+        "value": 2
+      },
+      {
+        "label": "Cartwright",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 209
+      },
+      {
+        "label": "Toronto",
+        "value": 3
+      },
+      {
+        "label": "Winnipeg",
+        "value": 19
+      },
+      {
+        "label": "Golden",
+        "value": 8
+      },
+      {
+        "label": "Windsor",
+        "value": 5
+      },
+      {
+        "label": "Waterloo",
+        "value": 3
+      },
+      {
+        "label": "Gimli",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 2
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Saskatoon",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 18
+      },
+      {
+        "label": "Rivers",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 7
+      },
+      {
+        "label": "Charlottetown",
+        "value": 12
+      },
+      {
+        "label": "Scott",
+        "value": 2
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 11
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Kipling",
+        "value": 5
+      },
+      {
+        "label": "Aylmer",
+        "value": 14
+      },
+      {
+        "label": "Carman",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 23
+      },
+      {
+        "label": "Herbert",
+        "value": 4
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 130
+      },
+      {
+        "label": "Laval",
+        "value": 26
+      },
+      {
+        "label": "Vermilion",
+        "value": 1
+      },
+      {
+        "label": "Carignan",
+        "value": 5
+      },
+      {
+        "label": "Dauphin",
+        "value": 6
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 2
+      },
+      {
+        "label": "Levis",
+        "value": 2
+      },
+      {
+        "label": "Lorraine",
+        "value": 2
+      },
+      {
+        "label": "Richelieu",
+        "value": 4
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Bashaw",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1926,
+    "entries": [
+      {
+        "label": "London",
+        "value": 44
+      },
+      {
+        "label": "Toronto",
+        "value": 10
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 10
+      },
+      {
+        "label": "Vernon",
+        "value": 224
+      },
+      {
+        "label": "Midland",
+        "value": 2
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Hamilton",
+        "value": 38
+      },
+      {
+        "label": "Imperial",
+        "value": 2
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 16
+      },
+      {
+        "label": "Quebec",
+        "value": 5
+      },
+      {
+        "label": "Duncan",
+        "value": 12
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Cornwall",
+        "value": 1
+      },
+      {
+        "label": "Sidney",
+        "value": 2
+      },
+      {
+        "label": "Herbert",
+        "value": 22
+      },
+      {
+        "label": "Vulcan",
+        "value": 1
+      },
+      {
+        "label": "Trenton",
+        "value": 3
+      },
+      {
+        "label": "Hudson",
+        "value": 11
+      },
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Oliver",
+        "value": 41
+      },
+      {
+        "label": "Thompson",
+        "value": 144
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Carman",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 10
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Kenora",
+        "value": 3
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Lorraine",
+        "value": 3
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Gander",
+        "value": 1009
+      },
+      {
+        "label": "Winnipeg",
+        "value": 8
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 6
+      },
+      {
+        "label": "Victoria",
+        "value": 3
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1927,
+    "entries": [
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Welland",
+        "value": 478
+      },
+      {
+        "label": "Viking",
+        "value": 5
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 31
+      },
+      {
+        "label": "Morse",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "Toronto",
+        "value": 23
+      },
+      {
+        "label": "Nelson",
+        "value": 31
+      },
+      {
+        "label": "Caledon",
+        "value": 2
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Amos",
+        "value": 55
+      },
+      {
+        "label": "Perth",
+        "value": 2
+      },
+      {
+        "label": "Aberdeen",
+        "value": 4
+      },
+      {
+        "label": "Paradise",
+        "value": 44
+      },
+      {
+        "label": "Oxford",
+        "value": 8
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Digby",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Davidson",
+        "value": 1
+      },
+      {
+        "label": "Berwick",
+        "value": 1
+      },
+      {
+        "label": "Badger",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 7
+      },
+      {
+        "label": "Quebec",
+        "value": 12
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 40
+      },
+      {
+        "label": "Golden",
+        "value": 11
+      },
+      {
+        "label": "Hudson",
+        "value": 20
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 30
+      },
+      {
+        "label": "Victoria",
+        "value": 18
+      },
+      {
+        "label": "Gladstone",
+        "value": 2
+      },
+      {
+        "label": "Winnipeg",
+        "value": 6
+      },
+      {
+        "label": "Outlook",
+        "value": 2
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      },
+      {
+        "label": "Wainwright",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 13
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 7
+      },
+      {
+        "label": "Milton",
+        "value": 2
+      },
+      {
+        "label": "Carlyle",
+        "value": 3
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Cudworth",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 15
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Gibbons",
+        "value": 1
+      },
+      {
+        "label": "McLennan",
+        "value": 53
+      },
+      {
+        "label": "Nanaimo",
+        "value": 12
+      },
+      {
+        "label": "Vancouver",
+        "value": 19
+      },
+      {
+        "label": "Duncan",
+        "value": 9
+      },
+      {
+        "label": "Langley",
+        "value": 5
+      },
+      {
+        "label": "Comox",
+        "value": 2
+      },
+      {
+        "label": "Thompson",
+        "value": 6
+      },
+      {
+        "label": "Kamloops",
+        "value": 5
+      },
+      {
+        "label": "Charlottetown",
+        "value": 12
+      },
+      {
+        "label": "Emerson",
+        "value": 8
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Aylmer",
+        "value": 5
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Revelstoke",
+        "value": 2
+      },
+      {
+        "label": "Banff",
+        "value": 1
+      },
+      {
+        "label": "Enderby",
+        "value": 2
+      },
+      {
+        "label": "Vernon",
+        "value": 7
+      },
+      {
+        "label": "Devon",
+        "value": 12
+      },
+      {
+        "label": "Penticton",
+        "value": 3
+      },
+      {
+        "label": "Greenwood",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1928,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 9
+      },
+      {
+        "label": "Viking",
+        "value": 4
+      },
+      {
+        "label": "London",
+        "value": 78
+      },
+      {
+        "label": "Quebec",
+        "value": 20
+      },
+      {
+        "label": "Montreal",
+        "value": 24
+      },
+      {
+        "label": "Watson",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Levis",
+        "value": 1
+      },
+      {
+        "label": "Digby",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 3
+      },
+      {
+        "label": "Imperial",
+        "value": 8
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Deloraine",
+        "value": 3
+      },
+      {
+        "label": "Berwick",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 7
+      },
+      {
+        "label": "Midland",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 6
+      },
+      {
+        "label": "Gaspé",
+        "value": 3
+      },
+      {
+        "label": "Winnipeg",
+        "value": 4
+      },
+      {
+        "label": "Paradise",
+        "value": 3
+      },
+      {
+        "label": "Wolseley",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Dryden",
+        "value": 1
+      },
+      {
+        "label": "Hampstead",
+        "value": 2
+      },
+      {
+        "label": "Elliston",
+        "value": 1
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Hanover",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 4
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Gibbons",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 7
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Richelieu",
+        "value": 4
+      },
+      {
+        "label": "Armstrong",
+        "value": 2
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Assiniboia",
+        "value": 1
+      },
+      {
+        "label": "Brandon",
+        "value": 9
+      },
+      {
+        "label": "Regina",
+        "value": 6
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 5
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Banff",
+        "value": 1
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1929,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 24
+      },
+      {
+        "label": "Montreal",
+        "value": 6
+      },
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Lethbridge",
+        "value": 1
+      },
+      {
+        "label": "Fleming",
+        "value": 3
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 12
+      },
+      {
+        "label": "Quebec",
+        "value": 7
+      },
+      {
+        "label": "London",
+        "value": 71
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 5
+      },
+      {
+        "label": "Terrace",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 59
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Rivers",
+        "value": 25
+      },
+      {
+        "label": "MacGregor",
+        "value": 8
+      },
+      {
+        "label": "Victoria",
+        "value": 22
+      },
+      {
+        "label": "Nelson",
+        "value": 6
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 4
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 7
+      },
+      {
+        "label": "Thompson",
+        "value": 36
+      },
+      {
+        "label": "Kamloops",
+        "value": 1
+      },
+      {
+        "label": "Banff",
+        "value": 10
+      },
+      {
+        "label": "Digby",
+        "value": 1
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 6
+      },
+      {
+        "label": "Lincoln",
+        "value": 7
+      },
+      {
+        "label": "Hanover",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Hamilton",
+        "value": 68
+      },
+      {
+        "label": "Govan",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 196
+      },
+      {
+        "label": "Newmarket",
+        "value": 2
+      },
+      {
+        "label": "Regina",
+        "value": 16
+      },
+      {
+        "label": "Ingersoll",
+        "value": 1
+      },
+      {
+        "label": "Melville",
+        "value": 20
+      },
+      {
+        "label": "Milton",
+        "value": 3
+      },
+      {
+        "label": "Stonewall",
+        "value": 2
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Vaughan",
+        "value": 24
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Morse",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 7
+      },
+      {
+        "label": "Morris",
+        "value": 3
+      },
+      {
+        "label": "Estevan",
+        "value": 1
+      },
+      {
+        "label": "Lorraine",
+        "value": 80
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 4
+      },
+      {
+        "label": "Georgina",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 14
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      },
+      {
+        "label": "Killarney",
+        "value": 2
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Carberry",
+        "value": 2
+      },
+      {
+        "label": "Summerside",
+        "value": 4
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      },
+      {
+        "label": "Burnaby",
+        "value": 1
+      },
+      {
+        "label": "Kearney",
+        "value": 34
+      },
+      {
+        "label": "Nanaimo",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Shannon",
+        "value": 13
+      }
+    ]
+  },
+  {
+    "timestamp": 1930,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Vaughan",
+        "value": 2
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 10
+      },
+      {
+        "label": "Bonaventure",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 18
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Lincoln",
+        "value": 13
+      },
+      {
+        "label": "Richmond",
+        "value": 6
+      },
+      {
+        "label": "Bedford",
+        "value": 1
+      },
+      {
+        "label": "Trail",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Shannon",
+        "value": 1
+      },
+      {
+        "label": "Middleton",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 1
+      },
+      {
+        "label": "Sunnyside",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 7
+      },
+      {
+        "label": "Dawson",
+        "value": 1
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Banff",
+        "value": 1
+      },
+      {
+        "label": "Oxbow",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 4
+      },
+      {
+        "label": "LaSalle",
+        "value": 4
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Ingersoll",
+        "value": 112
+      },
+      {
+        "label": "Gretna",
+        "value": 1
+      },
+      {
+        "label": "Manitou",
+        "value": 7
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Outlook",
+        "value": 1
+      },
+      {
+        "label": "Dover",
+        "value": 5
+      },
+      {
+        "label": "Penetanguishene",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Prevost",
+        "value": 2
+      },
+      {
+        "label": "Tecumseh",
+        "value": 31
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1931,
+    "entries": [
+      {
+        "label": "London",
+        "value": 61
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 12
+      },
+      {
+        "label": "Oxford",
+        "value": 65
+      },
+      {
+        "label": "Woodstock",
+        "value": 38
+      },
+      {
+        "label": "Hampton",
+        "value": 1
+      },
+      {
+        "label": "Huntingdon",
+        "value": 2
+      },
+      {
+        "label": "Russell",
+        "value": 4
+      },
+      {
+        "label": "Beaumont",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 5
+      },
+      {
+        "label": "Langley",
+        "value": 1
+      },
+      {
+        "label": "Courtenay",
+        "value": 2
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Devon",
+        "value": 17
+      },
+      {
+        "label": "Berwick",
+        "value": 1
+      },
+      {
+        "label": "Cornwall",
+        "value": 7
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Lincoln",
+        "value": 11
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 6
+      },
+      {
+        "label": "Windsor",
+        "value": 6
+      },
+      {
+        "label": "Stratford",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Trinity",
+        "value": 2
+      },
+      {
+        "label": "Fleming",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 3
+      },
+      {
+        "label": "Sussex",
+        "value": 6
+      },
+      {
+        "label": "Quebec",
+        "value": 7
+      },
+      {
+        "label": "Vaughan",
+        "value": 11
+      },
+      {
+        "label": "Scott",
+        "value": 1
+      },
+      {
+        "label": "Coronation",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 6
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Alma",
+        "value": 24
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      },
+      {
+        "label": "Vernon",
+        "value": 3
+      },
+      {
+        "label": "Leroy",
+        "value": 2
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Pembroke",
+        "value": 3
+      },
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Banff",
+        "value": 1
+      },
+      {
+        "label": "Bowden",
+        "value": 12
+      },
+      {
+        "label": "Hamilton",
+        "value": 4
+      },
+      {
+        "label": "Winnipeg",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      },
+      {
+        "label": "Meadows",
+        "value": 4
+      },
+      {
+        "label": "Dauphin",
+        "value": 1
+      },
+      {
+        "label": "Summerside",
+        "value": 6
+      },
+      {
+        "label": "Gibsons",
+        "value": 10
+      },
+      {
+        "label": "Ingersoll",
+        "value": 1
+      },
+      {
+        "label": "Charlottetown",
+        "value": 6
+      },
+      {
+        "label": "Digby",
+        "value": 2
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 2
+      },
+      {
+        "label": "Duncan",
+        "value": 13
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 2
+      },
+      {
+        "label": "Brockville",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1932,
+    "entries": [
+      {
+        "label": "Scott",
+        "value": 1025
+      },
+      {
+        "label": "London",
+        "value": 97
+      },
+      {
+        "label": "Aberdeen",
+        "value": 5
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 7
+      },
+      {
+        "label": "Berwick",
+        "value": 1
+      },
+      {
+        "label": "Abbotsford",
+        "value": 130
+      },
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 9
+      },
+      {
+        "label": "Milton",
+        "value": 3
+      },
+      {
+        "label": "Balcarres",
+        "value": 2
+      },
+      {
+        "label": "Holyrood",
+        "value": 3
+      },
+      {
+        "label": "Francis",
+        "value": 6
+      },
+      {
+        "label": "Southey",
+        "value": 15
+      },
+      {
+        "label": "Vernon",
+        "value": 8
+      },
+      {
+        "label": "Selkirk",
+        "value": 9
+      },
+      {
+        "label": "Fortune",
+        "value": 3
+      },
+      {
+        "label": "Melville",
+        "value": 12
+      },
+      {
+        "label": "Oxford",
+        "value": 11
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      },
+      {
+        "label": "Armstrong",
+        "value": 2
+      },
+      {
+        "label": "Leader",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 4
+      },
+      {
+        "label": "Deloraine",
+        "value": 2
+      },
+      {
+        "label": "Dryden",
+        "value": 12
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Coronach",
+        "value": 3
+      },
+      {
+        "label": "Fleming",
+        "value": 3
+      },
+      {
+        "label": "Hanover",
+        "value": 5
+      },
+      {
+        "label": "Beaumont",
+        "value": 1
+      },
+      {
+        "label": "Raleigh",
+        "value": 7
+      },
+      {
+        "label": "Duncan",
+        "value": 3
+      },
+      {
+        "label": "Davidson",
+        "value": 2
+      },
+      {
+        "label": "Hampstead",
+        "value": 1
+      },
+      {
+        "label": "Trinity",
+        "value": 1
+      },
+      {
+        "label": "Wilkie",
+        "value": 2
+      },
+      {
+        "label": "Montague",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Carlyle",
+        "value": 17
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Hepburn",
+        "value": 1
+      },
+      {
+        "label": "Stratford",
+        "value": 2
+      },
+      {
+        "label": "Sussex",
+        "value": 4
+      },
+      {
+        "label": "Provost",
+        "value": 3
+      },
+      {
+        "label": "MacGregor",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 2
+      },
+      {
+        "label": "Bathurst",
+        "value": 1
+      },
+      {
+        "label": "Middleton",
+        "value": 1
+      },
+      {
+        "label": "Disraeli",
+        "value": 2
+      },
+      {
+        "label": "Markham",
+        "value": 3
+      },
+      {
+        "label": "Woodstock",
+        "value": 2
+      },
+      {
+        "label": "Lincoln",
+        "value": 1
+      },
+      {
+        "label": "Hampton",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Perth",
+        "value": 4
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Midland",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Unity",
+        "value": 1
+      },
+      {
+        "label": "Coronation",
+        "value": 1
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Asquith",
+        "value": 1
+      },
+      {
+        "label": "Charlemagne",
+        "value": 2
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1933,
+    "entries": [
+      {
+        "label": "London",
+        "value": 63
+      },
+      {
+        "label": "Stoughton",
+        "value": 2
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Melfort",
+        "value": 45
+      },
+      {
+        "label": "Lorraine",
+        "value": 3
+      },
+      {
+        "label": "Milton",
+        "value": 2
+      },
+      {
+        "label": "Imperial",
+        "value": 5
+      },
+      {
+        "label": "Oxford",
+        "value": 5
+      },
+      {
+        "label": "Shannon",
+        "value": 5
+      },
+      {
+        "label": "Hudson",
+        "value": 13
+      },
+      {
+        "label": "Raymond",
+        "value": 5
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Hampden",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Amos",
+        "value": 84
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 2
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 12
+      },
+      {
+        "label": "Montreal",
+        "value": 37
+      },
+      {
+        "label": "Quebec",
+        "value": 9
+      },
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Rivers",
+        "value": 42
+      },
+      {
+        "label": "Beauharnois",
+        "value": 1
+      },
+      {
+        "label": "Aberdeen",
+        "value": 1
+      },
+      {
+        "label": "Laval",
+        "value": 8
+      },
+      {
+        "label": "Erin",
+        "value": 1
+      },
+      {
+        "label": "Shawinigan",
+        "value": 1
+      },
+      {
+        "label": "Alma",
+        "value": 13
+      },
+      {
+        "label": "Vaughan",
+        "value": 4
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Kyle",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 2
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Brantford",
+        "value": 1
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 5
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Sidney",
+        "value": 27
+      },
+      {
+        "label": "Charlottetown",
+        "value": 7
+      },
+      {
+        "label": "Summerside",
+        "value": 10
+      },
+      {
+        "label": "Gibsons",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 8
+      },
+      {
+        "label": "Bruno",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 2
+      },
+      {
+        "label": "Sutton",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 23
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Kitchener",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Carman",
+        "value": 1
+      },
+      {
+        "label": "Vernon",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1934,
+    "entries": [
+      {
+        "label": "London",
+        "value": 41
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Aberdeen",
+        "value": 3
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Berwick",
+        "value": 39
+      },
+      {
+        "label": "Oxford",
+        "value": 4
+      },
+      {
+        "label": "Cupar",
+        "value": 5
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 3
+      },
+      {
+        "label": "Georgina",
+        "value": 3
+      },
+      {
+        "label": "Brighton",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 11
+      },
+      {
+        "label": "Sussex",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 2
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Huntingdon",
+        "value": 9
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Melville",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Cobalt",
+        "value": 3
+      },
+      {
+        "label": "Mississauga",
+        "value": 7
+      },
+      {
+        "label": "Hudson",
+        "value": 4
+      },
+      {
+        "label": "Quebec",
+        "value": 12
+      },
+      {
+        "label": "Montreal",
+        "value": 4
+      },
+      {
+        "label": "Ottawa",
+        "value": 7
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Mattawa",
+        "value": 1
+      },
+      {
+        "label": "Unity",
+        "value": 2
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "timestamp": 1935,
+    "entries": [
+      {
+        "label": "London",
+        "value": 24
+      },
+      {
+        "label": "Stoughton",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Rothesay",
+        "value": 1
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 26
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Grimsby",
+        "value": 1
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Provost",
+        "value": 3
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Coronation",
+        "value": 3
+      },
+      {
+        "label": "Toronto",
+        "value": 6
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 26
+      },
+      {
+        "label": "Oromocto",
+        "value": 19
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Vaughan",
+        "value": 115
+      },
+      {
+        "label": "Devon",
+        "value": 2
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Golden",
+        "value": 3
+      },
+      {
+        "label": "Thompson",
+        "value": 2
+      },
+      {
+        "label": "Manitou",
+        "value": 3
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 3
+      },
+      {
+        "label": "Milton",
+        "value": 6
+      },
+      {
+        "label": "Glenwood",
+        "value": 2
+      },
+      {
+        "label": "Charlottetown",
+        "value": 13
+      },
+      {
+        "label": "Sutton",
+        "value": 4
+      },
+      {
+        "label": "Lorraine",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 7
+      },
+      {
+        "label": "Merritt",
+        "value": 2
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Carman",
+        "value": 2
+      },
+      {
+        "label": "Summerside",
+        "value": 6
+      },
+      {
+        "label": "Guelph",
+        "value": 5
+      },
+      {
+        "label": "Hamilton",
+        "value": 7
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1936,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Nelson",
+        "value": 24
+      },
+      {
+        "label": "Winnipeg",
+        "value": 13
+      },
+      {
+        "label": "Edmonton",
+        "value": 5
+      },
+      {
+        "label": "Brantford",
+        "value": 2
+      },
+      {
+        "label": "Cambridge",
+        "value": 3
+      },
+      {
+        "label": "Milton",
+        "value": 6
+      },
+      {
+        "label": "London",
+        "value": 52
+      },
+      {
+        "label": "Vernon",
+        "value": 3
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Fortune",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 8
+      },
+      {
+        "label": "Lourdes",
+        "value": 1
+      },
+      {
+        "label": "Woodstock",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Grimsby",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 7
+      },
+      {
+        "label": "Aylmer",
+        "value": 1
+      },
+      {
+        "label": "Viking",
+        "value": 9
+      },
+      {
+        "label": "Scott",
+        "value": 3
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 2
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 5
+      },
+      {
+        "label": "Hamilton",
+        "value": 30
+      },
+      {
+        "label": "Sussex",
+        "value": 2
+      },
+      {
+        "label": "Amos",
+        "value": 8
+      },
+      {
+        "label": "Aberdeen",
+        "value": 3
+      },
+      {
+        "label": "Colonsay",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 1
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Devon",
+        "value": 4
+      },
+      {
+        "label": "Alma",
+        "value": 31
+      },
+      {
+        "label": "Quebec",
+        "value": 4
+      },
+      {
+        "label": "Vaughan",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Saguenay",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 8
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Renfrew",
+        "value": 16
+      },
+      {
+        "label": "Bruno",
+        "value": 3
+      },
+      {
+        "label": "Morris",
+        "value": 1
+      },
+      {
+        "label": "Greenwood",
+        "value": 1
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 9
+      },
+      {
+        "label": "Calgary",
+        "value": 1
+      },
+      {
+        "label": "Summerside",
+        "value": 69
+      },
+      {
+        "label": "Lincoln",
+        "value": 2
+      },
+      {
+        "label": "Charlottetown",
+        "value": 10
+      },
+      {
+        "label": "Digby",
+        "value": 2
+      },
+      {
+        "label": "Georgina",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 2
+      },
+      {
+        "label": "Selkirk",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 1
+      },
+      {
+        "label": "Gibsons",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 1
+      },
+      {
+        "label": "Armstrong",
+        "value": 15
+      },
+      {
+        "label": "Raymond",
+        "value": 31
+      },
+      {
+        "label": "Thompson",
+        "value": 5
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1937,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 37
+      },
+      {
+        "label": "Quebec",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 121
+      },
+      {
+        "label": "Riverview",
+        "value": 1
+      },
+      {
+        "label": "Davidson",
+        "value": 37
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Meadows",
+        "value": 1
+      },
+      {
+        "label": "Georgetown",
+        "value": 1
+      },
+      {
+        "label": "Creighton",
+        "value": 7
+      },
+      {
+        "label": "Hanley",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 10
+      },
+      {
+        "label": "Legal",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 130
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Gaspé",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 13
+      },
+      {
+        "label": "Sackville",
+        "value": 3
+      },
+      {
+        "label": "Charlottetown",
+        "value": 10
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Summerside",
+        "value": 1
+      },
+      {
+        "label": "Campbellton",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 1
+      },
+      {
+        "label": "Cochrane",
+        "value": 53
+      },
+      {
+        "label": "Middleton",
+        "value": 58
+      },
+      {
+        "label": "Duncan",
+        "value": 32
+      },
+      {
+        "label": "Scott",
+        "value": 58
+      },
+      {
+        "label": "Thompson",
+        "value": 3
+      },
+      {
+        "label": "Perth",
+        "value": 1
+      },
+      {
+        "label": "Hamilton",
+        "value": 11
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Rothesay",
+        "value": 21
+      },
+      {
+        "label": "Gladstone",
+        "value": 2
+      },
+      {
+        "label": "Govan",
+        "value": 3
+      },
+      {
+        "label": "Assiniboia",
+        "value": 9
+      },
+      {
+        "label": "Midland",
+        "value": 1
+      },
+      {
+        "label": "Saltcoats",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1938,
+    "entries": [
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 18
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 2
+      },
+      {
+        "label": "London",
+        "value": 9
+      },
+      {
+        "label": "Scott",
+        "value": 59
+      },
+      {
+        "label": "Victoria",
+        "value": 6
+      },
+      {
+        "label": "Duncan",
+        "value": 9
+      },
+      {
+        "label": "Ottawa",
+        "value": 28
+      },
+      {
+        "label": "Dauphin",
+        "value": 2
+      },
+      {
+        "label": "Vancouver",
+        "value": 5
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 6
+      },
+      {
+        "label": "Montreal",
+        "value": 9
+      },
+      {
+        "label": "Beaumont",
+        "value": 7
+      },
+      {
+        "label": "Clermont",
+        "value": 5
+      },
+      {
+        "label": "Toronto",
+        "value": 9
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Emerson",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Lorraine",
+        "value": 1
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Dieppe",
+        "value": 1
+      },
+      {
+        "label": "Sherbrooke",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "timestamp": 1939,
+    "entries": [
+      {
+        "label": "Charlottetown",
+        "value": 18
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Magog",
+        "value": 3
+      },
+      {
+        "label": "MacGregor",
+        "value": 3
+      },
+      {
+        "label": "Montreal",
+        "value": 6
+      },
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Churchill",
+        "value": 29
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 9
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 2
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Bruno",
+        "value": 39
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Allan",
+        "value": 5
+      },
+      {
+        "label": "Dawson",
+        "value": 8
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 2
+      },
+      {
+        "label": "Carlyle",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1940,
+    "entries": [
+      {
+        "label": "London",
+        "value": 14
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Laval",
+        "value": 89
+      },
+      {
+        "label": "Bathurst",
+        "value": 9
+      },
+      {
+        "label": "Hamilton",
+        "value": 1
+      },
+      {
+        "label": "Bedford",
+        "value": 6
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1941,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 51
+      },
+      {
+        "label": "Grenfell",
+        "value": 1
+      },
+      {
+        "label": "Minto",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 4
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 29
+      },
+      {
+        "label": "Golden",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 9
+      },
+      {
+        "label": "Herbert",
+        "value": 16
+      },
+      {
+        "label": "Raymond",
+        "value": 4
+      },
+      {
+        "label": "Asquith",
+        "value": 3
+      },
+      {
+        "label": "Vernon",
+        "value": 4
+      },
+      {
+        "label": "Nelson",
+        "value": 2
+      },
+      {
+        "label": "Deloraine",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 1
+      },
+      {
+        "label": "Melfort",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 19
+      },
+      {
+        "label": "Newmarket",
+        "value": 1
+      },
+      {
+        "label": "Stonewall",
+        "value": 1
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Barrie",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 17
+      },
+      {
+        "label": "Montreal",
+        "value": 3
+      },
+      {
+        "label": "Hudson",
+        "value": 8
+      },
+      {
+        "label": "Coronation",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 2
+      },
+      {
+        "label": "Emerson",
+        "value": 1
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Delta",
+        "value": 1
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      },
+      {
+        "label": "Viking",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 3
+      },
+      {
+        "label": "Laval",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Provost",
+        "value": 1
+      },
+      {
+        "label": "Ottawa",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 10
+      },
+      {
+        "label": "Hanover",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Chandler",
+        "value": 5
+      },
+      {
+        "label": "Pelham",
+        "value": 1
+      },
+      {
+        "label": "Hanley",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "timestamp": 1942,
+    "entries": [
+      {
+        "label": "London",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 3
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 4
+      },
+      {
+        "label": "Morse",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 5
+      },
+      {
+        "label": "Gaspé",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1944,
+    "entries": [
+      {
+        "label": "London",
+        "value": 29
+      },
+      {
+        "label": "Brooks",
+        "value": 2
+      },
+      {
+        "label": "Quebec",
+        "value": 73
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 159
+      },
+      {
+        "label": "Montreal",
+        "value": 94
+      },
+      {
+        "label": "Scott",
+        "value": 2
+      },
+      {
+        "label": "Devon",
+        "value": 4
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Westmount",
+        "value": 10
+      },
+      {
+        "label": "Brockville",
+        "value": 2
+      },
+      {
+        "label": "Gatineau",
+        "value": 6
+      },
+      {
+        "label": "Sherbrooke",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 55
+      },
+      {
+        "label": "Ottawa",
+        "value": 25
+      },
+      {
+        "label": "Lachute",
+        "value": 1
+      },
+      {
+        "label": "Gaspé",
+        "value": 2
+      },
+      {
+        "label": "Toronto",
+        "value": 32
+      },
+      {
+        "label": "Windsor",
+        "value": 4
+      },
+      {
+        "label": "Provost",
+        "value": 1
+      },
+      {
+        "label": "Montréal",
+        "value": 1
+      },
+      {
+        "label": "Crabtree",
+        "value": 1
+      },
+      {
+        "label": "Petawawa",
+        "value": 7
+      },
+      {
+        "label": "Dieppe",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Farnham",
+        "value": 3
+      },
+      {
+        "label": "Vancouver",
+        "value": 48
+      },
+      {
+        "label": "Winnipeg",
+        "value": 20
+      },
+      {
+        "label": "Lincoln",
+        "value": 6
+      },
+      {
+        "label": "Assiniboia",
+        "value": 1
+      },
+      {
+        "label": "Watson",
+        "value": 7
+      },
+      {
+        "label": "Regina",
+        "value": 1
+      },
+      {
+        "label": "Calgary",
+        "value": 9
+      },
+      {
+        "label": "Edmonton",
+        "value": 1
+      },
+      {
+        "label": "Whitby",
+        "value": 9
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Cambridge",
+        "value": 1
+      },
+      {
+        "label": "Wainwright",
+        "value": 4
+      },
+      {
+        "label": "Paradise",
+        "value": 2
+      },
+      {
+        "label": "Thompson",
+        "value": 9
+      },
+      {
+        "label": "Trail",
+        "value": 6
+      },
+      {
+        "label": "Hudson",
+        "value": 10
+      },
+      {
+        "label": "Wolseley",
+        "value": 1
+      },
+      {
+        "label": "Pasadena",
+        "value": 6
+      },
+      {
+        "label": "Aberdeen",
+        "value": 2
+      },
+      {
+        "label": "Kipling",
+        "value": 2
+      },
+      {
+        "label": "Raleigh",
+        "value": 1
+      },
+      {
+        "label": "Vulcan",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1945,
+    "entries": [
+      {
+        "label": "London",
+        "value": 1
+      },
+      {
+        "label": "Enderby",
+        "value": 1
+      },
+      {
+        "label": "Amos",
+        "value": 9
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 1
+      },
+      {
+        "label": "Sutton",
+        "value": 3
+      },
+      {
+        "label": "Pelham",
+        "value": 29
+      },
+      {
+        "label": "Carlyle",
+        "value": 5
+      },
+      {
+        "label": "Vernon",
+        "value": 7
+      },
+      {
+        "label": "Gretna",
+        "value": 1
+      },
+      {
+        "label": "Watrous",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "timestamp": 1947,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Terrace",
+        "value": 5
+      },
+      {
+        "label": "London",
+        "value": 12
+      },
+      {
+        "label": "Montreal",
+        "value": 20
+      },
+      {
+        "label": "Quebec",
+        "value": 3
+      },
+      {
+        "label": "Windsor",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Yarmouth",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 58
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Scott",
+        "value": 7
+      },
+      {
+        "label": "Winnipeg",
+        "value": 4
+      },
+      {
+        "label": "Westmount",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Thompson",
+        "value": 9
+      },
+      {
+        "label": "Gladstone",
+        "value": 4
+      },
+      {
+        "label": "Vauxhall",
+        "value": 3
+      },
+      {
+        "label": "Huntingdon",
+        "value": 4
+      },
+      {
+        "label": "Surrey",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1949,
+    "entries": [
+      {
+        "label": "Toronto",
+        "value": 2
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Aurora",
+        "value": 3
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Fortune",
+        "value": 1
+      },
+      {
+        "label": "Québec",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "London",
+        "value": 26
+      },
+      {
+        "label": "Devon",
+        "value": 3
+      },
+      {
+        "label": "Quebec",
+        "value": 2
+      },
+      {
+        "label": "Vaughan",
+        "value": 17
+      },
+      {
+        "label": "Surrey",
+        "value": 2
+      },
+      {
+        "label": "Montreal",
+        "value": 19
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "timestamp": 1951,
+    "entries": [
+      {
+        "label": "London",
+        "value": 76
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 5
+      },
+      {
+        "label": "Belleville",
+        "value": 1
+      },
+      {
+        "label": "Kingston",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Armstrong",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 20
+      },
+      {
+        "label": "Fleming",
+        "value": 1
+      },
+      {
+        "label": "Georgina",
+        "value": 27
+      },
+      {
+        "label": "Midland",
+        "value": 2
+      },
+      {
+        "label": "Dover",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 3
+      },
+      {
+        "label": "Cambridge",
+        "value": 2
+      },
+      {
+        "label": "Herbert",
+        "value": 3
+      },
+      {
+        "label": "Francis",
+        "value": 3
+      },
+      {
+        "label": "Churchill",
+        "value": 4
+      },
+      {
+        "label": "Morris",
+        "value": 2
+      },
+      {
+        "label": "Hampden",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 2
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Terrace",
+        "value": 2
+      },
+      {
+        "label": "Burnaby",
+        "value": 1
+      },
+      {
+        "label": "Brighton",
+        "value": 1
+      },
+      {
+        "label": "Richelieu",
+        "value": 2
+      },
+      {
+        "label": "Dawson",
+        "value": 1
+      },
+      {
+        "label": "Winterton",
+        "value": 2
+      },
+      {
+        "label": "Hampton",
+        "value": 1
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Kipling",
+        "value": 1
+      },
+      {
+        "label": "Warwick",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1952,
+    "entries": [
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Paradise",
+        "value": 1
+      },
+      {
+        "label": "Castor",
+        "value": 17
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1953,
+    "entries": [
+      {
+        "label": "London",
+        "value": 11
+      },
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Oxford",
+        "value": 1
+      },
+      {
+        "label": "Vaughan",
+        "value": 13
+      },
+      {
+        "label": "Montreal",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      },
+      {
+        "label": "Triton",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1954,
+    "entries": [
+      {
+        "label": "London",
+        "value": 42
+      },
+      {
+        "label": "Watson",
+        "value": 1
+      },
+      {
+        "label": "Gladstone",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 2
+      },
+      {
+        "label": "Aurora",
+        "value": 1
+      },
+      {
+        "label": "Windsor",
+        "value": 2
+      },
+      {
+        "label": "Churchill",
+        "value": 7
+      },
+      {
+        "label": "Hampstead",
+        "value": 3
+      },
+      {
+        "label": "Richelieu",
+        "value": 1
+      },
+      {
+        "label": "Hampden",
+        "value": 1
+      },
+      {
+        "label": "Oxford",
+        "value": 14
+      },
+      {
+        "label": "Cambridge",
+        "value": 6
+      },
+      {
+        "label": "Collingwood",
+        "value": 12
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Milton",
+        "value": 5
+      },
+      {
+        "label": "Amos",
+        "value": 1
+      },
+      {
+        "label": "Strasbourg",
+        "value": 2
+      },
+      {
+        "label": "Waterloo",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 11
+      },
+      {
+        "label": "Quebec",
+        "value": 12
+      },
+      {
+        "label": "Montreal",
+        "value": 6
+      },
+      {
+        "label": "Coronation",
+        "value": 1
+      },
+      {
+        "label": "Cobalt",
+        "value": 1
+      },
+      {
+        "label": "Kirkland",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 3
+      },
+      {
+        "label": "Ottawa",
+        "value": 15
+      },
+      {
+        "label": "Vancouver",
+        "value": 3
+      },
+      {
+        "label": "Toronto",
+        "value": 8
+      },
+      {
+        "label": "Timmins",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 10
+      },
+      {
+        "label": "Brooks",
+        "value": 12
+      },
+      {
+        "label": "Victoria",
+        "value": 3
+      },
+      {
+        "label": "Essex",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Kensington",
+        "value": 1
+      },
+      {
+        "label": "Duncan",
+        "value": 2
+      },
+      {
+        "label": "Killarney",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1958,
+    "entries": [
+      {
+        "label": "Winnipeg",
+        "value": 6
+      },
+      {
+        "label": "Regina",
+        "value": 26
+      },
+      {
+        "label": "Oxbow",
+        "value": 1
+      },
+      {
+        "label": "Carnduff",
+        "value": 1
+      },
+      {
+        "label": "Cochrane",
+        "value": 1
+      },
+      {
+        "label": "Rivers",
+        "value": 13
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Edmonton",
+        "value": 2
+      },
+      {
+        "label": "Calgary",
+        "value": 6
+      },
+      {
+        "label": "Montreal",
+        "value": 2
+      },
+      {
+        "label": "Weyburn",
+        "value": 8
+      },
+      {
+        "label": "Souris",
+        "value": 2
+      },
+      {
+        "label": "Shaunavon",
+        "value": 2
+      },
+      {
+        "label": "Wapella",
+        "value": 4
+      },
+      {
+        "label": "Golden",
+        "value": 1
+      },
+      {
+        "label": "Russell",
+        "value": 1
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 1
+      },
+      {
+        "label": "Victoria",
+        "value": 4
+      },
+      {
+        "label": "Banff",
+        "value": 2
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1959,
+    "entries": [
+      {
+        "label": "Brooks",
+        "value": 1
+      },
+      {
+        "label": "Leader",
+        "value": 1
+      },
+      {
+        "label": "Imperial",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "timestamp": 1964,
+    "entries": [
+      {
+        "label": "Oxford",
+        "value": 3
+      },
+      {
+        "label": "London",
+        "value": 7
+      },
+      {
+        "label": "Milton",
+        "value": 1
+      },
+      {
+        "label": "Montreal",
+        "value": 1
+      },
+      {
+        "label": "Hudson",
+        "value": 1
+      },
+      {
+        "label": "Kyle",
+        "value": 56
+      },
+      {
+        "label": "Raymond",
+        "value": 1
+      },
+      {
+        "label": "Chandler",
+        "value": 1
+      },
+      {
+        "label": "Oliver",
+        "value": 1
+      },
+      {
+        "label": "Charlemagne",
+        "value": 1
+      },
+      {
+        "label": "Stonewall",
+        "value": 1
+      },
+      {
+        "label": "Winnipeg",
+        "value": 16
+      },
+      {
+        "label": "Gibbons",
+        "value": 2
+      },
+      {
+        "label": "Victoria",
+        "value": 1
+      },
+      {
+        "label": "Francis",
+        "value": 2
+      },
+      {
+        "label": "Ottawa",
+        "value": 4
+      },
+      {
+        "label": "Bruno",
+        "value": 1
+      },
+      {
+        "label": "Quebec",
+        "value": 4
+      },
+      {
+        "label": "Sussex",
+        "value": 3
+      },
+      {
+        "label": "Dieppe",
+        "value": 22
+      },
+      {
+        "label": "Nelson",
+        "value": 1
+      },
+      {
+        "label": "Herbert",
+        "value": 1
+      },
+      {
+        "label": "Lincoln",
+        "value": 5
+      },
+      {
+        "label": "Churchill",
+        "value": 1
+      },
+      {
+        "label": "Vancouver",
+        "value": 1
+      },
+      {
+        "label": "Barrie",
+        "value": 1
+      },
+      {
+        "label": "Wembley",
+        "value": 1
+      },
+      {
+        "label": "Sidney",
+        "value": 1
+      },
+      {
+        "label": "Toronto",
+        "value": 4
+      },
+      {
+        "label": "Waterloo",
+        "value": 2
+      },
+      {
+        "label": "Richmond",
+        "value": 1
+      }
+    ]
+  }
+]

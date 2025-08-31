@@ -1,0 +1,1610 @@
+[
+    {
+      "label": "quebec",
+      "value": 1165,
+      "coordinates": [
+        -71.207997,
+        46.813819
+      ]
+    },
+    {
+      "label": "montreal",
+      "value": 827,
+      "coordinates": [
+        -73.554077,
+        45.508822
+      ]
+    },
+    {
+      "label": "toronto",
+      "value": 780,
+      "coordinates": [
+        -79.3733,
+        43.7417
+      ]
+    },
+    {
+      "label": "ottawa",
+      "value": 423,
+      "coordinates": [
+        -75.58429,
+        45.33339
+      ]
+    },
+    {
+      "label": "winnipeg",
+      "value": 327,
+      "coordinates": [
+        -97.146389,
+        49.884444
+      ]
+    },
+    {
+      "label": "richmond",
+      "value": 299,
+      "coordinates": [
+        -123.163333,
+        49.163333
+      ]
+    },
+    {
+      "label": "vancouver",
+      "value": 292,
+      "coordinates": [
+        -123.113889,
+        49.261111
+      ]
+    },
+    {
+      "label": "vernon",
+      "value": 195,
+      "coordinates": [
+        -119.2713889,
+        50.2655556
+      ]
+    },
+    {
+      "label": "charlottetown",
+      "value": 194,
+      "coordinates": [
+        -56.1453,
+        52.7657222
+      ]
+    },
+    {
+      "label": "victoria",
+      "value": 143,
+      "coordinates": [
+        -123.364722,
+        48.428333
+      ]
+    },
+    {
+      "label": "berwick",
+      "value": 136,
+      "coordinates": [
+        -64.736095,
+        45.045743
+      ]
+    },
+    {
+      "label": "dawson",
+      "value": 113,
+      "coordinates": [
+        -139.431944,
+        64.06
+      ]
+    },
+    {
+      "label": "manitou",
+      "value": 107,
+      "coordinates": [
+        -98.536667,
+        49.240555
+      ]
+    },
+    {
+      "label": "cambridge",
+      "value": 99,
+      "coordinates": [
+        -80.311389,
+        43.397222
+      ]
+    },
+    {
+      "label": "edmonton",
+      "value": 77,
+      "coordinates": [
+        -113.4902778,
+        53.5344445
+      ]
+    },
+    {
+      "label": "athabasca",
+      "value": 70,
+      "coordinates": [
+        -113.2841667,
+        54.7166666
+      ]
+    },
+    {
+      "label": "regina",
+      "value": 69,
+      "coordinates": [
+        -104.6066083,
+        50.4548389
+      ]
+    },
+    {
+      "label": "abbotsford",
+      "value": 67,
+      "coordinates": [
+        -122.329167,
+        49.052222
+      ]
+    },
+    {
+      "label": "waterloo",
+      "value": 66,
+      "coordinates": [
+        -80.5411111,
+        43.4797222
+      ]
+    },
+    {
+      "label": "kingston",
+      "value": 61,
+      "coordinates": [
+        -76.4163888,
+        44.3066667
+      ]
+    },
+    {
+      "label": "woodstock",
+      "value": 61,
+      "coordinates": [
+        -80.7377778,
+        43.1372222
+      ]
+    },
+    {
+      "label": "radisson",
+      "value": 59,
+      "coordinates": [
+        -107.3954639,
+        52.4629417
+      ]
+    },
+    {
+      "label": "calgary",
+      "value": 56,
+      "coordinates": [
+        -114.0574999,
+        51.0458333
+      ]
+    },
+    {
+      "label": "summerside",
+      "value": 53,
+      "coordinates": [
+        -63.788889,
+        46.395833
+      ]
+    },
+    {
+      "label": "windsor",
+      "value": 48,
+      "coordinates": [
+        -72.005566,
+        45.569038
+      ]
+    },
+    {
+      "label": "thorold",
+      "value": 47,
+      "coordinates": [
+        -79.2233333,
+        43.0722222
+      ]
+    },
+    {
+      "label": "cornwall",
+      "value": 46,
+      "coordinates": [
+        -63.219444,
+        46.226389
+      ]
+    },
+    {
+      "label": "moncton",
+      "value": 40,
+      "coordinates": [
+        -64.799802,
+        46.099479
+      ]
+    },
+    {
+      "label": "welland",
+      "value": 39,
+      "coordinates": [
+        -79.22497,
+        42.99712
+      ]
+    },
+    {
+      "label": "kensington",
+      "value": 38,
+      "coordinates": [
+        -63.637353,
+        46.436664
+      ]
+    },
+    {
+      "label": "clermont",
+      "value": 36,
+      "coordinates": [
+        -70.225549,
+        47.694358
+      ]
+    },
+    {
+      "label": "dover",
+      "value": 30,
+      "coordinates": [
+        -53.9537778,
+        48.8869639
+      ]
+    },
+    {
+      "label": "huntingdon",
+      "value": 28,
+      "coordinates": [
+        -74.175302,
+        45.08738
+      ]
+    },
+    {
+      "label": "pelham",
+      "value": 27,
+      "coordinates": [
+        -79.33847,
+        43.04858
+      ]
+    },
+    {
+      "label": "surrey",
+      "value": 25,
+      "coordinates": [
+        -122.8275,
+        49.111667
+      ]
+    },
+    {
+      "label": "kipling",
+      "value": 25,
+      "coordinates": [
+        -102.6319944,
+        50.0980972
+      ]
+    },
+    {
+      "label": "st. lawrence",
+      "value": 23,
+      "coordinates": [
+        -55.404514,
+        46.907917
+      ]
+    },
+    {
+      "label": "nanaimo",
+      "value": 23,
+      "coordinates": [
+        -123.938056,
+        49.163889
+      ]
+    },
+    {
+      "label": "banff",
+      "value": 23,
+      "coordinates": [
+        -115.5736111,
+        51.1777778
+      ]
+    },
+    {
+      "label": "st. george",
+      "value": 22,
+      "coordinates": [
+        -66.820232,
+        45.132014
+      ]
+    },
+    {
+      "label": "aberdeen",
+      "value": 22,
+      "coordinates": [
+        -106.291511,
+        52.325536
+      ]
+    },
+    {
+      "label": "sussex",
+      "value": 21,
+      "coordinates": [
+        -65.510394,
+        45.723534
+      ]
+    },
+    {
+      "label": "perth",
+      "value": 20,
+      "coordinates": [
+        -76.25039,
+        44.89943
+      ]
+    },
+    {
+      "label": "brighton",
+      "value": 19,
+      "coordinates": [
+        -55.6432555,
+        49.5400695
+      ]
+    },
+    {
+      "label": "midland",
+      "value": 19,
+      "coordinates": [
+        -79.8836111,
+        44.7502777
+      ]
+    },
+    {
+      "label": "hartland",
+      "value": 19,
+      "coordinates": [
+        -67.5,
+        46.298611
+      ]
+    },
+    {
+      "label": "comox",
+      "value": 18,
+      "coordinates": [
+        -124.927778,
+        49.672778
+      ]
+    },
+    {
+      "label": "fort erie",
+      "value": 17,
+      "coordinates": [
+        -79.022,
+        42.92261
+      ]
+    },
+    {
+      "label": "devon",
+      "value": 17,
+      "coordinates": [
+        -113.7225,
+        53.3622223
+      ]
+    },
+    {
+      "label": "newmarket",
+      "value": 17,
+      "coordinates": [
+        -79.45835,
+        44.05794
+      ]
+    },
+    {
+      "label": "niagara falls",
+      "value": 17,
+      "coordinates": [
+        -79.10671,
+        43.06012
+      ]
+    },
+    {
+      "label": "amherst",
+      "value": 16,
+      "coordinates": [
+        -64.212968,
+        45.833392
+      ]
+    },
+    {
+      "label": "brockville",
+      "value": 16,
+      "coordinates": [
+        -75.6855,
+        44.59733
+      ]
+    },
+    {
+      "label": "stratford",
+      "value": 15,
+      "coordinates": [
+        -63.080833,
+        46.217778
+      ]
+    },
+    {
+      "label": "brantford",
+      "value": 14,
+      "coordinates": [
+        -80.2575,
+        43.1569444
+      ]
+    },
+    {
+      "label": "eastport",
+      "value": 12,
+      "coordinates": [
+        -53.7676278,
+        48.6646722
+      ]
+    },
+    {
+      "label": "battleford",
+      "value": 12,
+      "coordinates": [
+        -108.3152528,
+        52.7384556
+      ]
+    },
+    {
+      "label": "pembroke",
+      "value": 11,
+      "coordinates": [
+        -77.1111111,
+        45.8205556
+      ]
+    },
+    {
+      "label": "mahone bay",
+      "value": 11,
+      "coordinates": [
+        -64.377989,
+        44.446707
+      ]
+    },
+    {
+      "label": "markham",
+      "value": 11,
+      "coordinates": [
+        -79.2634,
+        43.87653
+      ]
+    },
+    {
+      "label": "saskatoon",
+      "value": 11,
+      "coordinates": [
+        -106.6861833,
+        52.13965
+      ]
+    },
+    {
+      "label": "stoughton",
+      "value": 11,
+      "coordinates": [
+        -103.0281278,
+        49.6773083
+      ]
+    },
+    {
+      "label": "beaumont",
+      "value": 10,
+      "coordinates": [
+        -113.4152778,
+        53.3525
+      ]
+    },
+    {
+      "label": "essex",
+      "value": 10,
+      "coordinates": [
+        -82.9008333,
+        42.0941666
+      ]
+    },
+    {
+      "label": "dauphin",
+      "value": 10,
+      "coordinates": [
+        -100.04944,
+        51.149444
+      ]
+    },
+    {
+      "label": "glenwood",
+      "value": 10,
+      "coordinates": [
+        -54.8820444,
+        48.9809139
+      ]
+    },
+    {
+      "label": "st. john's",
+      "value": 9,
+      "coordinates": [
+        -52.797069,
+        47.482197
+      ]
+    },
+    {
+      "label": "st. thomas",
+      "value": 9,
+      "coordinates": [
+        -81.1855555,
+        42.7808333
+      ]
+    },
+    {
+      "label": "new westminster",
+      "value": 9,
+      "coordinates": [
+        -122.910556,
+        49.206667
+      ]
+    },
+    {
+      "label": "westmount",
+      "value": 9,
+      "coordinates": [
+        -73.596749,
+        45.485499
+      ]
+    },
+    {
+      "label": "strasbourg",
+      "value": 8,
+      "coordinates": [
+        -104.9555028,
+        51.0702806
+      ]
+    },
+    {
+      "label": "peterborough",
+      "value": 7,
+      "coordinates": [
+        -78.3333334,
+        44.3011111
+      ]
+    },
+    {
+      "label": "warwick",
+      "value": 7,
+      "coordinates": [
+        -71.98918,
+        45.945791
+      ]
+    },
+    {
+      "label": "guelph",
+      "value": 7,
+      "coordinates": [
+        -80.229,
+        43.53571
+      ]
+    },
+    {
+      "label": "souris",
+      "value": 7,
+      "coordinates": [
+        -62.25164,
+        46.354462
+      ]
+    },
+    {
+      "label": "hampton",
+      "value": 7,
+      "coordinates": [
+        -65.854722,
+        45.528611
+      ]
+    },
+    {
+      "label": "gander",
+      "value": 7,
+      "coordinates": [
+        -54.588561,
+        48.957189
+      ]
+    },
+    {
+      "label": "fredericton",
+      "value": 6,
+      "coordinates": [
+        -66.666667,
+        45.945278
+      ]
+    },
+    {
+      "label": "yarmouth",
+      "value": 6,
+      "coordinates": [
+        -66.115223,
+        43.838654
+      ]
+    },
+    {
+      "label": "mississauga",
+      "value": 6,
+      "coordinates": [
+        -79.65711,
+        43.58566
+      ]
+    },
+    {
+      "label": "vaughan",
+      "value": 6,
+      "coordinates": [
+        -79.5354,
+        43.85281
+      ]
+    },
+    {
+      "label": "richelieu",
+      "value": 6,
+      "coordinates": [
+        -73.253369,
+        45.443291
+      ]
+    },
+    {
+      "label": "fort st. john",
+      "value": 6,
+      "coordinates": [
+        -120.846667,
+        56.2525
+      ]
+    },
+    {
+      "label": "bonaventure",
+      "value": 6,
+      "coordinates": [
+        -65.491191,
+        48.048946
+      ]
+    },
+    {
+      "label": "renfrew",
+      "value": 6,
+      "coordinates": [
+        -76.68282,
+        45.4732
+      ]
+    },
+    {
+      "label": "kamloops",
+      "value": 6,
+      "coordinates": [
+        -120.339444,
+        50.675833
+      ]
+    },
+    {
+      "label": "creighton",
+      "value": 6,
+      "coordinates": [
+        -101.898711,
+        54.75375
+      ]
+    },
+    {
+      "label": "prince george",
+      "value": 6,
+      "coordinates": [
+        -122.745278,
+        53.913056
+      ]
+    },
+    {
+      "label": "pasadena",
+      "value": 6,
+      "coordinates": [
+        -57.5684833,
+        49.0119334
+      ]
+    },
+    {
+      "label": "truro",
+      "value": 5,
+      "coordinates": [
+        -63.279847,
+        45.364959
+      ]
+    },
+    {
+      "label": "cobourg",
+      "value": 5,
+      "coordinates": [
+        -78.1647223,
+        43.9630555
+      ]
+    },
+    {
+      "label": "belleville",
+      "value": 5,
+      "coordinates": [
+        -77.3697222,
+        44.2566666
+      ]
+    },
+    {
+      "label": "humboldt",
+      "value": 5,
+      "coordinates": [
+        -105.1229806,
+        52.2019155
+      ]
+    },
+    {
+      "label": "hampstead",
+      "value": 5,
+      "coordinates": [
+        -73.633935,
+        45.478671
+      ]
+    },
+    {
+      "label": "saguenay",
+      "value": 5,
+      "coordinates": [
+        -71.062202,
+        48.428221
+      ]
+    },
+    {
+      "label": "gatineau",
+      "value": 5,
+      "coordinates": [
+        -75.710938,
+        45.427929
+      ]
+    },
+    {
+      "label": "kenora",
+      "value": 5,
+      "coordinates": [
+        -94.435,
+        49.8161111
+      ]
+    },
+    {
+      "label": "moose jaw",
+      "value": 5,
+      "coordinates": [
+        -105.5519522,
+        50.3934194
+      ]
+    },
+    {
+      "label": "milton",
+      "value": 4,
+      "coordinates": [
+        -79.9177778,
+        43.5055556
+      ]
+    },
+    {
+      "label": "hampden",
+      "value": 4,
+      "coordinates": [
+        -56.8816277,
+        49.5396389
+      ]
+    },
+    {
+      "label": "sackville",
+      "value": 4,
+      "coordinates": [
+        -64.385833,
+        45.918611
+      ]
+    },
+    {
+      "label": "brandon",
+      "value": 4,
+      "coordinates": [
+        -99.952222,
+        49.846944
+      ]
+    },
+    {
+      "label": "st. george's",
+      "value": 4,
+      "coordinates": [
+        -58.4943917,
+        48.4152861
+      ]
+    },
+    {
+      "label": "dalhousie",
+      "value": 4,
+      "coordinates": [
+        -66.390278,
+        48.048611
+      ]
+    },
+    {
+      "label": "st. catharines",
+      "value": 4,
+      "coordinates": [
+        -79.2533,
+        43.16544
+      ]
+    },
+    {
+      "label": "barrie",
+      "value": 4,
+      "coordinates": [
+        -79.67697,
+        44.37124
+      ]
+    },
+    {
+      "label": "penetanguishene",
+      "value": 4,
+      "coordinates": [
+        -79.9,
+        44.7838889
+      ]
+    },
+    {
+      "label": "scott",
+      "value": 4,
+      "coordinates": [
+        -108.8278556,
+        52.3655833
+      ]
+    },
+    {
+      "label": "assiniboia",
+      "value": 4,
+      "coordinates": [
+        -105.9886333,
+        49.6291139
+      ]
+    },
+    {
+      "label": "trenton",
+      "value": 4,
+      "coordinates": [
+        -62.639371,
+        45.61052
+      ]
+    },
+    {
+      "label": "carlyle",
+      "value": 4,
+      "coordinates": [
+        -102.2663556,
+        49.6353911
+      ]
+    },
+    {
+      "label": "farnham",
+      "value": 4,
+      "coordinates": [
+        -72.97691,
+        45.283663
+      ]
+    },
+    {
+      "label": "miramichi",
+      "value": 3,
+      "coordinates": [
+        -65.466667,
+        47.004167
+      ]
+    },
+    {
+      "label": "aylmer",
+      "value": 3,
+      "coordinates": [
+        -80.98261,
+        42.78257
+      ]
+    },
+    {
+      "label": "east gwillimbury",
+      "value": 3,
+      "coordinates": [
+        -79.4238889,
+        44.1391667
+      ]
+    },
+    {
+      "label": "oakville",
+      "value": 3,
+      "coordinates": [
+        -79.71378,
+        43.45649
+      ]
+    },
+    {
+      "label": "whitby",
+      "value": 3,
+      "coordinates": [
+        -78.9544445,
+        43.9325
+      ]
+    },
+    {
+      "label": "middleton",
+      "value": 3,
+      "coordinates": [
+        -65.068193,
+        44.942577
+      ]
+    },
+    {
+      "label": "hanover",
+      "value": 3,
+      "coordinates": [
+        -81.0233334,
+        44.1544445
+      ]
+    },
+    {
+      "label": "bedford",
+      "value": 3,
+      "coordinates": [
+        -72.987621,
+        45.120924
+      ]
+    },
+    {
+      "label": "magog",
+      "value": 3,
+      "coordinates": [
+        -72.146858,
+        45.264991
+      ]
+    },
+    {
+      "label": "faro",
+      "value": 3,
+      "coordinates": [
+        -133.3558333,
+        62.2263889
+      ]
+    },
+    {
+      "label": "lasalle",
+      "value": 3,
+      "coordinates": [
+        -83.0480556,
+        42.2252778
+      ]
+    },
+    {
+      "label": "kitchener",
+      "value": 3,
+      "coordinates": [
+        -80.4727778,
+        43.4186111
+      ]
+    },
+    {
+      "label": "melville",
+      "value": 3,
+      "coordinates": [
+        -102.8078417,
+        50.9304306
+      ]
+    },
+    {
+      "label": "shelburne",
+      "value": 2,
+      "coordinates": [
+        -65.323507,
+        43.763215
+      ]
+    },
+    {
+      "label": "lunenburg",
+      "value": 2,
+      "coordinates": [
+        -64.309529,
+        44.377896
+      ]
+    },
+    {
+      "label": "sherbrooke",
+      "value": 2,
+      "coordinates": [
+        -71.893171,
+        45.404047
+      ]
+    },
+    {
+      "label": "gladstone",
+      "value": 2,
+      "coordinates": [
+        -98.95,
+        50.225833
+      ]
+    },
+    {
+      "label": "caledon",
+      "value": 2,
+      "coordinates": [
+        -79.85901,
+        43.86605
+      ]
+    },
+    {
+      "label": "hamilton",
+      "value": 2,
+      "coordinates": [
+        -79.989444,
+        43.242778
+      ]
+    },
+    {
+      "label": "grimsby",
+      "value": 2,
+      "coordinates": [
+        -79.57266,
+        43.18584
+      ]
+    },
+    {
+      "label": "oshawa",
+      "value": 2,
+      "coordinates": [
+        -78.8572222,
+        43.9005555
+      ]
+    },
+    {
+      "label": "hudson",
+      "value": 2,
+      "coordinates": [
+        -74.143105,
+        45.458708
+      ]
+    },
+    {
+      "label": "mattawa",
+      "value": 2,
+      "coordinates": [
+        -78.70973,
+        46.31294
+      ]
+    },
+    {
+      "label": "brooks",
+      "value": 2,
+      "coordinates": [
+        -111.895,
+        50.567222
+      ]
+    },
+    {
+      "label": "mirabel",
+      "value": 2,
+      "coordinates": [
+        -74.002069,
+        45.663608
+      ]
+    },
+    {
+      "label": "fort macleod",
+      "value": 2,
+      "coordinates": [
+        -113.4041667,
+        49.7230555
+      ]
+    },
+    {
+      "label": "st. mary's",
+      "value": 2,
+      "coordinates": [
+        -53.5317416,
+        46.9135056
+      ]
+    },
+    {
+      "label": "georgetown",
+      "value": 2,
+      "coordinates": [
+        -62.532573,
+        46.182095
+      ]
+    },
+    {
+      "label": "prince albert",
+      "value": 2,
+      "coordinates": [
+        -105.760094,
+        53.199517
+      ]
+    },
+    {
+      "label": "lourdes",
+      "value": 2,
+      "coordinates": [
+        -59.001605,
+        48.647823
+      ]
+    },
+    {
+      "label": "whitehorse",
+      "value": 2,
+      "coordinates": [
+        -135.0560981,
+        60.7242144
+      ]
+    },
+    {
+      "label": "leduc",
+      "value": 2,
+      "coordinates": [
+        -113.5458333,
+        53.2666666
+      ]
+    },
+    {
+      "label": "lincoln",
+      "value": 2,
+      "coordinates": [
+        -79.4183334,
+        43.1527778
+      ]
+    },
+    {
+      "label": "greenwood",
+      "value": 2,
+      "coordinates": [
+        -118.676389,
+        49.088333
+      ]
+    },
+    {
+      "label": "grand rapids",
+      "value": 2,
+      "coordinates": [
+        -99.264722,
+        53.178333
+      ]
+    },
+    {
+      "label": "grand forks",
+      "value": 2,
+      "coordinates": [
+        -118.439167,
+        49.031111
+      ]
+    },
+    {
+      "label": "dryden",
+      "value": 2,
+      "coordinates": [
+        -92.7652777,
+        49.7833333
+      ]
+    },
+    {
+      "label": "selkirk",
+      "value": 2,
+      "coordinates": [
+        -96.883889,
+        50.143611
+      ]
+    },
+    {
+      "label": "rothesay",
+      "value": 2,
+      "coordinates": [
+        -65.968611,
+        45.380278
+      ]
+    },
+    {
+      "label": "govan",
+      "value": 2,
+      "coordinates": [
+        -104.9952194,
+        51.3107972
+      ]
+    },
+    {
+      "label": "pictou",
+      "value": 1,
+      "coordinates": [
+        -62.708861,
+        45.676017
+      ]
+    },
+    {
+      "label": "kirkland",
+      "value": 1,
+      "coordinates": [
+        -73.858888,
+        45.448435
+      ]
+    },
+    {
+      "label": "sunnyside",
+      "value": 1,
+      "coordinates": [
+        -53.9124861,
+        47.8710584
+      ]
+    },
+    {
+      "label": "pickering",
+      "value": 1,
+      "coordinates": [
+        -79.13097,
+        43.90688
+      ]
+    },
+    {
+      "label": "bathurst",
+      "value": 1,
+      "coordinates": [
+        -65.628333,
+        47.626111
+      ]
+    },
+    {
+      "label": "richmond hill",
+      "value": 1,
+      "coordinates": [
+        -79.4394444,
+        43.8747222
+      ]
+    },
+    {
+      "label": "leamington",
+      "value": 1,
+      "coordinates": [
+        -82.55906,
+        42.09535
+      ]
+    },
+    {
+      "label": "repentigny",
+      "value": 1,
+      "coordinates": [
+        -73.451286,
+        45.741966
+      ]
+    },
+    {
+      "label": "la sarre",
+      "value": 1,
+      "coordinates": [
+        -79.204761,
+        48.806816
+      ]
+    },
+    {
+      "label": "st. paul",
+      "value": 1,
+      "coordinates": [
+        -111.2961111,
+        53.9927777
+      ]
+    },
+    {
+      "label": "francis",
+      "value": 1,
+      "coordinates": [
+        -103.8662639,
+        50.1017036
+      ]
+    },
+    {
+      "label": "princeton",
+      "value": 1,
+      "coordinates": [
+        -120.507778,
+        49.460278
+      ]
+    },
+    {
+      "label": "fleming",
+      "value": 1,
+      "coordinates": [
+        -101.513095,
+        50.074729
+      ]
+    },
+    {
+      "label": "winnipeg beach",
+      "value": 1,
+      "coordinates": [
+        -96.974722,
+        50.499722
+      ]
+    },
+    {
+      "label": "raleigh",
+      "value": 1,
+      "coordinates": [
+        -55.7286111,
+        51.5588889
+      ]
+    },
+    {
+      "label": "enderby",
+      "value": 1,
+      "coordinates": [
+        -119.139444,
+        50.550556
+      ]
+    },
+    {
+      "label": "kimberley",
+      "value": 1,
+      "coordinates": [
+        -115.981667,
+        49.685
+      ]
+    },
+    {
+      "label": "duck lake",
+      "value": 1,
+      "coordinates": [
+        -106.2260528,
+        52.8121694
+      ]
+    },
+    {
+      "label": "fort saskatchewan",
+      "value": 1,
+      "coordinates": [
+        -113.2177778,
+        53.7111111
+      ]
+    },
+    {
+      "label": "alameda",
+      "value": 1,
+      "coordinates": [
+        -102.2870583,
+        49.2681464
+      ]
+    },
+    {
+      "label": "maidstone",
+      "value": 1,
+      "coordinates": [
+        -109.296441,
+        53.086122
+      ]
+    },
+    {
+      "label": "sarnia",
+      "value": 1,
+      "coordinates": [
+        -82.3177777,
+        42.9813889
+      ]
+    },
+    {
+      "label": "kingsville",
+      "value": 1,
+      "coordinates": [
+        -82.72962,
+        42.10368
+      ]
+    },
+    {
+      "label": "cobalt",
+      "value": 1,
+      "coordinates": [
+        -79.6805556,
+        47.3991667
+      ]
+    },
+    {
+      "label": "vermilion",
+      "value": 1,
+      "coordinates": [
+        -110.8527778,
+        53.3547222
+      ]
+    },
+    {
+      "label": "temagami",
+      "value": 1,
+      "coordinates": [
+        -79.7917297,
+        47.0640291
+      ]
+    },
+    {
+      "label": "granby",
+      "value": 1,
+      "coordinates": [
+        -72.722249,
+        45.398555
+      ]
+    },
+    {
+      "label": "fairview",
+      "value": 1,
+      "coordinates": [
+        -118.3841667,
+        56.0672222
+      ]
+    },
+    {
+      "label": "st. anthony",
+      "value": 1,
+      "coordinates": [
+        -55.616405,
+        51.374936
+      ]
+    },
+    {
+      "label": "rapid city",
+      "value": 1,
+      "coordinates": [
+        -100.03583,
+        50.120833
+      ]
+    },
+    {
+      "label": "revelstoke",
+      "value": 1,
+      "coordinates": [
+        -118.195833,
+        50.998889
+      ]
+    },
+    {
+      "label": "lethbridge",
+      "value": 1,
+      "coordinates": [
+        -112.8419444,
+        49.6936111
+      ]
+    },
+    {
+      "label": "north vancouver",
+      "value": 1,
+      "coordinates": [
+        -123.073889,
+        49.320556
+      ]
+    },
+    {
+      "label": "three hills",
+      "value": 1,
+      "coordinates": [
+        -113.2686111,
+        51.7030555
+      ]
+    },
+    {
+      "label": "coronach",
+      "value": 1,
+      "coordinates": [
+        -105.512175,
+        49.1088389
+      ]
+    },
+    {
+      "label": "holyrood",
+      "value": 1,
+      "coordinates": [
+        -53.1520305,
+        47.3458861
+      ]
+    },
+    {
+      "label": "beauharnois",
+      "value": 1,
+      "coordinates": [
+        -73.877952,
+        45.313216
+      ]
+    },
+    {
+      "label": "kyle",
+      "value": 1,
+      "coordinates": [
+        -108.0388583,
+        50.8305889
+      ]
+    },
+    {
+      "label": "davidson",
+      "value": 1,
+      "coordinates": [
+        -105.9859314,
+        51.2591611
+      ]
+    },
+    {
+      "label": "cupar",
+      "value": 1,
+      "coordinates": [
+        -104.2109556,
+        50.9466583
+      ]
+    },
+    {
+      "label": "lachute",
+      "value": 1,
+      "coordinates": [
+        -74.338846,
+        45.6558
+      ]
+    },
+    {
+      "label": "gretna",
+      "value": 1,
+      "coordinates": [
+        -97.561667,
+        49.007778
+      ]
+    },
+    {
+      "label": "québec",
+      "value": 1,
+      "coordinates": [
+        -71.207997,
+        46.813819
+      ]
+    },
+    {
+      "label": "kirkland lake",
+      "value": 1,
+      "coordinates": [
+        -80.0330556,
+        48.15
+      ]
+    },
+    {
+      "label": "timmins",
+      "value": 1,
+      "coordinates": [
+        -81.33132,
+        48.47153
+      ]
+    },
+    {
+      "label": "carnduff",
+      "value": 1,
+      "coordinates": [
+        -101.7973306,
+        49.174925
+      ]
+    },
+    {
+      "label": "shaunavon",
+      "value": 1,
+      "coordinates": [
+        -108.4159917,
+        49.6503486
+      ]
+    },
+    {
+      "label": "dieppe",
+      "value": 1,
+      "coordinates": [
+        -64.688611,
+        46.078333
+      ]
+    },
+    {
+      "label": "wembley",
+      "value": 1,
+      "coordinates": [
+        -119.1458333,
+        55.1555556
+      ]
+    }
+  ]
