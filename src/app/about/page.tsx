@@ -6,12 +6,11 @@ import Footer from "@/components/Footer";
 import AnimatedLineChart from '@/components/viz/common/AnimatedLineChart';
 import { AnimatedLineChartDataPoint } from '@/components/viz/common/types';
 import { BASE_PATH } from '@/lib/constants';
+import { BounceLoader } from 'react-spinners';
 
 export default function About() {
-    const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-
     const [booksCountData, setbooksCountData] = useState<AnimatedLineChartDataPoint[] | null>(null);
-    
+
     useEffect(() => {
         const fetchData = async () => {
             await fetch(`${BASE_PATH}/data/collected-book-counts-by-year.json`)
@@ -22,10 +21,7 @@ export default function About() {
 
         fetchData();
     }, []);
-    
-    const toggleSidebar = () => {
-        setIsSidebarOpen(!isSidebarOpen);
-    };
+
     return (
         <div className="flex flex-col h-screen w-screen overflow-hidden">
             <header className="sticky top-0 z-50">
@@ -47,11 +43,15 @@ export default function About() {
                         <b>All the used text are in public domain</b>.
                     </p>
                     <div className="flex flex-col h-[500] w-full p-1 md:p-4 bg-gray-50 rounded-xl shadow-lg justify-center items-center mt-8">
-                        <AnimatedLineChart 
-                            data={booksCountData as AnimatedLineChartDataPoint[]}
-                            xLabel="Year"
-                            yLabel="Number of Books"
-                            chartTitle="Collected Book Counts by Year (1769-1964)" />
+                        {booksCountData ?
+                            <AnimatedLineChart
+                                data={booksCountData as AnimatedLineChartDataPoint[]}
+                                xLabel="Year"
+                                yLabel="Number of Books"
+                                chartTitle="Collected Book Counts by Year (1769-1964)" />
+                            :
+                            <BounceLoader color="steelblue" speedMultiplier={1.5} />
+                        }
                     </div>
                 </div>
                 <Footer />
