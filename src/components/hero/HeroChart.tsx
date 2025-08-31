@@ -1,6 +1,8 @@
+'use client'
+
 import { PuffLoader } from "react-spinners";
 import { CanadaProvinceData, GeoHeatMapItem } from "../viz/common/types";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import AnimatedGeoHeatMap from "../viz/AnimatedGeoHeatMap";
 import { Topology } from 'topojson-specification';
 
@@ -8,9 +10,6 @@ const HeroChart = () => {
     const [data, setData] = useState<CanadaProvinceData | null>(null);
     const [geoHeatMapData, setGeoHeatMapData] = useState<GeoHeatMapItem[] | null>(null);
     const [topology, setTopology] = useState<Topology | null>(null);
-
-    const viewLgBreakpoint = 1024;
-    const viewXlBreakpoint = 1280;
 
     useEffect(() => {
         const fetchData = () => {
@@ -34,7 +33,7 @@ const HeroChart = () => {
         }
     }, [data]);
 
-    const handleProvinceClick = (province: string | null) => { }
+    const handleProvinceClick = (_: string | null) => { }
 
     return (
             <div className="h-full w-full flex flex-col items-center justify-center">

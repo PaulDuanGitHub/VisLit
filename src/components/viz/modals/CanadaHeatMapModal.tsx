@@ -1,3 +1,5 @@
+'use client'
+
 import { BounceLoader } from "react-spinners";
 import ModalTemplate from "../common/ModalTemplate";
 import { BarItem, CanadaProvinceData, GeoHeatMapItem } from "../common/types";
@@ -5,7 +7,6 @@ import React, { useEffect, useRef, useState } from "react";
 import AnimatedGeoHeatMap from "../AnimatedGeoHeatMap";
 import { Topology } from 'topojson-specification';
 import AnimatedBarPieChart from "../common/AnimatedBarPieChart";
-import { Switch } from "@headlessui/react";
 
 const CanadaHeatMapModal = () => {
     const [data, setData] = useState<CanadaProvinceData | null>(null);
@@ -18,8 +19,6 @@ const CanadaHeatMapModal = () => {
 
     const viewLgBreakpoint = 1024;
     const viewXlBreakpoint = 1280;
-
-    const mapTitle = "Canadian Literature Heat Map (1769-1964)";
 
     useEffect(() => {
         const fetchData = () => {

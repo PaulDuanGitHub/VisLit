@@ -28,7 +28,7 @@ export default function About() {
     return (
         <div className="flex flex-col h-screen w-screen overflow-hidden">
             <header className="sticky top-0 z-50">
-                <Header toggleSidebar={toggleSidebar}></Header>
+                <Header></Header>
             </header>
             <main className="relative bg-white overflow-auto">
                 <div className="mx-auto w-[60%] flex flex-col justify-normal bg-white p-10">

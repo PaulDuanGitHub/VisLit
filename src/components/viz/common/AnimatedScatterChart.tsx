@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 import { AnimatedScatterChartDataPoint } from '@/components/viz/common/types';
 import _ from 'lodash';

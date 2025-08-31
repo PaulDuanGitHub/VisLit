@@ -1,24 +1,13 @@
 'use client'
 
-import { Popover, PopoverButton, PopoverPanel, Transition, Button } from '@headlessui/react'
-import {
-    Bars3Icon,
-    XMarkIcon,
-} from '@heroicons/react/24/outline'
 import Link from 'next/link'
-import { useState } from 'react';
-import Sidebar from '@/components/Sidebar'
 
 const navigation = [
     { name: 'Home', href: '/' },
     { name: 'About', href: '/about' },
 ]
 
-interface HeaderProps {
-    toggleSidebar: () => void;
-}
-
-const Header: React.FC<HeaderProps> = ({ toggleSidebar }) => {
+const Header: React.FC = () => {
     return (
         <div className='px-10 h-15 bg-white shadow flex items-center justify-between'>
             <div className="flex-1 flex justify-start items-center text-3xl font-semibold">

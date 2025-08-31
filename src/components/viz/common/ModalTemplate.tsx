@@ -1,6 +1,5 @@
 'use client';
-import { Description, Dialog, DialogPanel, DialogTitle, DialogBackdrop } from '@headlessui/react'
-import { useState } from 'react'
+import { Dialog, DialogPanel, DialogTitle } from '@headlessui/react'
 import { motion, AnimatePresence } from "motion/react";
 import { XMarkIcon } from '@heroicons/react/24/outline';
 import { useRouter } from 'next/navigation';

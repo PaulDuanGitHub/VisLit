@@ -2,7 +2,6 @@
 
 import Link from "next/link";
 import { ChartTypeIconEnum, ChartTypeEnumToIconComponent } from "../ChartTypeIconMap";
-import Logo from "../../../public/icons/pie.svg";
 
 interface DashboardCardProps {
     title: string;

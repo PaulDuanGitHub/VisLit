@@ -1,3 +1,5 @@
+'use client'
+
 import { BounceLoader } from "react-spinners";
 import AnimatedLineChart from "../common/AnimatedLineChart";
 import ModalTemplate from "../common/ModalTemplate";

@@ -1,34 +1,25 @@
-"use client";
+import React from "react";
+import ModalClient from "./ModalClient";
 
-import AvgSentenceLength from "@/components/viz/modals/AvgSentenceLength";
-import AvgWordCountByYearModal from "@/components/viz/modals/AvgWordCountByYearModal"
-import CanadaHeatMapModal from "@/components/viz/modals/CanadaHeatMapModal";
-import FleschReadingEase from "@/components/viz/modals/FleschReadingEase";
-import SmogIndex from "@/components/viz/modals/SmogIndex";
-import TextStandard from "@/components/viz/modals/TextStandard";
-import TopWordsByYearModal from "@/components/viz/modals/TopWordsByYearModal"
-import { usePathname  } from "next/navigation";
+interface ModalPageProps {
+  params: Promise<{
+    id: string
+  }>
+}
 
-export default function VizModal() {
-  const router = usePathname();
-  const vizId = router.split('/').pop();
+export async function generateStaticParams() {
+  return [
+    { id: "changing-length-canadian-literature" },
+    { id: "most-common-word-canadian-literature" },
+    { id: "cities-in-canadian-literature" },
+    { id: "changing-sentence-length-canadian-literature" },
+    { id: "smog-index-canadian-literature" },
+    { id: "flesch-reading-ease-canadian-literature" },
+    { id: "avg-text-standard-by-year-canadian-literature" },
+  ];
+}
 
-  switch (vizId) {
-    case "changing-length-canadian-literature":
-     return <AvgWordCountByYearModal />
-    case "most-common-word-canadian-literature":
-      return <TopWordsByYearModal />
-    case "cities-in-canadian-literature":
-      return <CanadaHeatMapModal />
-    case "changing-sentence-length-canadian-literature":
-      return <AvgSentenceLength />
-    case "smog-index-canadian-literature":
-      return <SmogIndex />
-    case "flesch-reading-ease-canadian-literature":
-      return <FleschReadingEase />
-    case "avg-text-standard-by-year-canadian-literature":
-      return <TextStandard />
-    default:
-      return <></>
-  }
+export default async function ModalPage({ params }: ModalPageProps) {
+  const { id } = await params
+  return <ModalClient id={id} />
 }

@@ -4,9 +4,8 @@ import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { BarItem, PieItem } from '@/components/viz/common/types';
 import _ from 'lodash';
-import { Button, Switch } from '@headlessui/react';
+import { Button } from '@headlessui/react';
 import { ChartTypeIconEnum, ChartTypeEnumToIconComponent } from "@/components/ChartTypeIconMap";
-import { ChartBarIcon, ChartPieIcon } from '@heroicons/react/24/outline';
 
 interface AnimatedBarPieChartProps {
     data: BarItem[];

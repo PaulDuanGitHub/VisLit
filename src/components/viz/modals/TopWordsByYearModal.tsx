@@ -1,3 +1,5 @@
+'use client'
+
 import AnimatedRankingChart from "../common/AnimatedRankingChart";
 import ModalTemplate from "../common/ModalTemplate";
 import { useEffect, useState } from "react";

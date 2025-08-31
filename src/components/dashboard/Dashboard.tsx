@@ -3,10 +3,6 @@
 import DashboardCard, { DashboardCardProps } from "@/components/dashboard/DashboardCard";
 import { ChartTypeIconEnum } from "../ChartTypeIconMap";
 
-interface DashboardProps {
-
-}
-
 const dashboardCards: DashboardCardProps[] = [
     {
         title: "The Changing Length of Canadian Literature (1769-1964)",
@@ -52,7 +48,7 @@ const dashboardCards: DashboardCardProps[] = [
     }
 ]
 
-const Dashboard: React.FC<DashboardProps> = ({ }) => {
+const Dashboard: React.FC = () => {
     return (
         <div className="pb-50 flex w-full flex-col justify-start items-center bg-gray-100 transition-all duration-300 ease-in-out">
             <div className="flex flex-row max-w-[90%] flex-wrap justify-center gap-5 p-1 md:p-5">

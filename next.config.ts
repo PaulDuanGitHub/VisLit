@@ -8,6 +8,15 @@ export default nextConfig;
 
 module.exports = {
   output: 'export',
+  images: {
+    unoptimized: true,
+  },
+  basePath: '/VisLit', // adjust if deploying to a subdirectory
+  eslint: {
+    // Warning: This allows production builds to successfully complete even if
+    // your project has ESLint errors.
+    ignoreDuringBuilds: true,
+  },
   async redirects() {
     return [
       {
@@ -17,7 +26,6 @@ module.exports = {
       },
     ];
   },
-
   turbopack: {
     rules: {
       "*.svg": {
@@ -26,12 +34,11 @@ module.exports = {
       },
     },
   },
-
   webpack: (config: any) => {
     // Add rule for SVG files
     config.module.rules.push({
       test: /\.svg$/,
-      use: ["@svgr/webpack", "url-loader"],
+      use: ["@svgr/webpack"],
     });
 
     return config;

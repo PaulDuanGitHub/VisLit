@@ -1,11 +1,11 @@
 'use client';
-import React, { useRef, useEffect, useState } from 'react';
+
+import React, { useRef, useEffect } from 'react';
 import * as d3 from 'd3';
 import * as topojson from 'topojson-client';
-import { TopoJSON, GeometryCollection, Objects, Topology } from 'topojson-specification';
+import { Topology } from 'topojson-specification';
 import { Feature, FeatureCollection, GeoJsonProperties, Geometry } from 'geojson';
 import { GeoHeatMapItem } from './common/types';
-import { on } from 'events';
 
 interface GeoMapHeatMapProps {
     data: GeoHeatMapItem[];
