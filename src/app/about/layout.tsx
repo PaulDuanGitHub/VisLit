@@ -23,14 +23,10 @@ export default function AboutLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html>
-      <body>
         <div
             className={`${geistSans.variable} ${geistMono.variable} antialiased`}
           >
             {children}
           </div>
-      </body>
-    </html>
   );
 }

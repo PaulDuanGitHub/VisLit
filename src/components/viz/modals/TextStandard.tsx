@@ -54,7 +54,7 @@ const TextStandard = () => {
             subtitle="This chart shows the average text standards of Canadian literature works by year."
         >
             <div className="flex flex-col items-center justify-center">
-                <div className="flex flex-col h-[400] w-full p-1 md:p-4 bg-gray-50 rounded-xl shadow-lg justify-center items-center">
+                <div className="mb-4 flex flex-col h-[400] w-full p-1 md:p-4 bg-gray-50 rounded-xl shadow-lg justify-center items-center">
                     {data ?
                         <AnimatedLineChart
                             data={data as AnimatedLineChartDataPoint[]}
@@ -65,12 +65,18 @@ const TextStandard = () => {
                         <BounceLoader color="steelblue" speedMultiplier={1.5} />
                     }
                 </div>
-                {/* <div className="mb-4 flex justify-start w-full">
+                <div className="mb-4 w-full">
                     <h1 className="font-bold">Details</h1>
+                    This timeline traces how the average text standard (grade level) of published works evolved over time, reflecting shifts in literary style and narrative complexity as Canadian authors sought to capture the nation's diverse voices and stories. Each point represents the average text standard of literary works collected in that year, illustrating trends in the readability and accessibility of Canadian literature from 1769 to 1964.
                 </div>
-                <div className="mb-4 flex justify-start w-full">
-                    <h1 className="font-bold">Dataset download</h1>
-                </div> */}
+                <div className="mb-4 w-full">
+                    <h1 className="font-bold">Feature Extraction</h1>
+                    The Text Standard was computed by leveraging the Python Package <a href="https://pypi.org/project/textstat/" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline"><code>textstat</code></a>'s function <code className="">text_standard</code>. This package provides a straightforward way to analyze text and extract various readability metrics. The Text Standard indicates the U.S. school grade level required to comprehend the text. It is determined using a combination of factors and formulas<sup><a href="#reference" className="text-blue-500 underline">1</a></sup>.
+                </div>
+                <div className="mb-4 w-full text-sm text-gray-600">
+                    <h1 className="font-bold">Reference</h1>
+                    1. <a href="https://pypi.org/project/textstat/" target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">textstat</a>, PyPI.
+                </div>
             </div>
         </ModalTemplate>
     );

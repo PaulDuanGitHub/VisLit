@@ -88,7 +88,7 @@ const CanadaHeatMapModal = () => {
                 subtitle="1769–1964 · Across Canadian Cities"
             >
                 <div className="flex flex-col items-center justify-center">
-                    <div className="flex xl:flex-row flex-col xl:h-[500] gap-2 w-full justify-center items-center">
+                    <div className="mb-4 flex xl:flex-row flex-col xl:h-[500] gap-2 w-full justify-center items-center">
                         <div className="h-[500] xl:w-[55%] w-full p-1 md:p-4 bg-gray-50 rounded-xl shadow-lg flex justify-center items-center">
                             {data ?
                                 <AnimatedGeoHeatMap
@@ -131,12 +131,14 @@ const CanadaHeatMapModal = () => {
                             </div>
                         </div>
                     </div>
-                    {/* <div className="mb-4 flex justify-start w-full">
+                    <div className="mb-4 w-full">
                         <h1 className="font-bold">Details</h1>
+                        This map visualizes the cities mentioned in Canadian literature from 1769 to 1964, showcasing the geographical diversity and urban landscapes that shaped the nation’s literary narratives.
                     </div>
-                    <div className="mb-4 flex justify-start w-full">
-                        <h1 className="font-bold">Dataset download</h1>
-                    </div> */}
+                    <div className="mb-4 w-full">
+                        <h1 className="font-bold">Feature Extraction</h1>
+                        We utilized <code>spaCy</code>'s Named Entity Recognition (NER) with its <code>en_core_web_lg</code> model to identify and extract city names from the text corpus. The extracted city names were then mapped to their respective provinces in Canada. The frequency of mentions for each city was counted to determine its prominence in the literature, which is reflected in the heatmap intensity, pie chart and bar chart rankings.
+                    </div>
                 </div>
             </ModalTemplate>
         </div>

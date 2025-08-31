@@ -14,13 +14,6 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
@@ -31,6 +24,16 @@ body {
   font-family: sans-serif;
   font-size: 14px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 0.25rem;
+  border-radius: 4px;
+}
+
+.katex-html {
+  text-wrap: wrap;
 }
 
 svg.icon-white *:not(mask):not(mask *)[stroke] {
