@@ -11,20 +11,14 @@ module.exports = {
   images: {
     unoptimized: true,
   },
-  basePath: '/VisLit', // adjust if deploying to a subdirectory
+  basePath: '/VisLit',
+  publicRuntimeConfig: {
+    basePath: '/VisLit',
+  },
   eslint: {
     // Warning: This allows production builds to successfully complete even if
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
-  },
-  async redirects() {
-    return [
-      {
-        source: "/",
-        destination: "/dashboard",
-        permanent: true,
-      },
-    ];
   },
   turbopack: {
     rules: {

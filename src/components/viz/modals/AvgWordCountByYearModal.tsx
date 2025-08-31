@@ -5,13 +5,14 @@ import AnimatedLineChart from "../common/AnimatedLineChart";
 import ModalTemplate from "../common/ModalTemplate";
 import { AnimatedLineChartDataPoint } from "../common/types";
 import React, { useEffect, useState } from "react";
+import { BASE_PATH } from "@/lib/constants";
 
 const AvgWordCountByYearModal = () => {
     const [data, setData] = useState<AnimatedLineChartDataPoint[] | null>(null);
 
     useEffect(() => {
         const fetchData = async () => {
-            await fetch('/data/avg-word-count-by-year.json')
+            await fetch(`${BASE_PATH}/data/avg-word-count-by-year.json`)
                 .then(res => res.json())
                 .then(setData)
                 .catch(err => console.error('Failed to load JSON:', err));

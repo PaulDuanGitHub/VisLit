@@ -5,6 +5,7 @@ import { CanadaProvinceData, GeoHeatMapItem } from "../viz/common/types";
 import React, { useEffect, useState } from "react";
 import AnimatedGeoHeatMap from "../viz/AnimatedGeoHeatMap";
 import { Topology } from 'topojson-specification';
+import { BASE_PATH } from "@/lib/constants";
 
 const HeroChart = () => {
     const [data, setData] = useState<CanadaProvinceData | null>(null);
@@ -13,12 +14,12 @@ const HeroChart = () => {
 
     useEffect(() => {
         const fetchData = () => {
-            fetch('/data/city-count-by-province.json')
+            fetch(`${BASE_PATH}/data/city-count-by-province.json`)
                 .then(res => res.json())
                 .then(setData)
                 .catch(err => console.error('Failed to load JSON:', err));
 
-            fetch('/data/canada-provinces-0.1-tolerance.topojson')
+            fetch(`${BASE_PATH}/data/canada-provinces-0.1-tolerance.topojson`)
                 .then(res => res.json())
                 .then(setTopology)
                 .catch(err => console.error('Failed to load TopoJSON:', err));

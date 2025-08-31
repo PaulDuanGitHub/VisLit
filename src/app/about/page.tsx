@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import Footer from "@/components/Footer";
 import AnimatedLineChart from '@/components/viz/common/AnimatedLineChart';
 import { AnimatedLineChartDataPoint } from '@/components/viz/common/types';
+import { BASE_PATH } from '@/lib/constants';
 
 export default function About() {
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -13,7 +14,7 @@ export default function About() {
     
     useEffect(() => {
         const fetchData = async () => {
-            await fetch('/data/collected-book-counts-by-year.json')
+            await fetch(`${BASE_PATH}/data/collected-book-counts-by-year.json`)
                 .then(res => res.json())
                 .then(setbooksCountData)
                 .catch(err => console.error('Failed to load JSON:', err));

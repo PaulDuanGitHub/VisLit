@@ -5,12 +5,13 @@ import ModalTemplate from "../common/ModalTemplate";
 import { useEffect, useState } from "react";
 import { RankingSnapshot } from "../common/types";
 import { BounceLoader } from "react-spinners";
+import { BASE_PATH } from "@/lib/constants";
 
 export default function TopWordsByYearModal() {
     const [data, setData] = useState<RankingSnapshot[] | null>(null);
 
     useEffect(() => {
-        fetch('/data/top-words-by-year.json')
+        fetch(`${BASE_PATH}/data/top-words-by-year.json`)
             .then(res => res.json())
             .then(setData)
             .catch(err => console.error('Failed to load JSON:', err));

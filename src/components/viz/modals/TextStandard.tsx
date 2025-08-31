@@ -5,6 +5,7 @@ import ModalTemplate from "../common/ModalTemplate";
 import { AnimatedLineChartDataPoint } from "../common/types";
 import React, { useEffect, useState } from "react";
 import AnimatedLineChart from "../common/AnimatedLineChart";
+import { BASE_PATH } from "@/lib/constants";
 
 type TextStatType = {  
     title: string;
@@ -37,7 +38,7 @@ const TextStandard = () => {
 
     useEffect(() => {
         const fetchData = async () => {
-            await fetch('/data/text-stats.json')
+            await fetch(`${BASE_PATH}/data/text-stats.json`)
                 .then(res => res.json() as Promise<TextStatType[]>)
                 .then(textStats => calcAvgPerYear(textStats))
                 .then(setData)

@@ -5,6 +5,7 @@ import AnimatedScatterChart from "../common/AnimatedScatterChart";
 import ModalTemplate from "../common/ModalTemplate";
 import { AnimatedScatterChartDataPoint } from "../common/types";
 import React, { useEffect, useState } from "react";
+import { BASE_PATH } from "@/lib/constants";
 
 type TextStatType = {  
     title: string;
@@ -20,7 +21,7 @@ const FleschReadingEase = () => {
 
     useEffect(() => {
         const fetchData = async () => {
-            await fetch('/data/text-stats.json')
+            await fetch(`${BASE_PATH}/data/text-stats.json`)
                 .then(res => res.json() as Promise<TextStatType[]>)
                 .then(textStats => textStats.map(textStat => {
                     return {

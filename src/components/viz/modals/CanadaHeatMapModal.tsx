@@ -7,6 +7,7 @@ import React, { useEffect, useRef, useState } from "react";
 import AnimatedGeoHeatMap from "../AnimatedGeoHeatMap";
 import { Topology } from 'topojson-specification';
 import AnimatedBarPieChart from "../common/AnimatedBarPieChart";
+import { BASE_PATH } from "@/lib/constants";
 
 const CanadaHeatMapModal = () => {
     const [data, setData] = useState<CanadaProvinceData | null>(null);
@@ -22,12 +23,12 @@ const CanadaHeatMapModal = () => {
 
     useEffect(() => {
         const fetchData = () => {
-            fetch('/data/city-count-by-province.json')
+            fetch(`${BASE_PATH}/data/city-count-by-province.json`)
                 .then(res => res.json())
                 .then(setData)
                 .catch(err => console.error('Failed to load JSON:', err));
 
-            fetch('/data/canada-provinces-0.1-tolerance.topojson')
+            fetch(`${BASE_PATH}/data/canada-provinces-0.1-tolerance.topojson`)
                 .then(res => res.json())
                 .then(setTopology)
                 .catch(err => console.error('Failed to load TopoJSON:', err));
